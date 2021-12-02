@@ -1452,14 +1452,14 @@ Australia/South Pacific,Australia,NA,Brisbane,12,20,1998,79.7
 Australia/South Pacific,Australia,NA,Brisbane,12,21,1998,79
 Australia/South Pacific,Australia,NA,Brisbane,12,22,1998,72.1
 Australia/South Pacific,Australia,NA,Brisbane,12,23,1998,74.6
-Australia/South Pacific,Australia,NA,Brisbane,12,24,1998,-99
-Australia/South Pacific,Australia,NA,Brisbane,12,25,1998,-99
+Australia/South Pacific,Australia,NA,Brisbane,12,24,1998,NA
+Australia/South Pacific,Australia,NA,Brisbane,12,25,1998,NA
 Australia/South Pacific,Australia,NA,Brisbane,12,26,1998,78.1
 Australia/South Pacific,Australia,NA,Brisbane,12,27,1998,77.9
 Australia/South Pacific,Australia,NA,Brisbane,12,28,1998,78.2
 Australia/South Pacific,Australia,NA,Brisbane,12,29,1998,76.6
-Australia/South Pacific,Australia,NA,Brisbane,12,30,1998,-99
-Australia/South Pacific,Australia,NA,Brisbane,12,31,1998,-99
+Australia/South Pacific,Australia,NA,Brisbane,12,30,1998,NA
+Australia/South Pacific,Australia,NA,Brisbane,12,31,1998,NA
 Australia/South Pacific,Australia,NA,Brisbane,1,1,1999,70.7
 Australia/South Pacific,Australia,NA,Brisbane,1,2,1999,69.9
 Australia/South Pacific,Australia,NA,Brisbane,1,3,1999,75.3
@@ -1469,7 +1469,7 @@ Australia/South Pacific,Australia,NA,Brisbane,1,6,1999,76.1
 Australia/South Pacific,Australia,NA,Brisbane,1,7,1999,76
 Australia/South Pacific,Australia,NA,Brisbane,1,8,1999,76.8
 Australia/South Pacific,Australia,NA,Brisbane,1,9,1999,76.9
-Australia/South Pacific,Australia,NA,Brisbane,1,10,1999,-99
+Australia/South Pacific,Australia,NA,Brisbane,1,10,1999,NA
 Australia/South Pacific,Australia,NA,Brisbane,1,11,1999,78.6
 Australia/South Pacific,Australia,NA,Brisbane,1,12,1999,78.6
 Australia/South Pacific,Australia,NA,Brisbane,1,13,1999,79.1
@@ -2245,7 +2245,7 @@ Australia/South Pacific,Australia,NA,Brisbane,2,20,2001,72.5
 Australia/South Pacific,Australia,NA,Brisbane,2,21,2001,75
 Australia/South Pacific,Australia,NA,Brisbane,2,22,2001,76.6
 Australia/South Pacific,Australia,NA,Brisbane,2,23,2001,76.3
-Australia/South Pacific,Australia,NA,Brisbane,2,24,2001,-99
+Australia/South Pacific,Australia,NA,Brisbane,2,24,2001,NA
 Australia/South Pacific,Australia,NA,Brisbane,2,25,2001,75.9
 Australia/South Pacific,Australia,NA,Brisbane,2,26,2001,77.1
 Australia/South Pacific,Australia,NA,Brisbane,2,27,2001,79.1
@@ -2724,10 +2724,10 @@ Australia/South Pacific,Australia,NA,Brisbane,6,14,2002,53.2
 Australia/South Pacific,Australia,NA,Brisbane,6,15,2002,66.1
 Australia/South Pacific,Australia,NA,Brisbane,6,16,2002,69.6
 Australia/South Pacific,Australia,NA,Brisbane,6,17,2002,62
-Australia/South Pacific,Australia,NA,Brisbane,6,18,2002,-99
-Australia/South Pacific,Australia,NA,Brisbane,6,19,2002,-99
-Australia/South Pacific,Australia,NA,Brisbane,6,20,2002,-99
-Australia/South Pacific,Australia,NA,Brisbane,6,21,2002,-99
+Australia/South Pacific,Australia,NA,Brisbane,6,18,2002,NA
+Australia/South Pacific,Australia,NA,Brisbane,6,19,2002,NA
+Australia/South Pacific,Australia,NA,Brisbane,6,20,2002,NA
+Australia/South Pacific,Australia,NA,Brisbane,6,21,2002,NA
 Australia/South Pacific,Australia,NA,Brisbane,6,22,2002,55.5
 Australia/South Pacific,Australia,NA,Brisbane,6,23,2002,56.9
 Australia/South Pacific,Australia,NA,Brisbane,6,24,2002,59.5
@@ -2805,7 +2805,7 @@ Australia/South Pacific,Australia,NA,Brisbane,9,3,2002,66
 Australia/South Pacific,Australia,NA,Brisbane,9,4,2002,67.7
 Australia/South Pacific,Australia,NA,Brisbane,9,5,2002,68.9
 Australia/South Pacific,Australia,NA,Brisbane,9,6,2002,69.1
-Australia/South Pacific,Australia,NA,Brisbane,9,7,2002,-99
+Australia/South Pacific,Australia,NA,Brisbane,9,7,2002,NA
 Australia/South Pacific,Australia,NA,Brisbane,9,8,2002,64.2
 Australia/South Pacific,Australia,NA,Brisbane,9,9,2002,65.7
 Australia/South Pacific,Australia,NA,Brisbane,9,10,2002,65.9
@@ -2933,7 +2933,7 @@ Australia/South Pacific,Australia,NA,Brisbane,1,9,2003,74.9
 Australia/South Pacific,Australia,NA,Brisbane,1,10,2003,73
 Australia/South Pacific,Australia,NA,Brisbane,1,11,2003,73.3
 Australia/South Pacific,Australia,NA,Brisbane,1,12,2003,72.8
-Australia/South Pacific,Australia,NA,Brisbane,1,13,2003,-99
+Australia/South Pacific,Australia,NA,Brisbane,1,13,2003,NA
 Australia/South Pacific,Australia,NA,Brisbane,1,14,2003,74
 Australia/South Pacific,Australia,NA,Brisbane,1,15,2003,74.5
 Australia/South Pacific,Australia,NA,Brisbane,1,16,2003,74.3
@@ -2980,7 +2980,7 @@ Australia/South Pacific,Australia,NA,Brisbane,2,25,2003,76.9
 Australia/South Pacific,Australia,NA,Brisbane,2,26,2003,74.6
 Australia/South Pacific,Australia,NA,Brisbane,2,27,2003,75
 Australia/South Pacific,Australia,NA,Brisbane,2,28,2003,78
-Australia/South Pacific,Australia,NA,Brisbane,3,1,2003,-99
+Australia/South Pacific,Australia,NA,Brisbane,3,1,2003,NA
 Australia/South Pacific,Australia,NA,Brisbane,3,2,2003,69.2
 Australia/South Pacific,Australia,NA,Brisbane,3,3,2003,74
 Australia/South Pacific,Australia,NA,Brisbane,3,4,2003,74
@@ -3186,7 +3186,7 @@ Australia/South Pacific,Australia,NA,Brisbane,9,19,2003,66.3
 Australia/South Pacific,Australia,NA,Brisbane,9,20,2003,70.4
 Australia/South Pacific,Australia,NA,Brisbane,9,21,2003,68.5
 Australia/South Pacific,Australia,NA,Brisbane,9,22,2003,70.2
-Australia/South Pacific,Australia,NA,Brisbane,9,23,2003,-99
+Australia/South Pacific,Australia,NA,Brisbane,9,23,2003,NA
 Australia/South Pacific,Australia,NA,Brisbane,9,24,2003,70.6
 Australia/South Pacific,Australia,NA,Brisbane,9,25,2003,72.6
 Australia/South Pacific,Australia,NA,Brisbane,9,26,2003,71.2
@@ -4621,7 +4621,7 @@ Australia/South Pacific,Australia,NA,Brisbane,8,24,2007,61.5
 Australia/South Pacific,Australia,NA,Brisbane,8,25,2007,62.3
 Australia/South Pacific,Australia,NA,Brisbane,8,26,2007,63.1
 Australia/South Pacific,Australia,NA,Brisbane,8,27,2007,60.8
-Australia/South Pacific,Australia,NA,Brisbane,8,28,2007,-99
+Australia/South Pacific,Australia,NA,Brisbane,8,28,2007,NA
 Australia/South Pacific,Australia,NA,Brisbane,8,29,2007,61.9
 Australia/South Pacific,Australia,NA,Brisbane,8,30,2007,62.1
 Australia/South Pacific,Australia,NA,Brisbane,8,31,2007,63.6
@@ -4789,7 +4789,7 @@ Australia/South Pacific,Australia,NA,Brisbane,2,8,2008,76.9
 Australia/South Pacific,Australia,NA,Brisbane,2,9,2008,75.8
 Australia/South Pacific,Australia,NA,Brisbane,2,10,2008,72.9
 Australia/South Pacific,Australia,NA,Brisbane,2,11,2008,75.5
-Australia/South Pacific,Australia,NA,Brisbane,2,12,2008,-99
+Australia/South Pacific,Australia,NA,Brisbane,2,12,2008,NA
 Australia/South Pacific,Australia,NA,Brisbane,2,13,2008,77.5
 Australia/South Pacific,Australia,NA,Brisbane,2,14,2008,72.6
 Australia/South Pacific,Australia,NA,Brisbane,2,15,2008,73.2
@@ -4977,7 +4977,7 @@ Australia/South Pacific,Australia,NA,Brisbane,8,14,2008,57.4
 Australia/South Pacific,Australia,NA,Brisbane,8,15,2008,57.9
 Australia/South Pacific,Australia,NA,Brisbane,8,16,2008,58.1
 Australia/South Pacific,Australia,NA,Brisbane,8,17,2008,56.5
-Australia/South Pacific,Australia,NA,Brisbane,8,18,2008,-99
+Australia/South Pacific,Australia,NA,Brisbane,8,18,2008,NA
 Australia/South Pacific,Australia,NA,Brisbane,8,19,2008,55.4
 Australia/South Pacific,Australia,NA,Brisbane,8,20,2008,59.2
 Australia/South Pacific,Australia,NA,Brisbane,8,21,2008,61.6
@@ -5014,7 +5014,7 @@ Australia/South Pacific,Australia,NA,Brisbane,9,20,2008,70.1
 Australia/South Pacific,Australia,NA,Brisbane,9,21,2008,71.1
 Australia/South Pacific,Australia,NA,Brisbane,9,22,2008,69.5
 Australia/South Pacific,Australia,NA,Brisbane,9,23,2008,70.3
-Australia/South Pacific,Australia,NA,Brisbane,9,24,2008,-99
+Australia/South Pacific,Australia,NA,Brisbane,9,24,2008,NA
 Australia/South Pacific,Australia,NA,Brisbane,9,25,2008,65
 Australia/South Pacific,Australia,NA,Brisbane,9,26,2008,63.7
 Australia/South Pacific,Australia,NA,Brisbane,9,27,2008,64
@@ -5211,7 +5211,7 @@ Australia/South Pacific,Australia,NA,Brisbane,4,5,2009,73.7
 Australia/South Pacific,Australia,NA,Brisbane,4,6,2009,73.7
 Australia/South Pacific,Australia,NA,Brisbane,4,7,2009,70.4
 Australia/South Pacific,Australia,NA,Brisbane,4,8,2009,70
-Australia/South Pacific,Australia,NA,Brisbane,4,9,2009,-99
+Australia/South Pacific,Australia,NA,Brisbane,4,9,2009,NA
 Australia/South Pacific,Australia,NA,Brisbane,4,10,2009,70.3
 Australia/South Pacific,Australia,NA,Brisbane,4,11,2009,70.8
 Australia/South Pacific,Australia,NA,Brisbane,4,12,2009,72.7
@@ -6975,7 +6975,7 @@ Australia/South Pacific,Australia,NA,Brisbane,2,2,2014,75.9
 Australia/South Pacific,Australia,NA,Brisbane,2,3,2014,73.6
 Australia/South Pacific,Australia,NA,Brisbane,2,4,2014,76
 Australia/South Pacific,Australia,NA,Brisbane,2,5,2014,73.2
-Australia/South Pacific,Australia,NA,Brisbane,2,6,2014,-99
+Australia/South Pacific,Australia,NA,Brisbane,2,6,2014,NA
 Australia/South Pacific,Australia,NA,Brisbane,2,7,2014,74.5
 Australia/South Pacific,Australia,NA,Brisbane,2,8,2014,77
 Australia/South Pacific,Australia,NA,Brisbane,2,9,2014,76.8
@@ -7668,8 +7668,8 @@ Australia/South Pacific,Australia,NA,Brisbane,12,27,2015,75.3
 Australia/South Pacific,Australia,NA,Brisbane,12,28,2015,72.8
 Australia/South Pacific,Australia,NA,Brisbane,12,29,2015,71.7
 Australia/South Pacific,Australia,NA,Brisbane,12,30,2015,74.1
-Australia/South Pacific,Australia,NA,Brisbane,12,30,2015,-99
-Australia/South Pacific,Australia,NA,Brisbane,12,31,2015,-99
+Australia/South Pacific,Australia,NA,Brisbane,12,30,2015,NA
+Australia/South Pacific,Australia,NA,Brisbane,12,31,2015,NA
 Australia/South Pacific,Australia,NA,Brisbane,1,1,2016,73.1
 Australia/South Pacific,Australia,NA,Brisbane,1,2,2016,74.7
 Australia/South Pacific,Australia,NA,Brisbane,1,3,2016,71.8
@@ -7739,7 +7739,7 @@ Australia/South Pacific,Australia,NA,Brisbane,3,6,2016,77
 Australia/South Pacific,Australia,NA,Brisbane,3,7,2016,76.2
 Australia/South Pacific,Australia,NA,Brisbane,3,8,2016,77.1
 Australia/South Pacific,Australia,NA,Brisbane,3,9,2016,75.6
-Australia/South Pacific,Australia,NA,Brisbane,3,10,2016,-99
+Australia/South Pacific,Australia,NA,Brisbane,3,10,2016,NA
 Australia/South Pacific,Australia,NA,Brisbane,3,11,2016,77.9
 Australia/South Pacific,Australia,NA,Brisbane,3,12,2016,76.7
 Australia/South Pacific,Australia,NA,Brisbane,3,13,2016,77.4
@@ -7795,7 +7795,7 @@ Australia/South Pacific,Australia,NA,Brisbane,5,1,2016,69.8
 Australia/South Pacific,Australia,NA,Brisbane,5,2,2016,72.6
 Australia/South Pacific,Australia,NA,Brisbane,5,3,2016,71.7
 Australia/South Pacific,Australia,NA,Brisbane,5,4,2016,69.8
-Australia/South Pacific,Australia,NA,Brisbane,5,5,2016,-99
+Australia/South Pacific,Australia,NA,Brisbane,5,5,2016,NA
 Australia/South Pacific,Australia,NA,Brisbane,5,6,2016,69.4
 Australia/South Pacific,Australia,NA,Brisbane,5,7,2016,69.7
 Australia/South Pacific,Australia,NA,Brisbane,5,8,2016,71
@@ -7985,7 +7985,7 @@ Australia/South Pacific,Australia,NA,Brisbane,11,7,2016,76.5
 Australia/South Pacific,Australia,NA,Brisbane,11,8,2016,76.8
 Australia/South Pacific,Australia,NA,Brisbane,11,9,2016,76.4
 Australia/South Pacific,Australia,NA,Brisbane,11,10,2016,77.4
-Australia/South Pacific,Australia,NA,Brisbane,11,11,2016,-99
+Australia/South Pacific,Australia,NA,Brisbane,11,11,2016,NA
 Australia/South Pacific,Australia,NA,Brisbane,11,12,2016,76
 Australia/South Pacific,Australia,NA,Brisbane,11,13,2016,75.6
 Australia/South Pacific,Australia,NA,Brisbane,11,14,2016,73.4
@@ -8404,7 +8404,7 @@ Australia/South Pacific,Australia,NA,Brisbane,12,31,2017,80.4
 Australia/South Pacific,Australia,NA,Brisbane,1,1,2018,79.6
 Australia/South Pacific,Australia,NA,Brisbane,1,2,2018,76.4
 Australia/South Pacific,Australia,NA,Brisbane,1,3,2018,77.3
-Australia/South Pacific,Australia,NA,Brisbane,1,4,2018,-99
+Australia/South Pacific,Australia,NA,Brisbane,1,4,2018,NA
 Australia/South Pacific,Australia,NA,Brisbane,1,5,2018,77.8
 Australia/South Pacific,Australia,NA,Brisbane,1,6,2018,77.4
 Australia/South Pacific,Australia,NA,Brisbane,1,7,2018,78.1
@@ -8660,7 +8660,7 @@ Australia/South Pacific,Australia,NA,Brisbane,9,13,2018,66.2
 Australia/South Pacific,Australia,NA,Brisbane,9,14,2018,65.6
 Australia/South Pacific,Australia,NA,Brisbane,9,15,2018,68.9
 Australia/South Pacific,Australia,NA,Brisbane,9,16,2018,63.3
-Australia/South Pacific,Australia,NA,Brisbane,9,17,2018,-99
+Australia/South Pacific,Australia,NA,Brisbane,9,17,2018,NA
 Australia/South Pacific,Australia,NA,Brisbane,9,18,2018,60.1
 Australia/South Pacific,Australia,NA,Brisbane,9,19,2018,67.2
 Australia/South Pacific,Australia,NA,Brisbane,9,20,2018,64.8
@@ -8718,10 +8718,10 @@ Australia/South Pacific,Australia,NA,Brisbane,11,10,2018,71.1
 Australia/South Pacific,Australia,NA,Brisbane,11,11,2018,70.5
 Australia/South Pacific,Australia,NA,Brisbane,11,12,2018,70.6
 Australia/South Pacific,Australia,NA,Brisbane,11,13,2018,70.4
-Australia/South Pacific,Australia,NA,Brisbane,11,14,2018,-99
-Australia/South Pacific,Australia,NA,Brisbane,11,15,2018,-99
+Australia/South Pacific,Australia,NA,Brisbane,11,14,2018,NA
+Australia/South Pacific,Australia,NA,Brisbane,11,15,2018,NA
 Australia/South Pacific,Australia,NA,Brisbane,11,16,2018,76.1
-Australia/South Pacific,Australia,NA,Brisbane,11,17,2018,-99
+Australia/South Pacific,Australia,NA,Brisbane,11,17,2018,NA
 Australia/South Pacific,Australia,NA,Brisbane,11,18,2018,71.8
 Australia/South Pacific,Australia,NA,Brisbane,11,19,2018,72.1
 Australia/South Pacific,Australia,NA,Brisbane,11,20,2018,73.5
@@ -8788,7 +8788,7 @@ Australia/South Pacific,Australia,NA,Brisbane,1,19,2019,78.8
 Australia/South Pacific,Australia,NA,Brisbane,1,20,2019,80
 Australia/South Pacific,Australia,NA,Brisbane,1,21,2019,79.9
 Australia/South Pacific,Australia,NA,Brisbane,1,22,2019,79.6
-Australia/South Pacific,Australia,NA,Brisbane,1,23,2019,-99
+Australia/South Pacific,Australia,NA,Brisbane,1,23,2019,NA
 Australia/South Pacific,Australia,NA,Brisbane,1,24,2019,80.9
 Australia/South Pacific,Australia,NA,Brisbane,1,25,2019,80.3
 Australia/South Pacific,Australia,NA,Brisbane,1,26,2019,79.3
@@ -8879,7 +8879,7 @@ Australia/South Pacific,Australia,NA,Brisbane,4,20,2019,71.8
 Australia/South Pacific,Australia,NA,Brisbane,4,21,2019,70
 Australia/South Pacific,Australia,NA,Brisbane,4,22,2019,69.7
 Australia/South Pacific,Australia,NA,Brisbane,4,23,2019,70.8
-Australia/South Pacific,Australia,NA,Brisbane,4,24,2019,-99
+Australia/South Pacific,Australia,NA,Brisbane,4,24,2019,NA
 Australia/South Pacific,Australia,NA,Brisbane,4,25,2019,70
 Australia/South Pacific,Australia,NA,Brisbane,4,26,2019,69.4
 Australia/South Pacific,Australia,NA,Brisbane,4,27,2019,71.3
@@ -8901,10 +8901,10 @@ Australia/South Pacific,Australia,NA,Brisbane,5,12,2019,66.4
 Australia/South Pacific,Australia,NA,Brisbane,5,13,2019,67
 Australia/South Pacific,Australia,NA,Brisbane,5,14,2019,68
 Australia/South Pacific,Australia,NA,Brisbane,5,15,2019,68.4
-Australia/South Pacific,Australia,NA,Brisbane,5,16,2019,-99
-Australia/South Pacific,Australia,NA,Brisbane,5,17,2019,-99
-Australia/South Pacific,Australia,NA,Brisbane,5,18,2019,-99
-Australia/South Pacific,Australia,NA,Brisbane,5,19,2019,-99
+Australia/South Pacific,Australia,NA,Brisbane,5,16,2019,NA
+Australia/South Pacific,Australia,NA,Brisbane,5,17,2019,NA
+Australia/South Pacific,Australia,NA,Brisbane,5,18,2019,NA
+Australia/South Pacific,Australia,NA,Brisbane,5,19,2019,NA
 Australia/South Pacific,Australia,NA,Brisbane,5,20,2019,65.2
 Australia/South Pacific,Australia,NA,Brisbane,5,21,2019,64.7
 Australia/South Pacific,Australia,NA,Brisbane,5,22,2019,65.6
@@ -9131,140 +9131,6 @@ Australia/South Pacific,Australia,NA,Brisbane,12,28,2019,77.2
 Australia/South Pacific,Australia,NA,Brisbane,12,29,2019,77
 Australia/South Pacific,Australia,NA,Brisbane,12,30,2019,77.2
 Australia/South Pacific,Australia,NA,Brisbane,12,31,2019,77.8
-Australia/South Pacific,Australia,NA,Brisbane,1,1,2020,78.1
-Australia/South Pacific,Australia,NA,Brisbane,1,2,2020,78.2
-Australia/South Pacific,Australia,NA,Brisbane,1,3,2020,76.8
-Australia/South Pacific,Australia,NA,Brisbane,1,4,2020,77.3
-Australia/South Pacific,Australia,NA,Brisbane,1,5,2020,78.6
-Australia/South Pacific,Australia,NA,Brisbane,1,6,2020,78.5
-Australia/South Pacific,Australia,NA,Brisbane,1,7,2020,78.6
-Australia/South Pacific,Australia,NA,Brisbane,1,8,2020,78.9
-Australia/South Pacific,Australia,NA,Brisbane,1,9,2020,79.9
-Australia/South Pacific,Australia,NA,Brisbane,1,10,2020,80.6
-Australia/South Pacific,Australia,NA,Brisbane,1,11,2020,82.9
-Australia/South Pacific,Australia,NA,Brisbane,1,12,2020,75.5
-Australia/South Pacific,Australia,NA,Brisbane,1,13,2020,75.8
-Australia/South Pacific,Australia,NA,Brisbane,1,14,2020,76.9
-Australia/South Pacific,Australia,NA,Brisbane,1,15,2020,76.3
-Australia/South Pacific,Australia,NA,Brisbane,1,16,2020,76.4
-Australia/South Pacific,Australia,NA,Brisbane,1,17,2020,76.3
-Australia/South Pacific,Australia,NA,Brisbane,1,18,2020,76.6
-Australia/South Pacific,Australia,NA,Brisbane,1,19,2020,80.5
-Australia/South Pacific,Australia,NA,Brisbane,1,20,2020,81
-Australia/South Pacific,Australia,NA,Brisbane,1,21,2020,79.9
-Australia/South Pacific,Australia,NA,Brisbane,1,22,2020,82.5
-Australia/South Pacific,Australia,NA,Brisbane,1,23,2020,81.1
-Australia/South Pacific,Australia,NA,Brisbane,1,24,2020,82.1
-Australia/South Pacific,Australia,NA,Brisbane,1,25,2020,80.1
-Australia/South Pacific,Australia,NA,Brisbane,1,26,2020,79.5
-Australia/South Pacific,Australia,NA,Brisbane,1,27,2020,79.6
-Australia/South Pacific,Australia,NA,Brisbane,1,28,2020,80.1
-Australia/South Pacific,Australia,NA,Brisbane,1,29,2020,81.2
-Australia/South Pacific,Australia,NA,Brisbane,1,30,2020,80.6
-Australia/South Pacific,Australia,NA,Brisbane,1,31,2020,80.9
-Australia/South Pacific,Australia,NA,Brisbane,2,1,2020,80.1
-Australia/South Pacific,Australia,NA,Brisbane,2,2,2020,81.7
-Australia/South Pacific,Australia,NA,Brisbane,2,3,2020,82.3
-Australia/South Pacific,Australia,NA,Brisbane,2,4,2020,73.5
-Australia/South Pacific,Australia,NA,Brisbane,2,5,2020,72.1
-Australia/South Pacific,Australia,NA,Brisbane,2,6,2020,72.9
-Australia/South Pacific,Australia,NA,Brisbane,2,7,2020,77.4
-Australia/South Pacific,Australia,NA,Brisbane,2,8,2020,76
-Australia/South Pacific,Australia,NA,Brisbane,2,9,2020,75.8
-Australia/South Pacific,Australia,NA,Brisbane,2,10,2020,76.9
-Australia/South Pacific,Australia,NA,Brisbane,2,11,2020,78.1
-Australia/South Pacific,Australia,NA,Brisbane,2,12,2020,73.9
-Australia/South Pacific,Australia,NA,Brisbane,2,13,2020,73.6
-Australia/South Pacific,Australia,NA,Brisbane,2,14,2020,78.9
-Australia/South Pacific,Australia,NA,Brisbane,2,15,2020,81
-Australia/South Pacific,Australia,NA,Brisbane,2,16,2020,81.5
-Australia/South Pacific,Australia,NA,Brisbane,2,17,2020,80.1
-Australia/South Pacific,Australia,NA,Brisbane,2,18,2020,81.9
-Australia/South Pacific,Australia,NA,Brisbane,2,19,2020,80.9
-Australia/South Pacific,Australia,NA,Brisbane,2,20,2020,80.6
-Australia/South Pacific,Australia,NA,Brisbane,2,21,2020,79.7
-Australia/South Pacific,Australia,NA,Brisbane,2,22,2020,76.7
-Australia/South Pacific,Australia,NA,Brisbane,2,23,2020,73.6
-Australia/South Pacific,Australia,NA,Brisbane,2,24,2020,73.9
-Australia/South Pacific,Australia,NA,Brisbane,2,25,2020,76.3
-Australia/South Pacific,Australia,NA,Brisbane,2,26,2020,80.1
-Australia/South Pacific,Australia,NA,Brisbane,2,27,2020,75.5
-Australia/South Pacific,Australia,NA,Brisbane,2,28,2020,79.7
-Australia/South Pacific,Australia,NA,Brisbane,2,29,2020,77.4
-Australia/South Pacific,Australia,NA,Brisbane,3,1,2020,77.6
-Australia/South Pacific,Australia,NA,Brisbane,3,2,2020,79.5
-Australia/South Pacific,Australia,NA,Brisbane,3,3,2020,80.7
-Australia/South Pacific,Australia,NA,Brisbane,3,4,2020,80.4
-Australia/South Pacific,Australia,NA,Brisbane,3,5,2020,80.4
-Australia/South Pacific,Australia,NA,Brisbane,3,6,2020,79.2
-Australia/South Pacific,Australia,NA,Brisbane,3,7,2020,78.1
-Australia/South Pacific,Australia,NA,Brisbane,3,8,2020,76.6
-Australia/South Pacific,Australia,NA,Brisbane,3,9,2020,68.3
-Australia/South Pacific,Australia,NA,Brisbane,3,10,2020,70.7
-Australia/South Pacific,Australia,NA,Brisbane,3,11,2020,73.8
-Australia/South Pacific,Australia,NA,Brisbane,3,12,2020,67.9
-Australia/South Pacific,Australia,NA,Brisbane,3,13,2020,70.2
-Australia/South Pacific,Australia,NA,Brisbane,3,14,2020,71.4
-Australia/South Pacific,Australia,NA,Brisbane,3,15,2020,72.2
-Australia/South Pacific,Australia,NA,Brisbane,3,16,2020,71.4
-Australia/South Pacific,Australia,NA,Brisbane,3,17,2020,70.5
-Australia/South Pacific,Australia,NA,Brisbane,3,18,2020,71.5
-Australia/South Pacific,Australia,NA,Brisbane,3,19,2020,71.9
-Australia/South Pacific,Australia,NA,Brisbane,3,20,2020,72.8
-Australia/South Pacific,Australia,NA,Brisbane,3,21,2020,77.7
-Australia/South Pacific,Australia,NA,Brisbane,3,22,2020,76.9
-Australia/South Pacific,Australia,NA,Brisbane,3,23,2020,75.5
-Australia/South Pacific,Australia,NA,Brisbane,3,24,2020,71.5
-Australia/South Pacific,Australia,NA,Brisbane,3,25,2020,71.2
-Australia/South Pacific,Australia,NA,Brisbane,3,26,2020,73.7
-Australia/South Pacific,Australia,NA,Brisbane,3,27,2020,70.1
-Australia/South Pacific,Australia,NA,Brisbane,3,28,2020,72.9
-Australia/South Pacific,Australia,NA,Brisbane,3,29,2020,72.9
-Australia/South Pacific,Australia,NA,Brisbane,3,30,2020,74.8
-Australia/South Pacific,Australia,NA,Brisbane,3,31,2020,75.7
-Australia/South Pacific,Australia,NA,Brisbane,4,1,2020,75.5
-Australia/South Pacific,Australia,NA,Brisbane,4,2,2020,74.9
-Australia/South Pacific,Australia,NA,Brisbane,4,3,2020,77.3
-Australia/South Pacific,Australia,NA,Brisbane,4,4,2020,75.7
-Australia/South Pacific,Australia,NA,Brisbane,4,5,2020,71.7
-Australia/South Pacific,Australia,NA,Brisbane,4,6,2020,72.2
-Australia/South Pacific,Australia,NA,Brisbane,4,7,2020,72.4
-Australia/South Pacific,Australia,NA,Brisbane,4,8,2020,72.4
-Australia/South Pacific,Australia,NA,Brisbane,4,9,2020,72.1
-Australia/South Pacific,Australia,NA,Brisbane,4,10,2020,71
-Australia/South Pacific,Australia,NA,Brisbane,4,11,2020,75.1
-Australia/South Pacific,Australia,NA,Brisbane,4,12,2020,68.5
-Australia/South Pacific,Australia,NA,Brisbane,4,13,2020,68.5
-Australia/South Pacific,Australia,NA,Brisbane,4,14,2020,70.2
-Australia/South Pacific,Australia,NA,Brisbane,4,15,2020,69.7
-Australia/South Pacific,Australia,NA,Brisbane,4,16,2020,72.7
-Australia/South Pacific,Australia,NA,Brisbane,4,17,2020,76
-Australia/South Pacific,Australia,NA,Brisbane,4,18,2020,68.5
-Australia/South Pacific,Australia,NA,Brisbane,4,19,2020,65.8
-Australia/South Pacific,Australia,NA,Brisbane,4,20,2020,69
-Australia/South Pacific,Australia,NA,Brisbane,4,21,2020,71.6
-Australia/South Pacific,Australia,NA,Brisbane,4,22,2020,72.3
-Australia/South Pacific,Australia,NA,Brisbane,4,23,2020,70.5
-Australia/South Pacific,Australia,NA,Brisbane,4,24,2020,71.1
-Australia/South Pacific,Australia,NA,Brisbane,4,25,2020,69.9
-Australia/South Pacific,Australia,NA,Brisbane,4,26,2020,70.2
-Australia/South Pacific,Australia,NA,Brisbane,4,27,2020,72.7
-Australia/South Pacific,Australia,NA,Brisbane,4,28,2020,69.5
-Australia/South Pacific,Australia,NA,Brisbane,4,29,2020,69.8
-Australia/South Pacific,Australia,NA,Brisbane,4,30,2020,69.8
-Australia/South Pacific,Australia,NA,Brisbane,5,1,2020,62.4
-Australia/South Pacific,Australia,NA,Brisbane,5,2,2020,64.2
-Australia/South Pacific,Australia,NA,Brisbane,5,3,2020,63.8
-Australia/South Pacific,Australia,NA,Brisbane,5,4,2020,64.5
-Australia/South Pacific,Australia,NA,Brisbane,5,5,2020,66
-Australia/South Pacific,Australia,NA,Brisbane,5,6,2020,65.7
-Australia/South Pacific,Australia,NA,Brisbane,5,7,2020,65.6
-Australia/South Pacific,Australia,NA,Brisbane,5,8,2020,66.7
-Australia/South Pacific,Australia,NA,Brisbane,5,9,2020,69.9
-Australia/South Pacific,Australia,NA,Brisbane,5,10,2020,67.7
-Australia/South Pacific,Australia,NA,Brisbane,5,11,2020,62.6
-Australia/South Pacific,Australia,NA,Brisbane,5,12,2020,65.3
-Australia/South Pacific,Australia,NA,Brisbane,5,13,2020,72.4
 Australia/South Pacific,Australia,NA,Canberra,1,1,1995,72.4
 Australia/South Pacific,Australia,NA,Canberra,1,2,1995,57.6
 Australia/South Pacific,Australia,NA,Canberra,1,3,1995,62.7
@@ -9913,7 +9779,7 @@ Australia/South Pacific,Australia,NA,Canberra,10,6,1996,52.7
 Australia/South Pacific,Australia,NA,Canberra,10,7,1996,55
 Australia/South Pacific,Australia,NA,Canberra,10,8,1996,55.8
 Australia/South Pacific,Australia,NA,Canberra,10,9,1996,60.1
-Australia/South Pacific,Australia,NA,Canberra,10,10,1996,-99
+Australia/South Pacific,Australia,NA,Canberra,10,10,1996,NA
 Australia/South Pacific,Australia,NA,Canberra,10,11,1996,64.3
 Australia/South Pacific,Australia,NA,Canberra,10,12,1996,51.4
 Australia/South Pacific,Australia,NA,Canberra,10,13,1996,52.9
@@ -9991,7 +9857,7 @@ Australia/South Pacific,Australia,NA,Canberra,12,23,1996,71.3
 Australia/South Pacific,Australia,NA,Canberra,12,24,1996,79
 Australia/South Pacific,Australia,NA,Canberra,12,25,1996,71.5
 Australia/South Pacific,Australia,NA,Canberra,12,26,1996,60.1
-Australia/South Pacific,Australia,NA,Canberra,12,27,1996,-99
+Australia/South Pacific,Australia,NA,Canberra,12,27,1996,NA
 Australia/South Pacific,Australia,NA,Canberra,12,28,1996,59.9
 Australia/South Pacific,Australia,NA,Canberra,12,29,1996,62.2
 Australia/South Pacific,Australia,NA,Canberra,12,30,1996,58.6
@@ -10586,21 +10452,21 @@ Australia/South Pacific,Australia,NA,Canberra,8,10,1998,45.9
 Australia/South Pacific,Australia,NA,Canberra,8,11,1998,50.1
 Australia/South Pacific,Australia,NA,Canberra,8,12,1998,47.8
 Australia/South Pacific,Australia,NA,Canberra,8,13,1998,47.9
-Australia/South Pacific,Australia,NA,Canberra,8,14,1998,-99
+Australia/South Pacific,Australia,NA,Canberra,8,14,1998,NA
 Australia/South Pacific,Australia,NA,Canberra,8,15,1998,45.6
-Australia/South Pacific,Australia,NA,Canberra,8,16,1998,-99
+Australia/South Pacific,Australia,NA,Canberra,8,16,1998,NA
 Australia/South Pacific,Australia,NA,Canberra,8,17,1998,45.2
 Australia/South Pacific,Australia,NA,Canberra,8,18,1998,46
 Australia/South Pacific,Australia,NA,Canberra,8,19,1998,47.8
 Australia/South Pacific,Australia,NA,Canberra,8,20,1998,51.2
-Australia/South Pacific,Australia,NA,Canberra,8,21,1998,-99
+Australia/South Pacific,Australia,NA,Canberra,8,21,1998,NA
 Australia/South Pacific,Australia,NA,Canberra,8,22,1998,45.4
 Australia/South Pacific,Australia,NA,Canberra,8,23,1998,36
 Australia/South Pacific,Australia,NA,Canberra,8,24,1998,39.1
 Australia/South Pacific,Australia,NA,Canberra,8,25,1998,47.4
 Australia/South Pacific,Australia,NA,Canberra,8,26,1998,41.7
 Australia/South Pacific,Australia,NA,Canberra,8,27,1998,43.5
-Australia/South Pacific,Australia,NA,Canberra,8,28,1998,-99
+Australia/South Pacific,Australia,NA,Canberra,8,28,1998,NA
 Australia/South Pacific,Australia,NA,Canberra,8,29,1998,43.3
 Australia/South Pacific,Australia,NA,Canberra,8,30,1998,50.9
 Australia/South Pacific,Australia,NA,Canberra,8,31,1998,46.5
@@ -10609,7 +10475,7 @@ Australia/South Pacific,Australia,NA,Canberra,9,2,1998,51.6
 Australia/South Pacific,Australia,NA,Canberra,9,3,1998,57.8
 Australia/South Pacific,Australia,NA,Canberra,9,4,1998,54.2
 Australia/South Pacific,Australia,NA,Canberra,9,5,1998,41.8
-Australia/South Pacific,Australia,NA,Canberra,9,6,1998,-99
+Australia/South Pacific,Australia,NA,Canberra,9,6,1998,NA
 Australia/South Pacific,Australia,NA,Canberra,9,7,1998,44.6
 Australia/South Pacific,Australia,NA,Canberra,9,8,1998,50.7
 Australia/South Pacific,Australia,NA,Canberra,9,9,1998,53
@@ -10670,9 +10536,9 @@ Australia/South Pacific,Australia,NA,Canberra,11,2,1998,47
 Australia/South Pacific,Australia,NA,Canberra,11,3,1998,56.9
 Australia/South Pacific,Australia,NA,Canberra,11,4,1998,51.8
 Australia/South Pacific,Australia,NA,Canberra,11,5,1998,63.8
-Australia/South Pacific,Australia,NA,Canberra,11,6,1998,-99
-Australia/South Pacific,Australia,NA,Canberra,11,7,1998,-99
-Australia/South Pacific,Australia,NA,Canberra,11,8,1998,-99
+Australia/South Pacific,Australia,NA,Canberra,11,6,1998,NA
+Australia/South Pacific,Australia,NA,Canberra,11,7,1998,NA
+Australia/South Pacific,Australia,NA,Canberra,11,8,1998,NA
 Australia/South Pacific,Australia,NA,Canberra,11,9,1998,60.4
 Australia/South Pacific,Australia,NA,Canberra,11,10,1998,58.1
 Australia/South Pacific,Australia,NA,Canberra,11,11,1998,63.2
@@ -10680,7 +10546,7 @@ Australia/South Pacific,Australia,NA,Canberra,11,12,1998,61.4
 Australia/South Pacific,Australia,NA,Canberra,11,13,1998,57.1
 Australia/South Pacific,Australia,NA,Canberra,11,14,1998,61.7
 Australia/South Pacific,Australia,NA,Canberra,11,15,1998,61.8
-Australia/South Pacific,Australia,NA,Canberra,11,16,1998,-99
+Australia/South Pacific,Australia,NA,Canberra,11,16,1998,NA
 Australia/South Pacific,Australia,NA,Canberra,11,17,1998,54.6
 Australia/South Pacific,Australia,NA,Canberra,11,18,1998,46.3
 Australia/South Pacific,Australia,NA,Canberra,11,19,1998,44.5
@@ -10701,31 +10567,31 @@ Australia/South Pacific,Australia,NA,Canberra,12,3,1998,66.3
 Australia/South Pacific,Australia,NA,Canberra,12,4,1998,55.8
 Australia/South Pacific,Australia,NA,Canberra,12,5,1998,56.1
 Australia/South Pacific,Australia,NA,Canberra,12,6,1998,62.7
-Australia/South Pacific,Australia,NA,Canberra,12,7,1998,-99
+Australia/South Pacific,Australia,NA,Canberra,12,7,1998,NA
 Australia/South Pacific,Australia,NA,Canberra,12,8,1998,64.1
-Australia/South Pacific,Australia,NA,Canberra,12,9,1998,-99
+Australia/South Pacific,Australia,NA,Canberra,12,9,1998,NA
 Australia/South Pacific,Australia,NA,Canberra,12,10,1998,71.4
 Australia/South Pacific,Australia,NA,Canberra,12,11,1998,76.4
 Australia/South Pacific,Australia,NA,Canberra,12,12,1998,76.1
-Australia/South Pacific,Australia,NA,Canberra,12,13,1998,-99
+Australia/South Pacific,Australia,NA,Canberra,12,13,1998,NA
 Australia/South Pacific,Australia,NA,Canberra,12,14,1998,64.1
 Australia/South Pacific,Australia,NA,Canberra,12,15,1998,60
 Australia/South Pacific,Australia,NA,Canberra,12,16,1998,63.3
 Australia/South Pacific,Australia,NA,Canberra,12,17,1998,71
-Australia/South Pacific,Australia,NA,Canberra,12,18,1998,-99
+Australia/South Pacific,Australia,NA,Canberra,12,18,1998,NA
 Australia/South Pacific,Australia,NA,Canberra,12,19,1998,65.4
 Australia/South Pacific,Australia,NA,Canberra,12,20,1998,61.6
 Australia/South Pacific,Australia,NA,Canberra,12,21,1998,61
 Australia/South Pacific,Australia,NA,Canberra,12,22,1998,64.4
 Australia/South Pacific,Australia,NA,Canberra,12,23,1998,62.9
-Australia/South Pacific,Australia,NA,Canberra,12,24,1998,-99
-Australia/South Pacific,Australia,NA,Canberra,12,25,1998,-99
+Australia/South Pacific,Australia,NA,Canberra,12,24,1998,NA
+Australia/South Pacific,Australia,NA,Canberra,12,25,1998,NA
 Australia/South Pacific,Australia,NA,Canberra,12,26,1998,55.9
 Australia/South Pacific,Australia,NA,Canberra,12,27,1998,56.7
 Australia/South Pacific,Australia,NA,Canberra,12,28,1998,64.1
 Australia/South Pacific,Australia,NA,Canberra,12,29,1998,65.4
-Australia/South Pacific,Australia,NA,Canberra,12,30,1998,-99
-Australia/South Pacific,Australia,NA,Canberra,12,31,1998,-99
+Australia/South Pacific,Australia,NA,Canberra,12,30,1998,NA
+Australia/South Pacific,Australia,NA,Canberra,12,31,1998,NA
 Australia/South Pacific,Australia,NA,Canberra,1,1,1999,70.6
 Australia/South Pacific,Australia,NA,Canberra,1,2,1999,74.2
 Australia/South Pacific,Australia,NA,Canberra,1,3,1999,80.9
@@ -10735,7 +10601,7 @@ Australia/South Pacific,Australia,NA,Canberra,1,6,1999,86.3
 Australia/South Pacific,Australia,NA,Canberra,1,7,1999,86.9
 Australia/South Pacific,Australia,NA,Canberra,1,8,1999,66
 Australia/South Pacific,Australia,NA,Canberra,1,9,1999,72.2
-Australia/South Pacific,Australia,NA,Canberra,1,10,1999,-99
+Australia/South Pacific,Australia,NA,Canberra,1,10,1999,NA
 Australia/South Pacific,Australia,NA,Canberra,1,11,1999,76
 Australia/South Pacific,Australia,NA,Canberra,1,12,1999,71.4
 Australia/South Pacific,Australia,NA,Canberra,1,13,1999,79
@@ -11511,7 +11377,7 @@ Australia/South Pacific,Australia,NA,Canberra,2,20,2001,66.6
 Australia/South Pacific,Australia,NA,Canberra,2,21,2001,70.3
 Australia/South Pacific,Australia,NA,Canberra,2,22,2001,69.2
 Australia/South Pacific,Australia,NA,Canberra,2,23,2001,74.1
-Australia/South Pacific,Australia,NA,Canberra,2,24,2001,-99
+Australia/South Pacific,Australia,NA,Canberra,2,24,2001,NA
 Australia/South Pacific,Australia,NA,Canberra,2,25,2001,67.5
 Australia/South Pacific,Australia,NA,Canberra,2,26,2001,72.1
 Australia/South Pacific,Australia,NA,Canberra,2,27,2001,73.8
@@ -11990,10 +11856,10 @@ Australia/South Pacific,Australia,NA,Canberra,6,14,2002,48.1
 Australia/South Pacific,Australia,NA,Canberra,6,15,2002,49.9
 Australia/South Pacific,Australia,NA,Canberra,6,16,2002,45.2
 Australia/South Pacific,Australia,NA,Canberra,6,17,2002,45.7
-Australia/South Pacific,Australia,NA,Canberra,6,18,2002,-99
-Australia/South Pacific,Australia,NA,Canberra,6,19,2002,-99
-Australia/South Pacific,Australia,NA,Canberra,6,20,2002,-99
-Australia/South Pacific,Australia,NA,Canberra,6,21,2002,-99
+Australia/South Pacific,Australia,NA,Canberra,6,18,2002,NA
+Australia/South Pacific,Australia,NA,Canberra,6,19,2002,NA
+Australia/South Pacific,Australia,NA,Canberra,6,20,2002,NA
+Australia/South Pacific,Australia,NA,Canberra,6,21,2002,NA
 Australia/South Pacific,Australia,NA,Canberra,6,22,2002,46.6
 Australia/South Pacific,Australia,NA,Canberra,6,23,2002,44.2
 Australia/South Pacific,Australia,NA,Canberra,6,24,2002,37.9
@@ -12071,7 +11937,7 @@ Australia/South Pacific,Australia,NA,Canberra,9,3,2002,54.7
 Australia/South Pacific,Australia,NA,Canberra,9,4,2002,51.6
 Australia/South Pacific,Australia,NA,Canberra,9,5,2002,53.4
 Australia/South Pacific,Australia,NA,Canberra,9,6,2002,56.4
-Australia/South Pacific,Australia,NA,Canberra,9,7,2002,-99
+Australia/South Pacific,Australia,NA,Canberra,9,7,2002,NA
 Australia/South Pacific,Australia,NA,Canberra,9,8,2002,49.9
 Australia/South Pacific,Australia,NA,Canberra,9,9,2002,47.5
 Australia/South Pacific,Australia,NA,Canberra,9,10,2002,40.9
@@ -12246,7 +12112,7 @@ Australia/South Pacific,Australia,NA,Canberra,2,25,2003,71.3
 Australia/South Pacific,Australia,NA,Canberra,2,26,2003,71.4
 Australia/South Pacific,Australia,NA,Canberra,2,27,2003,72.1
 Australia/South Pacific,Australia,NA,Canberra,2,28,2003,67.3
-Australia/South Pacific,Australia,NA,Canberra,3,1,2003,-99
+Australia/South Pacific,Australia,NA,Canberra,3,1,2003,NA
 Australia/South Pacific,Australia,NA,Canberra,3,2,2003,58.5
 Australia/South Pacific,Australia,NA,Canberra,3,3,2003,61.9
 Australia/South Pacific,Australia,NA,Canberra,3,4,2003,63.4
@@ -12452,7 +12318,7 @@ Australia/South Pacific,Australia,NA,Canberra,9,19,2003,52.6
 Australia/South Pacific,Australia,NA,Canberra,9,20,2003,50.8
 Australia/South Pacific,Australia,NA,Canberra,9,21,2003,55.4
 Australia/South Pacific,Australia,NA,Canberra,9,22,2003,67.1
-Australia/South Pacific,Australia,NA,Canberra,9,23,2003,-99
+Australia/South Pacific,Australia,NA,Canberra,9,23,2003,NA
 Australia/South Pacific,Australia,NA,Canberra,9,24,2003,55.2
 Australia/South Pacific,Australia,NA,Canberra,9,25,2003,60.9
 Australia/South Pacific,Australia,NA,Canberra,9,26,2003,51.8
@@ -13887,7 +13753,7 @@ Australia/South Pacific,Australia,NA,Canberra,8,24,2007,50
 Australia/South Pacific,Australia,NA,Canberra,8,25,2007,48.8
 Australia/South Pacific,Australia,NA,Canberra,8,26,2007,51.4
 Australia/South Pacific,Australia,NA,Canberra,8,27,2007,51.9
-Australia/South Pacific,Australia,NA,Canberra,8,28,2007,-99
+Australia/South Pacific,Australia,NA,Canberra,8,28,2007,NA
 Australia/South Pacific,Australia,NA,Canberra,8,29,2007,50.7
 Australia/South Pacific,Australia,NA,Canberra,8,30,2007,57.9
 Australia/South Pacific,Australia,NA,Canberra,8,31,2007,48.9
@@ -14055,7 +13921,7 @@ Australia/South Pacific,Australia,NA,Canberra,2,8,2008,58.5
 Australia/South Pacific,Australia,NA,Canberra,2,9,2008,59
 Australia/South Pacific,Australia,NA,Canberra,2,10,2008,55.8
 Australia/South Pacific,Australia,NA,Canberra,2,11,2008,66.1
-Australia/South Pacific,Australia,NA,Canberra,2,12,2008,-99
+Australia/South Pacific,Australia,NA,Canberra,2,12,2008,NA
 Australia/South Pacific,Australia,NA,Canberra,2,13,2008,57.5
 Australia/South Pacific,Australia,NA,Canberra,2,14,2008,62.9
 Australia/South Pacific,Australia,NA,Canberra,2,15,2008,64.4
@@ -14280,7 +14146,7 @@ Australia/South Pacific,Australia,NA,Canberra,9,20,2008,60.6
 Australia/South Pacific,Australia,NA,Canberra,9,21,2008,53.2
 Australia/South Pacific,Australia,NA,Canberra,9,22,2008,58.6
 Australia/South Pacific,Australia,NA,Canberra,9,23,2008,50.1
-Australia/South Pacific,Australia,NA,Canberra,9,24,2008,-99
+Australia/South Pacific,Australia,NA,Canberra,9,24,2008,NA
 Australia/South Pacific,Australia,NA,Canberra,9,25,2008,51.7
 Australia/South Pacific,Australia,NA,Canberra,9,26,2008,58.1
 Australia/South Pacific,Australia,NA,Canberra,9,27,2008,67
@@ -14477,7 +14343,7 @@ Australia/South Pacific,Australia,NA,Canberra,4,5,2009,57.9
 Australia/South Pacific,Australia,NA,Canberra,4,6,2009,56.7
 Australia/South Pacific,Australia,NA,Canberra,4,7,2009,55.1
 Australia/South Pacific,Australia,NA,Canberra,4,8,2009,58.5
-Australia/South Pacific,Australia,NA,Canberra,4,9,2009,-99
+Australia/South Pacific,Australia,NA,Canberra,4,9,2009,NA
 Australia/South Pacific,Australia,NA,Canberra,4,10,2009,56.9
 Australia/South Pacific,Australia,NA,Canberra,4,11,2009,62.1
 Australia/South Pacific,Australia,NA,Canberra,4,12,2009,60.2
@@ -15941,7 +15807,7 @@ Australia/South Pacific,Australia,NA,Canberra,4,8,2013,57.8
 Australia/South Pacific,Australia,NA,Canberra,4,9,2013,58.8
 Australia/South Pacific,Australia,NA,Canberra,4,10,2013,59.1
 Australia/South Pacific,Australia,NA,Canberra,4,11,2013,62.8
-Australia/South Pacific,Australia,NA,Canberra,4,12,2013,-99
+Australia/South Pacific,Australia,NA,Canberra,4,12,2013,NA
 Australia/South Pacific,Australia,NA,Canberra,4,13,2013,58.4
 Australia/South Pacific,Australia,NA,Canberra,4,14,2013,63.2
 Australia/South Pacific,Australia,NA,Canberra,4,15,2013,61.4
@@ -16241,7 +16107,7 @@ Australia/South Pacific,Australia,NA,Canberra,2,2,2014,79.3
 Australia/South Pacific,Australia,NA,Canberra,2,3,2014,81.8
 Australia/South Pacific,Australia,NA,Canberra,2,4,2014,59.4
 Australia/South Pacific,Australia,NA,Canberra,2,5,2014,60.4
-Australia/South Pacific,Australia,NA,Canberra,2,6,2014,-99
+Australia/South Pacific,Australia,NA,Canberra,2,6,2014,NA
 Australia/South Pacific,Australia,NA,Canberra,2,7,2014,74.6
 Australia/South Pacific,Australia,NA,Canberra,2,8,2014,79.6
 Australia/South Pacific,Australia,NA,Canberra,2,9,2014,79.4
@@ -16934,8 +16800,8 @@ Australia/South Pacific,Australia,NA,Canberra,12,27,2015,58.5
 Australia/South Pacific,Australia,NA,Canberra,12,28,2015,61.7
 Australia/South Pacific,Australia,NA,Canberra,12,29,2015,67
 Australia/South Pacific,Australia,NA,Canberra,12,30,2015,71.8
-Australia/South Pacific,Australia,NA,Canberra,12,30,2015,-99
-Australia/South Pacific,Australia,NA,Canberra,12,31,2015,-99
+Australia/South Pacific,Australia,NA,Canberra,12,30,2015,NA
+Australia/South Pacific,Australia,NA,Canberra,12,31,2015,NA
 Australia/South Pacific,Australia,NA,Canberra,1,1,2016,77.3
 Australia/South Pacific,Australia,NA,Canberra,1,2,2016,68.3
 Australia/South Pacific,Australia,NA,Canberra,1,3,2016,64.8
@@ -17005,7 +16871,7 @@ Australia/South Pacific,Australia,NA,Canberra,3,6,2016,74.5
 Australia/South Pacific,Australia,NA,Canberra,3,7,2016,75.2
 Australia/South Pacific,Australia,NA,Canberra,3,8,2016,71.2
 Australia/South Pacific,Australia,NA,Canberra,3,9,2016,78.2
-Australia/South Pacific,Australia,NA,Canberra,3,10,2016,-99
+Australia/South Pacific,Australia,NA,Canberra,3,10,2016,NA
 Australia/South Pacific,Australia,NA,Canberra,3,11,2016,66.1
 Australia/South Pacific,Australia,NA,Canberra,3,12,2016,72.6
 Australia/South Pacific,Australia,NA,Canberra,3,13,2016,73.5
@@ -17061,7 +16927,7 @@ Australia/South Pacific,Australia,NA,Canberra,5,1,2016,54.5
 Australia/South Pacific,Australia,NA,Canberra,5,2,2016,50.7
 Australia/South Pacific,Australia,NA,Canberra,5,3,2016,59.3
 Australia/South Pacific,Australia,NA,Canberra,5,4,2016,49
-Australia/South Pacific,Australia,NA,Canberra,5,5,2016,-99
+Australia/South Pacific,Australia,NA,Canberra,5,5,2016,NA
 Australia/South Pacific,Australia,NA,Canberra,5,6,2016,51.9
 Australia/South Pacific,Australia,NA,Canberra,5,7,2016,58.3
 Australia/South Pacific,Australia,NA,Canberra,5,8,2016,57.8
@@ -17200,7 +17066,7 @@ Australia/South Pacific,Australia,NA,Canberra,9,17,2016,50.3
 Australia/South Pacific,Australia,NA,Canberra,9,18,2016,49.5
 Australia/South Pacific,Australia,NA,Canberra,9,19,2016,46.9
 Australia/South Pacific,Australia,NA,Canberra,9,20,2016,50.3
-Australia/South Pacific,Australia,NA,Canberra,9,21,2016,-99
+Australia/South Pacific,Australia,NA,Canberra,9,21,2016,NA
 Australia/South Pacific,Australia,NA,Canberra,9,22,2016,52.8
 Australia/South Pacific,Australia,NA,Canberra,9,23,2016,50.4
 Australia/South Pacific,Australia,NA,Canberra,9,24,2016,56.6
@@ -17251,7 +17117,7 @@ Australia/South Pacific,Australia,NA,Canberra,11,7,2016,63.3
 Australia/South Pacific,Australia,NA,Canberra,11,8,2016,65.6
 Australia/South Pacific,Australia,NA,Canberra,11,9,2016,62.4
 Australia/South Pacific,Australia,NA,Canberra,11,10,2016,61.6
-Australia/South Pacific,Australia,NA,Canberra,11,11,2016,-99
+Australia/South Pacific,Australia,NA,Canberra,11,11,2016,NA
 Australia/South Pacific,Australia,NA,Canberra,11,12,2016,65.3
 Australia/South Pacific,Australia,NA,Canberra,11,13,2016,54.3
 Australia/South Pacific,Australia,NA,Canberra,11,14,2016,53.4
@@ -17670,7 +17536,7 @@ Australia/South Pacific,Australia,NA,Canberra,12,31,2017,68.2
 Australia/South Pacific,Australia,NA,Canberra,1,1,2018,69.3
 Australia/South Pacific,Australia,NA,Canberra,1,2,2018,71.3
 Australia/South Pacific,Australia,NA,Canberra,1,3,2018,64.3
-Australia/South Pacific,Australia,NA,Canberra,1,4,2018,-99
+Australia/South Pacific,Australia,NA,Canberra,1,4,2018,NA
 Australia/South Pacific,Australia,NA,Canberra,1,5,2018,74.6
 Australia/South Pacific,Australia,NA,Canberra,1,6,2018,81
 Australia/South Pacific,Australia,NA,Canberra,1,7,2018,85.7
@@ -17984,10 +17850,10 @@ Australia/South Pacific,Australia,NA,Canberra,11,10,2018,58.9
 Australia/South Pacific,Australia,NA,Canberra,11,11,2018,62.9
 Australia/South Pacific,Australia,NA,Canberra,11,12,2018,69.5
 Australia/South Pacific,Australia,NA,Canberra,11,13,2018,72.5
-Australia/South Pacific,Australia,NA,Canberra,11,14,2018,-99
+Australia/South Pacific,Australia,NA,Canberra,11,14,2018,NA
 Australia/South Pacific,Australia,NA,Canberra,11,15,2018,61.7
 Australia/South Pacific,Australia,NA,Canberra,11,16,2018,63.3
-Australia/South Pacific,Australia,NA,Canberra,11,17,2018,-99
+Australia/South Pacific,Australia,NA,Canberra,11,17,2018,NA
 Australia/South Pacific,Australia,NA,Canberra,11,18,2018,60
 Australia/South Pacific,Australia,NA,Canberra,11,19,2018,65.2
 Australia/South Pacific,Australia,NA,Canberra,11,20,2018,71.7
@@ -18054,7 +17920,7 @@ Australia/South Pacific,Australia,NA,Canberra,1,19,2019,72.7
 Australia/South Pacific,Australia,NA,Canberra,1,20,2019,74.3
 Australia/South Pacific,Australia,NA,Canberra,1,21,2019,77.6
 Australia/South Pacific,Australia,NA,Canberra,1,22,2019,83.1
-Australia/South Pacific,Australia,NA,Canberra,1,23,2019,-99
+Australia/South Pacific,Australia,NA,Canberra,1,23,2019,NA
 Australia/South Pacific,Australia,NA,Canberra,1,24,2019,72.8
 Australia/South Pacific,Australia,NA,Canberra,1,25,2019,86.2
 Australia/South Pacific,Australia,NA,Canberra,1,26,2019,85.4
@@ -18145,7 +18011,7 @@ Australia/South Pacific,Australia,NA,Canberra,4,20,2019,63.3
 Australia/South Pacific,Australia,NA,Canberra,4,21,2019,62.9
 Australia/South Pacific,Australia,NA,Canberra,4,22,2019,61.8
 Australia/South Pacific,Australia,NA,Canberra,4,23,2019,62.7
-Australia/South Pacific,Australia,NA,Canberra,4,24,2019,-99
+Australia/South Pacific,Australia,NA,Canberra,4,24,2019,NA
 Australia/South Pacific,Australia,NA,Canberra,4,25,2019,61.7
 Australia/South Pacific,Australia,NA,Canberra,4,26,2019,51.1
 Australia/South Pacific,Australia,NA,Canberra,4,27,2019,48.6
@@ -18167,10 +18033,10 @@ Australia/South Pacific,Australia,NA,Canberra,5,12,2019,42.1
 Australia/South Pacific,Australia,NA,Canberra,5,13,2019,46.5
 Australia/South Pacific,Australia,NA,Canberra,5,14,2019,44.8
 Australia/South Pacific,Australia,NA,Canberra,5,15,2019,47.4
-Australia/South Pacific,Australia,NA,Canberra,5,16,2019,-99
-Australia/South Pacific,Australia,NA,Canberra,5,17,2019,-99
-Australia/South Pacific,Australia,NA,Canberra,5,18,2019,-99
-Australia/South Pacific,Australia,NA,Canberra,5,19,2019,-99
+Australia/South Pacific,Australia,NA,Canberra,5,16,2019,NA
+Australia/South Pacific,Australia,NA,Canberra,5,17,2019,NA
+Australia/South Pacific,Australia,NA,Canberra,5,18,2019,NA
+Australia/South Pacific,Australia,NA,Canberra,5,19,2019,NA
 Australia/South Pacific,Australia,NA,Canberra,5,20,2019,52.9
 Australia/South Pacific,Australia,NA,Canberra,5,21,2019,51.7
 Australia/South Pacific,Australia,NA,Canberra,5,22,2019,54.8
@@ -18397,140 +18263,6 @@ Australia/South Pacific,Australia,NA,Canberra,12,28,2019,83.6
 Australia/South Pacific,Australia,NA,Canberra,12,29,2019,81.7
 Australia/South Pacific,Australia,NA,Canberra,12,30,2019,90
 Australia/South Pacific,Australia,NA,Canberra,12,31,2019,74.7
-Australia/South Pacific,Australia,NA,Canberra,1,1,2020,68.6
-Australia/South Pacific,Australia,NA,Canberra,1,2,2020,71.7
-Australia/South Pacific,Australia,NA,Canberra,1,3,2020,82.4
-Australia/South Pacific,Australia,NA,Canberra,1,4,2020,87.4
-Australia/South Pacific,Australia,NA,Canberra,1,5,2020,61.6
-Australia/South Pacific,Australia,NA,Canberra,1,6,2020,64.8
-Australia/South Pacific,Australia,NA,Canberra,1,7,2020,77
-Australia/South Pacific,Australia,NA,Canberra,1,8,2020,72.4
-Australia/South Pacific,Australia,NA,Canberra,1,9,2020,69.9
-Australia/South Pacific,Australia,NA,Canberra,1,10,2020,83.6
-Australia/South Pacific,Australia,NA,Canberra,1,11,2020,74
-Australia/South Pacific,Australia,NA,Canberra,1,12,2020,60.8
-Australia/South Pacific,Australia,NA,Canberra,1,13,2020,67.9
-Australia/South Pacific,Australia,NA,Canberra,1,14,2020,73.1
-Australia/South Pacific,Australia,NA,Canberra,1,15,2020,73.8
-Australia/South Pacific,Australia,NA,Canberra,1,16,2020,68.7
-Australia/South Pacific,Australia,NA,Canberra,1,17,2020,67.2
-Australia/South Pacific,Australia,NA,Canberra,1,18,2020,65.7
-Australia/South Pacific,Australia,NA,Canberra,1,19,2020,72.1
-Australia/South Pacific,Australia,NA,Canberra,1,20,2020,67.2
-Australia/South Pacific,Australia,NA,Canberra,1,21,2020,68.2
-Australia/South Pacific,Australia,NA,Canberra,1,22,2020,82.5
-Australia/South Pacific,Australia,NA,Canberra,1,23,2020,72.4
-Australia/South Pacific,Australia,NA,Canberra,1,24,2020,72
-Australia/South Pacific,Australia,NA,Canberra,1,25,2020,78
-Australia/South Pacific,Australia,NA,Canberra,1,26,2020,76.9
-Australia/South Pacific,Australia,NA,Canberra,1,27,2020,79.8
-Australia/South Pacific,Australia,NA,Canberra,1,28,2020,74.4
-Australia/South Pacific,Australia,NA,Canberra,1,29,2020,72.2
-Australia/South Pacific,Australia,NA,Canberra,1,30,2020,80.8
-Australia/South Pacific,Australia,NA,Canberra,1,31,2020,93.1
-Australia/South Pacific,Australia,NA,Canberra,2,1,2020,93.2
-Australia/South Pacific,Australia,NA,Canberra,2,2,2020,75.5
-Australia/South Pacific,Australia,NA,Canberra,2,3,2020,64.2
-Australia/South Pacific,Australia,NA,Canberra,2,4,2020,63
-Australia/South Pacific,Australia,NA,Canberra,2,5,2020,70.5
-Australia/South Pacific,Australia,NA,Canberra,2,6,2020,67.5
-Australia/South Pacific,Australia,NA,Canberra,2,7,2020,65.8
-Australia/South Pacific,Australia,NA,Canberra,2,8,2020,64.8
-Australia/South Pacific,Australia,NA,Canberra,2,9,2020,62.2
-Australia/South Pacific,Australia,NA,Canberra,2,10,2020,71.4
-Australia/South Pacific,Australia,NA,Canberra,2,11,2020,72.1
-Australia/South Pacific,Australia,NA,Canberra,2,12,2020,72.8
-Australia/South Pacific,Australia,NA,Canberra,2,13,2020,68.7
-Australia/South Pacific,Australia,NA,Canberra,2,14,2020,71.8
-Australia/South Pacific,Australia,NA,Canberra,2,15,2020,68.6
-Australia/South Pacific,Australia,NA,Canberra,2,16,2020,67.5
-Australia/South Pacific,Australia,NA,Canberra,2,17,2020,70.3
-Australia/South Pacific,Australia,NA,Canberra,2,18,2020,72.9
-Australia/South Pacific,Australia,NA,Canberra,2,19,2020,61
-Australia/South Pacific,Australia,NA,Canberra,2,20,2020,64.4
-Australia/South Pacific,Australia,NA,Canberra,2,21,2020,64.8
-Australia/South Pacific,Australia,NA,Canberra,2,22,2020,66.4
-Australia/South Pacific,Australia,NA,Canberra,2,23,2020,68.8
-Australia/South Pacific,Australia,NA,Canberra,2,24,2020,70
-Australia/South Pacific,Australia,NA,Canberra,2,25,2020,74.7
-Australia/South Pacific,Australia,NA,Canberra,2,26,2020,67.3
-Australia/South Pacific,Australia,NA,Canberra,2,27,2020,63.1
-Australia/South Pacific,Australia,NA,Canberra,2,28,2020,64.8
-Australia/South Pacific,Australia,NA,Canberra,2,29,2020,66.9
-Australia/South Pacific,Australia,NA,Canberra,3,1,2020,71.9
-Australia/South Pacific,Australia,NA,Canberra,3,2,2020,70.6
-Australia/South Pacific,Australia,NA,Canberra,3,3,2020,61.3
-Australia/South Pacific,Australia,NA,Canberra,3,4,2020,64.5
-Australia/South Pacific,Australia,NA,Canberra,3,5,2020,65
-Australia/South Pacific,Australia,NA,Canberra,3,6,2020,66.2
-Australia/South Pacific,Australia,NA,Canberra,3,7,2020,62.5
-Australia/South Pacific,Australia,NA,Canberra,3,8,2020,58.6
-Australia/South Pacific,Australia,NA,Canberra,3,9,2020,58.9
-Australia/South Pacific,Australia,NA,Canberra,3,10,2020,62.3
-Australia/South Pacific,Australia,NA,Canberra,3,11,2020,62.6
-Australia/South Pacific,Australia,NA,Canberra,3,12,2020,61.6
-Australia/South Pacific,Australia,NA,Canberra,3,13,2020,63.5
-Australia/South Pacific,Australia,NA,Canberra,3,14,2020,51.3
-Australia/South Pacific,Australia,NA,Canberra,3,15,2020,56.4
-Australia/South Pacific,Australia,NA,Canberra,3,16,2020,57.3
-Australia/South Pacific,Australia,NA,Canberra,3,17,2020,59
-Australia/South Pacific,Australia,NA,Canberra,3,18,2020,64.1
-Australia/South Pacific,Australia,NA,Canberra,3,19,2020,71.3
-Australia/South Pacific,Australia,NA,Canberra,3,20,2020,64.9
-Australia/South Pacific,Australia,NA,Canberra,3,21,2020,61
-Australia/South Pacific,Australia,NA,Canberra,3,22,2020,63.7
-Australia/South Pacific,Australia,NA,Canberra,3,23,2020,58
-Australia/South Pacific,Australia,NA,Canberra,3,24,2020,63.8
-Australia/South Pacific,Australia,NA,Canberra,3,25,2020,61.1
-Australia/South Pacific,Australia,NA,Canberra,3,26,2020,59.8
-Australia/South Pacific,Australia,NA,Canberra,3,27,2020,56.6
-Australia/South Pacific,Australia,NA,Canberra,3,28,2020,62
-Australia/South Pacific,Australia,NA,Canberra,3,29,2020,65.6
-Australia/South Pacific,Australia,NA,Canberra,3,30,2020,65.5
-Australia/South Pacific,Australia,NA,Canberra,3,31,2020,62.8
-Australia/South Pacific,Australia,NA,Canberra,4,1,2020,66.6
-Australia/South Pacific,Australia,NA,Canberra,4,2,2020,60.1
-Australia/South Pacific,Australia,NA,Canberra,4,3,2020,58.5
-Australia/South Pacific,Australia,NA,Canberra,4,4,2020,52.7
-Australia/South Pacific,Australia,NA,Canberra,4,5,2020,53.5
-Australia/South Pacific,Australia,NA,Canberra,4,6,2020,55.7
-Australia/South Pacific,Australia,NA,Canberra,4,7,2020,57.7
-Australia/South Pacific,Australia,NA,Canberra,4,8,2020,56.9
-Australia/South Pacific,Australia,NA,Canberra,4,9,2020,59.5
-Australia/South Pacific,Australia,NA,Canberra,4,10,2020,56.4
-Australia/South Pacific,Australia,NA,Canberra,4,11,2020,48.7
-Australia/South Pacific,Australia,NA,Canberra,4,12,2020,49.6
-Australia/South Pacific,Australia,NA,Canberra,4,13,2020,51.1
-Australia/South Pacific,Australia,NA,Canberra,4,14,2020,55.1
-Australia/South Pacific,Australia,NA,Canberra,4,15,2020,64.6
-Australia/South Pacific,Australia,NA,Canberra,4,16,2020,62.6
-Australia/South Pacific,Australia,NA,Canberra,4,17,2020,54.5
-Australia/South Pacific,Australia,NA,Canberra,4,18,2020,50.2
-Australia/South Pacific,Australia,NA,Canberra,4,19,2020,53.4
-Australia/South Pacific,Australia,NA,Canberra,4,20,2020,52
-Australia/South Pacific,Australia,NA,Canberra,4,21,2020,57
-Australia/South Pacific,Australia,NA,Canberra,4,22,2020,53.2
-Australia/South Pacific,Australia,NA,Canberra,4,23,2020,57
-Australia/South Pacific,Australia,NA,Canberra,4,24,2020,55.2
-Australia/South Pacific,Australia,NA,Canberra,4,25,2020,57.2
-Australia/South Pacific,Australia,NA,Canberra,4,26,2020,54.1
-Australia/South Pacific,Australia,NA,Canberra,4,27,2020,50.6
-Australia/South Pacific,Australia,NA,Canberra,4,28,2020,61.8
-Australia/South Pacific,Australia,NA,Canberra,4,29,2020,57.2
-Australia/South Pacific,Australia,NA,Canberra,4,30,2020,44.8
-Australia/South Pacific,Australia,NA,Canberra,5,1,2020,44.2
-Australia/South Pacific,Australia,NA,Canberra,5,2,2020,44.6
-Australia/South Pacific,Australia,NA,Canberra,5,3,2020,43.7
-Australia/South Pacific,Australia,NA,Canberra,5,4,2020,45.2
-Australia/South Pacific,Australia,NA,Canberra,5,5,2020,45.6
-Australia/South Pacific,Australia,NA,Canberra,5,6,2020,48.2
-Australia/South Pacific,Australia,NA,Canberra,5,7,2020,57.3
-Australia/South Pacific,Australia,NA,Canberra,5,8,2020,58.7
-Australia/South Pacific,Australia,NA,Canberra,5,9,2020,49.5
-Australia/South Pacific,Australia,NA,Canberra,5,10,2020,38.8
-Australia/South Pacific,Australia,NA,Canberra,5,11,2020,40.9
-Australia/South Pacific,Australia,NA,Canberra,5,12,2020,46.5
-Australia/South Pacific,Australia,NA,Canberra,5,13,2020,52.3
 Australia/South Pacific,Australia,NA,Melbourne,1,1,1995,73.1
 Australia/South Pacific,Australia,NA,Melbourne,1,2,1995,63.7
 Australia/South Pacific,Australia,NA,Melbourne,1,3,1995,69
@@ -19984,14 +19716,14 @@ Australia/South Pacific,Australia,NA,Melbourne,12,20,1998,75
 Australia/South Pacific,Australia,NA,Melbourne,12,21,1998,68.7
 Australia/South Pacific,Australia,NA,Melbourne,12,22,1998,72.3
 Australia/South Pacific,Australia,NA,Melbourne,12,23,1998,72.3
-Australia/South Pacific,Australia,NA,Melbourne,12,24,1998,-99
-Australia/South Pacific,Australia,NA,Melbourne,12,25,1998,-99
+Australia/South Pacific,Australia,NA,Melbourne,12,24,1998,NA
+Australia/South Pacific,Australia,NA,Melbourne,12,25,1998,NA
 Australia/South Pacific,Australia,NA,Melbourne,12,26,1998,72.3
 Australia/South Pacific,Australia,NA,Melbourne,12,27,1998,72.7
 Australia/South Pacific,Australia,NA,Melbourne,12,28,1998,74
 Australia/South Pacific,Australia,NA,Melbourne,12,29,1998,75.9
-Australia/South Pacific,Australia,NA,Melbourne,12,30,1998,-99
-Australia/South Pacific,Australia,NA,Melbourne,12,31,1998,-99
+Australia/South Pacific,Australia,NA,Melbourne,12,30,1998,NA
+Australia/South Pacific,Australia,NA,Melbourne,12,31,1998,NA
 Australia/South Pacific,Australia,NA,Melbourne,1,1,1999,74.7
 Australia/South Pacific,Australia,NA,Melbourne,1,2,1999,74.6
 Australia/South Pacific,Australia,NA,Melbourne,1,3,1999,77
@@ -20001,7 +19733,7 @@ Australia/South Pacific,Australia,NA,Melbourne,1,6,1999,78
 Australia/South Pacific,Australia,NA,Melbourne,1,7,1999,78.2
 Australia/South Pacific,Australia,NA,Melbourne,1,8,1999,74.3
 Australia/South Pacific,Australia,NA,Melbourne,1,9,1999,73.6
-Australia/South Pacific,Australia,NA,Melbourne,1,10,1999,-99
+Australia/South Pacific,Australia,NA,Melbourne,1,10,1999,NA
 Australia/South Pacific,Australia,NA,Melbourne,1,11,1999,81.8
 Australia/South Pacific,Australia,NA,Melbourne,1,12,1999,73.9
 Australia/South Pacific,Australia,NA,Melbourne,1,13,1999,76.7
@@ -20777,7 +20509,7 @@ Australia/South Pacific,Australia,NA,Melbourne,2,20,2001,72.7
 Australia/South Pacific,Australia,NA,Melbourne,2,21,2001,75.1
 Australia/South Pacific,Australia,NA,Melbourne,2,22,2001,75
 Australia/South Pacific,Australia,NA,Melbourne,2,23,2001,77
-Australia/South Pacific,Australia,NA,Melbourne,2,24,2001,-99
+Australia/South Pacific,Australia,NA,Melbourne,2,24,2001,NA
 Australia/South Pacific,Australia,NA,Melbourne,2,25,2001,76.7
 Australia/South Pacific,Australia,NA,Melbourne,2,26,2001,77.2
 Australia/South Pacific,Australia,NA,Melbourne,2,27,2001,79.2
@@ -21256,10 +20988,10 @@ Australia/South Pacific,Australia,NA,Melbourne,6,14,2002,59.7
 Australia/South Pacific,Australia,NA,Melbourne,6,15,2002,66.4
 Australia/South Pacific,Australia,NA,Melbourne,6,16,2002,59.2
 Australia/South Pacific,Australia,NA,Melbourne,6,17,2002,55.4
-Australia/South Pacific,Australia,NA,Melbourne,6,18,2002,-99
-Australia/South Pacific,Australia,NA,Melbourne,6,19,2002,-99
-Australia/South Pacific,Australia,NA,Melbourne,6,20,2002,-99
-Australia/South Pacific,Australia,NA,Melbourne,6,21,2002,-99
+Australia/South Pacific,Australia,NA,Melbourne,6,18,2002,NA
+Australia/South Pacific,Australia,NA,Melbourne,6,19,2002,NA
+Australia/South Pacific,Australia,NA,Melbourne,6,20,2002,NA
+Australia/South Pacific,Australia,NA,Melbourne,6,21,2002,NA
 Australia/South Pacific,Australia,NA,Melbourne,6,22,2002,55
 Australia/South Pacific,Australia,NA,Melbourne,6,23,2002,53
 Australia/South Pacific,Australia,NA,Melbourne,6,24,2002,53.3
@@ -21337,7 +21069,7 @@ Australia/South Pacific,Australia,NA,Melbourne,9,3,2002,67
 Australia/South Pacific,Australia,NA,Melbourne,9,4,2002,68.9
 Australia/South Pacific,Australia,NA,Melbourne,9,5,2002,68
 Australia/South Pacific,Australia,NA,Melbourne,9,6,2002,65.1
-Australia/South Pacific,Australia,NA,Melbourne,9,7,2002,-99
+Australia/South Pacific,Australia,NA,Melbourne,9,7,2002,NA
 Australia/South Pacific,Australia,NA,Melbourne,9,8,2002,59.9
 Australia/South Pacific,Australia,NA,Melbourne,9,9,2002,64.1
 Australia/South Pacific,Australia,NA,Melbourne,9,10,2002,54.4
@@ -21512,7 +21244,7 @@ Australia/South Pacific,Australia,NA,Melbourne,2,25,2003,74.8
 Australia/South Pacific,Australia,NA,Melbourne,2,26,2003,74.4
 Australia/South Pacific,Australia,NA,Melbourne,2,27,2003,75.8
 Australia/South Pacific,Australia,NA,Melbourne,2,28,2003,79.3
-Australia/South Pacific,Australia,NA,Melbourne,3,1,2003,-99
+Australia/South Pacific,Australia,NA,Melbourne,3,1,2003,NA
 Australia/South Pacific,Australia,NA,Melbourne,3,2,2003,65.3
 Australia/South Pacific,Australia,NA,Melbourne,3,3,2003,68.2
 Australia/South Pacific,Australia,NA,Melbourne,3,4,2003,72.3
@@ -21718,7 +21450,7 @@ Australia/South Pacific,Australia,NA,Melbourne,9,19,2003,67.8
 Australia/South Pacific,Australia,NA,Melbourne,9,20,2003,58.9
 Australia/South Pacific,Australia,NA,Melbourne,9,21,2003,65.5
 Australia/South Pacific,Australia,NA,Melbourne,9,22,2003,78.4
-Australia/South Pacific,Australia,NA,Melbourne,9,23,2003,-99
+Australia/South Pacific,Australia,NA,Melbourne,9,23,2003,NA
 Australia/South Pacific,Australia,NA,Melbourne,9,24,2003,72.4
 Australia/South Pacific,Australia,NA,Melbourne,9,25,2003,75.8
 Australia/South Pacific,Australia,NA,Melbourne,9,26,2003,69.8
@@ -23153,7 +22885,7 @@ Australia/South Pacific,Australia,NA,Melbourne,8,24,2007,57.8
 Australia/South Pacific,Australia,NA,Melbourne,8,25,2007,58.9
 Australia/South Pacific,Australia,NA,Melbourne,8,26,2007,62.1
 Australia/South Pacific,Australia,NA,Melbourne,8,27,2007,64.9
-Australia/South Pacific,Australia,NA,Melbourne,8,28,2007,-99
+Australia/South Pacific,Australia,NA,Melbourne,8,28,2007,NA
 Australia/South Pacific,Australia,NA,Melbourne,8,29,2007,64.7
 Australia/South Pacific,Australia,NA,Melbourne,8,30,2007,67.1
 Australia/South Pacific,Australia,NA,Melbourne,8,31,2007,67.5
@@ -23321,7 +23053,7 @@ Australia/South Pacific,Australia,NA,Melbourne,2,8,2008,66.2
 Australia/South Pacific,Australia,NA,Melbourne,2,9,2008,63.7
 Australia/South Pacific,Australia,NA,Melbourne,2,10,2008,66.4
 Australia/South Pacific,Australia,NA,Melbourne,2,11,2008,71.8
-Australia/South Pacific,Australia,NA,Melbourne,2,12,2008,-99
+Australia/South Pacific,Australia,NA,Melbourne,2,12,2008,NA
 Australia/South Pacific,Australia,NA,Melbourne,2,13,2008,67.4
 Australia/South Pacific,Australia,NA,Melbourne,2,14,2008,68.7
 Australia/South Pacific,Australia,NA,Melbourne,2,15,2008,68.6
@@ -23546,7 +23278,7 @@ Australia/South Pacific,Australia,NA,Melbourne,9,20,2008,74.2
 Australia/South Pacific,Australia,NA,Melbourne,9,21,2008,65.9
 Australia/South Pacific,Australia,NA,Melbourne,9,22,2008,75.1
 Australia/South Pacific,Australia,NA,Melbourne,9,23,2008,56.5
-Australia/South Pacific,Australia,NA,Melbourne,9,24,2008,-99
+Australia/South Pacific,Australia,NA,Melbourne,9,24,2008,NA
 Australia/South Pacific,Australia,NA,Melbourne,9,25,2008,61
 Australia/South Pacific,Australia,NA,Melbourne,9,26,2008,66.4
 Australia/South Pacific,Australia,NA,Melbourne,9,27,2008,71.2
@@ -23743,7 +23475,7 @@ Australia/South Pacific,Australia,NA,Melbourne,4,5,2009,69
 Australia/South Pacific,Australia,NA,Melbourne,4,6,2009,65.4
 Australia/South Pacific,Australia,NA,Melbourne,4,7,2009,62.4
 Australia/South Pacific,Australia,NA,Melbourne,4,8,2009,64.6
-Australia/South Pacific,Australia,NA,Melbourne,4,9,2009,-99
+Australia/South Pacific,Australia,NA,Melbourne,4,9,2009,NA
 Australia/South Pacific,Australia,NA,Melbourne,4,10,2009,69.3
 Australia/South Pacific,Australia,NA,Melbourne,4,11,2009,71.2
 Australia/South Pacific,Australia,NA,Melbourne,4,12,2009,73.2
@@ -25207,7 +24939,7 @@ Australia/South Pacific,Australia,NA,Melbourne,4,8,2013,67
 Australia/South Pacific,Australia,NA,Melbourne,4,9,2013,64.8
 Australia/South Pacific,Australia,NA,Melbourne,4,10,2013,68.7
 Australia/South Pacific,Australia,NA,Melbourne,4,11,2013,69.9
-Australia/South Pacific,Australia,NA,Melbourne,4,12,2013,-99
+Australia/South Pacific,Australia,NA,Melbourne,4,12,2013,NA
 Australia/South Pacific,Australia,NA,Melbourne,4,13,2013,70.7
 Australia/South Pacific,Australia,NA,Melbourne,4,14,2013,72.2
 Australia/South Pacific,Australia,NA,Melbourne,4,15,2013,69.4
@@ -25507,7 +25239,7 @@ Australia/South Pacific,Australia,NA,Melbourne,2,2,2014,77.4
 Australia/South Pacific,Australia,NA,Melbourne,2,3,2014,76.4
 Australia/South Pacific,Australia,NA,Melbourne,2,4,2014,67.5
 Australia/South Pacific,Australia,NA,Melbourne,2,5,2014,67.5
-Australia/South Pacific,Australia,NA,Melbourne,2,6,2014,-99
+Australia/South Pacific,Australia,NA,Melbourne,2,6,2014,NA
 Australia/South Pacific,Australia,NA,Melbourne,2,7,2014,74.4
 Australia/South Pacific,Australia,NA,Melbourne,2,8,2014,76.8
 Australia/South Pacific,Australia,NA,Melbourne,2,9,2014,75.8
@@ -26200,8 +25932,8 @@ Australia/South Pacific,Australia,NA,Melbourne,12,27,2015,65.8
 Australia/South Pacific,Australia,NA,Melbourne,12,28,2015,66.3
 Australia/South Pacific,Australia,NA,Melbourne,12,29,2015,67
 Australia/South Pacific,Australia,NA,Melbourne,12,30,2015,69.7
-Australia/South Pacific,Australia,NA,Melbourne,12,30,2015,-99
-Australia/South Pacific,Australia,NA,Melbourne,12,31,2015,-99
+Australia/South Pacific,Australia,NA,Melbourne,12,30,2015,NA
+Australia/South Pacific,Australia,NA,Melbourne,12,31,2015,NA
 Australia/South Pacific,Australia,NA,Melbourne,1,1,2016,71.6
 Australia/South Pacific,Australia,NA,Melbourne,1,2,2016,71.8
 Australia/South Pacific,Australia,NA,Melbourne,1,3,2016,71.4
@@ -26271,7 +26003,7 @@ Australia/South Pacific,Australia,NA,Melbourne,3,6,2016,77.3
 Australia/South Pacific,Australia,NA,Melbourne,3,7,2016,78.9
 Australia/South Pacific,Australia,NA,Melbourne,3,8,2016,78.4
 Australia/South Pacific,Australia,NA,Melbourne,3,9,2016,79.3
-Australia/South Pacific,Australia,NA,Melbourne,3,10,2016,-99
+Australia/South Pacific,Australia,NA,Melbourne,3,10,2016,NA
 Australia/South Pacific,Australia,NA,Melbourne,3,11,2016,77.8
 Australia/South Pacific,Australia,NA,Melbourne,3,12,2016,79.3
 Australia/South Pacific,Australia,NA,Melbourne,3,13,2016,77.6
@@ -26327,7 +26059,7 @@ Australia/South Pacific,Australia,NA,Melbourne,5,1,2016,68.8
 Australia/South Pacific,Australia,NA,Melbourne,5,2,2016,64.1
 Australia/South Pacific,Australia,NA,Melbourne,5,3,2016,69.3
 Australia/South Pacific,Australia,NA,Melbourne,5,4,2016,65.8
-Australia/South Pacific,Australia,NA,Melbourne,5,5,2016,-99
+Australia/South Pacific,Australia,NA,Melbourne,5,5,2016,NA
 Australia/South Pacific,Australia,NA,Melbourne,5,6,2016,64.8
 Australia/South Pacific,Australia,NA,Melbourne,5,7,2016,67.7
 Australia/South Pacific,Australia,NA,Melbourne,5,8,2016,67.3
@@ -26466,7 +26198,7 @@ Australia/South Pacific,Australia,NA,Melbourne,9,17,2016,64.4
 Australia/South Pacific,Australia,NA,Melbourne,9,18,2016,58
 Australia/South Pacific,Australia,NA,Melbourne,9,19,2016,60
 Australia/South Pacific,Australia,NA,Melbourne,9,20,2016,63.2
-Australia/South Pacific,Australia,NA,Melbourne,9,21,2016,-99
+Australia/South Pacific,Australia,NA,Melbourne,9,21,2016,NA
 Australia/South Pacific,Australia,NA,Melbourne,9,22,2016,61.6
 Australia/South Pacific,Australia,NA,Melbourne,9,23,2016,61.8
 Australia/South Pacific,Australia,NA,Melbourne,9,24,2016,64.9
@@ -26517,7 +26249,7 @@ Australia/South Pacific,Australia,NA,Melbourne,11,7,2016,75.9
 Australia/South Pacific,Australia,NA,Melbourne,11,8,2016,66.8
 Australia/South Pacific,Australia,NA,Melbourne,11,9,2016,65.1
 Australia/South Pacific,Australia,NA,Melbourne,11,10,2016,69.2
-Australia/South Pacific,Australia,NA,Melbourne,11,11,2016,-99
+Australia/South Pacific,Australia,NA,Melbourne,11,11,2016,NA
 Australia/South Pacific,Australia,NA,Melbourne,11,12,2016,79.2
 Australia/South Pacific,Australia,NA,Melbourne,11,13,2016,72.2
 Australia/South Pacific,Australia,NA,Melbourne,11,14,2016,64
@@ -26645,7 +26377,7 @@ Australia/South Pacific,Australia,NA,Melbourne,3,15,2017,75.3
 Australia/South Pacific,Australia,NA,Melbourne,3,16,2017,73.4
 Australia/South Pacific,Australia,NA,Melbourne,3,17,2017,68.6
 Australia/South Pacific,Australia,NA,Melbourne,3,18,2017,74.5
-Australia/South Pacific,Australia,NA,Melbourne,3,19,2017,-99
+Australia/South Pacific,Australia,NA,Melbourne,3,19,2017,NA
 Australia/South Pacific,Australia,NA,Melbourne,3,20,2017,77.6
 Australia/South Pacific,Australia,NA,Melbourne,3,21,2017,76.3
 Australia/South Pacific,Australia,NA,Melbourne,3,22,2017,74.8
@@ -26936,7 +26668,7 @@ Australia/South Pacific,Australia,NA,Melbourne,12,31,2017,74.8
 Australia/South Pacific,Australia,NA,Melbourne,1,1,2018,73.3
 Australia/South Pacific,Australia,NA,Melbourne,1,2,2018,74.1
 Australia/South Pacific,Australia,NA,Melbourne,1,3,2018,69.1
-Australia/South Pacific,Australia,NA,Melbourne,1,4,2018,-99
+Australia/South Pacific,Australia,NA,Melbourne,1,4,2018,NA
 Australia/South Pacific,Australia,NA,Melbourne,1,5,2018,75.2
 Australia/South Pacific,Australia,NA,Melbourne,1,6,2018,80
 Australia/South Pacific,Australia,NA,Melbourne,1,7,2018,83.6
@@ -27250,10 +26982,10 @@ Australia/South Pacific,Australia,NA,Melbourne,11,10,2018,64.9
 Australia/South Pacific,Australia,NA,Melbourne,11,11,2018,67.2
 Australia/South Pacific,Australia,NA,Melbourne,11,12,2018,70.3
 Australia/South Pacific,Australia,NA,Melbourne,11,13,2018,71.8
-Australia/South Pacific,Australia,NA,Melbourne,11,14,2018,-99
-Australia/South Pacific,Australia,NA,Melbourne,11,15,2018,-99
+Australia/South Pacific,Australia,NA,Melbourne,11,14,2018,NA
+Australia/South Pacific,Australia,NA,Melbourne,11,15,2018,NA
 Australia/South Pacific,Australia,NA,Melbourne,11,16,2018,64.8
-Australia/South Pacific,Australia,NA,Melbourne,11,17,2018,-99
+Australia/South Pacific,Australia,NA,Melbourne,11,17,2018,NA
 Australia/South Pacific,Australia,NA,Melbourne,11,18,2018,66.1
 Australia/South Pacific,Australia,NA,Melbourne,11,19,2018,69.3
 Australia/South Pacific,Australia,NA,Melbourne,11,20,2018,74.7
@@ -27320,7 +27052,7 @@ Australia/South Pacific,Australia,NA,Melbourne,1,19,2019,72.1
 Australia/South Pacific,Australia,NA,Melbourne,1,20,2019,73.9
 Australia/South Pacific,Australia,NA,Melbourne,1,21,2019,76.2
 Australia/South Pacific,Australia,NA,Melbourne,1,22,2019,80.5
-Australia/South Pacific,Australia,NA,Melbourne,1,23,2019,-99
+Australia/South Pacific,Australia,NA,Melbourne,1,23,2019,NA
 Australia/South Pacific,Australia,NA,Melbourne,1,24,2019,75.5
 Australia/South Pacific,Australia,NA,Melbourne,1,25,2019,81.9
 Australia/South Pacific,Australia,NA,Melbourne,1,26,2019,76.9
@@ -27411,7 +27143,7 @@ Australia/South Pacific,Australia,NA,Melbourne,4,20,2019,70.8
 Australia/South Pacific,Australia,NA,Melbourne,4,21,2019,72.9
 Australia/South Pacific,Australia,NA,Melbourne,4,22,2019,72.9
 Australia/South Pacific,Australia,NA,Melbourne,4,23,2019,69.5
-Australia/South Pacific,Australia,NA,Melbourne,4,24,2019,-99
+Australia/South Pacific,Australia,NA,Melbourne,4,24,2019,NA
 Australia/South Pacific,Australia,NA,Melbourne,4,25,2019,70.1
 Australia/South Pacific,Australia,NA,Melbourne,4,26,2019,70.6
 Australia/South Pacific,Australia,NA,Melbourne,4,27,2019,59.4
@@ -27433,10 +27165,10 @@ Australia/South Pacific,Australia,NA,Melbourne,5,12,2019,59.7
 Australia/South Pacific,Australia,NA,Melbourne,5,13,2019,65
 Australia/South Pacific,Australia,NA,Melbourne,5,14,2019,62.5
 Australia/South Pacific,Australia,NA,Melbourne,5,15,2019,63.1
-Australia/South Pacific,Australia,NA,Melbourne,5,16,2019,-99
-Australia/South Pacific,Australia,NA,Melbourne,5,17,2019,-99
-Australia/South Pacific,Australia,NA,Melbourne,5,18,2019,-99
-Australia/South Pacific,Australia,NA,Melbourne,5,19,2019,-99
+Australia/South Pacific,Australia,NA,Melbourne,5,16,2019,NA
+Australia/South Pacific,Australia,NA,Melbourne,5,17,2019,NA
+Australia/South Pacific,Australia,NA,Melbourne,5,18,2019,NA
+Australia/South Pacific,Australia,NA,Melbourne,5,19,2019,NA
 Australia/South Pacific,Australia,NA,Melbourne,5,20,2019,64.5
 Australia/South Pacific,Australia,NA,Melbourne,5,21,2019,68.8
 Australia/South Pacific,Australia,NA,Melbourne,5,22,2019,65.7
@@ -27663,140 +27395,6 @@ Australia/South Pacific,Australia,NA,Melbourne,12,28,2019,76.7
 Australia/South Pacific,Australia,NA,Melbourne,12,29,2019,75.6
 Australia/South Pacific,Australia,NA,Melbourne,12,30,2019,77.6
 Australia/South Pacific,Australia,NA,Melbourne,12,31,2019,77.3
-Australia/South Pacific,Australia,NA,Melbourne,1,1,2020,71.6
-Australia/South Pacific,Australia,NA,Melbourne,1,2,2020,73.7
-Australia/South Pacific,Australia,NA,Melbourne,1,3,2020,78.3
-Australia/South Pacific,Australia,NA,Melbourne,1,4,2020,85
-Australia/South Pacific,Australia,NA,Melbourne,1,5,2020,71.2
-Australia/South Pacific,Australia,NA,Melbourne,1,6,2020,71.7
-Australia/South Pacific,Australia,NA,Melbourne,1,7,2020,76.4
-Australia/South Pacific,Australia,NA,Melbourne,1,8,2020,72
-Australia/South Pacific,Australia,NA,Melbourne,1,9,2020,73.4
-Australia/South Pacific,Australia,NA,Melbourne,1,10,2020,78.1
-Australia/South Pacific,Australia,NA,Melbourne,1,11,2020,69.9
-Australia/South Pacific,Australia,NA,Melbourne,1,12,2020,66.7
-Australia/South Pacific,Australia,NA,Melbourne,1,13,2020,73.4
-Australia/South Pacific,Australia,NA,Melbourne,1,14,2020,74.1
-Australia/South Pacific,Australia,NA,Melbourne,1,15,2020,76.6
-Australia/South Pacific,Australia,NA,Melbourne,1,16,2020,72.2
-Australia/South Pacific,Australia,NA,Melbourne,1,17,2020,69.4
-Australia/South Pacific,Australia,NA,Melbourne,1,18,2020,69.1
-Australia/South Pacific,Australia,NA,Melbourne,1,19,2020,72.4
-Australia/South Pacific,Australia,NA,Melbourne,1,20,2020,74.7
-Australia/South Pacific,Australia,NA,Melbourne,1,21,2020,77.1
-Australia/South Pacific,Australia,NA,Melbourne,1,22,2020,81.7
-Australia/South Pacific,Australia,NA,Melbourne,1,23,2020,89.6
-Australia/South Pacific,Australia,NA,Melbourne,1,24,2020,75.3
-Australia/South Pacific,Australia,NA,Melbourne,1,25,2020,79.7
-Australia/South Pacific,Australia,NA,Melbourne,1,26,2020,83.1
-Australia/South Pacific,Australia,NA,Melbourne,1,27,2020,77.5
-Australia/South Pacific,Australia,NA,Melbourne,1,28,2020,77.5
-Australia/South Pacific,Australia,NA,Melbourne,1,29,2020,75.1
-Australia/South Pacific,Australia,NA,Melbourne,1,30,2020,80.2
-Australia/South Pacific,Australia,NA,Melbourne,1,31,2020,82.6
-Australia/South Pacific,Australia,NA,Melbourne,2,1,2020,86.1
-Australia/South Pacific,Australia,NA,Melbourne,2,2,2020,73.5
-Australia/South Pacific,Australia,NA,Melbourne,2,3,2020,72.5
-Australia/South Pacific,Australia,NA,Melbourne,2,4,2020,69.9
-Australia/South Pacific,Australia,NA,Melbourne,2,5,2020,73.5
-Australia/South Pacific,Australia,NA,Melbourne,2,6,2020,71.4
-Australia/South Pacific,Australia,NA,Melbourne,2,7,2020,69.1
-Australia/South Pacific,Australia,NA,Melbourne,2,8,2020,70.6
-Australia/South Pacific,Australia,NA,Melbourne,2,9,2020,69.7
-Australia/South Pacific,Australia,NA,Melbourne,2,10,2020,75.3
-Australia/South Pacific,Australia,NA,Melbourne,2,11,2020,76.9
-Australia/South Pacific,Australia,NA,Melbourne,2,12,2020,74.2
-Australia/South Pacific,Australia,NA,Melbourne,2,13,2020,74.7
-Australia/South Pacific,Australia,NA,Melbourne,2,14,2020,71.7
-Australia/South Pacific,Australia,NA,Melbourne,2,15,2020,73
-Australia/South Pacific,Australia,NA,Melbourne,2,16,2020,72
-Australia/South Pacific,Australia,NA,Melbourne,2,17,2020,73
-Australia/South Pacific,Australia,NA,Melbourne,2,18,2020,78.2
-Australia/South Pacific,Australia,NA,Melbourne,2,19,2020,74.3
-Australia/South Pacific,Australia,NA,Melbourne,2,20,2020,70.7
-Australia/South Pacific,Australia,NA,Melbourne,2,21,2020,70.8
-Australia/South Pacific,Australia,NA,Melbourne,2,22,2020,71.1
-Australia/South Pacific,Australia,NA,Melbourne,2,23,2020,73.5
-Australia/South Pacific,Australia,NA,Melbourne,2,24,2020,76.5
-Australia/South Pacific,Australia,NA,Melbourne,2,25,2020,78.8
-Australia/South Pacific,Australia,NA,Melbourne,2,26,2020,76.9
-Australia/South Pacific,Australia,NA,Melbourne,2,27,2020,72.6
-Australia/South Pacific,Australia,NA,Melbourne,2,28,2020,70.8
-Australia/South Pacific,Australia,NA,Melbourne,2,29,2020,73.9
-Australia/South Pacific,Australia,NA,Melbourne,3,1,2020,78.2
-Australia/South Pacific,Australia,NA,Melbourne,3,2,2020,77
-Australia/South Pacific,Australia,NA,Melbourne,3,3,2020,68.1
-Australia/South Pacific,Australia,NA,Melbourne,3,4,2020,74.1
-Australia/South Pacific,Australia,NA,Melbourne,3,5,2020,72.5
-Australia/South Pacific,Australia,NA,Melbourne,3,6,2020,71.3
-Australia/South Pacific,Australia,NA,Melbourne,3,7,2020,67.2
-Australia/South Pacific,Australia,NA,Melbourne,3,8,2020,66.3
-Australia/South Pacific,Australia,NA,Melbourne,3,9,2020,66.6
-Australia/South Pacific,Australia,NA,Melbourne,3,10,2020,66.9
-Australia/South Pacific,Australia,NA,Melbourne,3,11,2020,70.6
-Australia/South Pacific,Australia,NA,Melbourne,3,12,2020,70
-Australia/South Pacific,Australia,NA,Melbourne,3,13,2020,70.7
-Australia/South Pacific,Australia,NA,Melbourne,3,14,2020,62.3
-Australia/South Pacific,Australia,NA,Melbourne,3,15,2020,64
-Australia/South Pacific,Australia,NA,Melbourne,3,16,2020,64.4
-Australia/South Pacific,Australia,NA,Melbourne,3,17,2020,66.5
-Australia/South Pacific,Australia,NA,Melbourne,3,18,2020,71.3
-Australia/South Pacific,Australia,NA,Melbourne,3,19,2020,77.7
-Australia/South Pacific,Australia,NA,Melbourne,3,20,2020,79.1
-Australia/South Pacific,Australia,NA,Melbourne,3,21,2020,70.8
-Australia/South Pacific,Australia,NA,Melbourne,3,22,2020,72.6
-Australia/South Pacific,Australia,NA,Melbourne,3,23,2020,66.7
-Australia/South Pacific,Australia,NA,Melbourne,3,24,2020,69.8
-Australia/South Pacific,Australia,NA,Melbourne,3,25,2020,68.5
-Australia/South Pacific,Australia,NA,Melbourne,3,26,2020,67.2
-Australia/South Pacific,Australia,NA,Melbourne,3,27,2020,66.9
-Australia/South Pacific,Australia,NA,Melbourne,3,28,2020,68.1
-Australia/South Pacific,Australia,NA,Melbourne,3,29,2020,71.8
-Australia/South Pacific,Australia,NA,Melbourne,3,30,2020,71.4
-Australia/South Pacific,Australia,NA,Melbourne,3,31,2020,72.5
-Australia/South Pacific,Australia,NA,Melbourne,4,1,2020,72.9
-Australia/South Pacific,Australia,NA,Melbourne,4,2,2020,69.3
-Australia/South Pacific,Australia,NA,Melbourne,4,3,2020,72.1
-Australia/South Pacific,Australia,NA,Melbourne,4,4,2020,67.9
-Australia/South Pacific,Australia,NA,Melbourne,4,5,2020,67.2
-Australia/South Pacific,Australia,NA,Melbourne,4,6,2020,65.7
-Australia/South Pacific,Australia,NA,Melbourne,4,7,2020,64.7
-Australia/South Pacific,Australia,NA,Melbourne,4,8,2020,64.9
-Australia/South Pacific,Australia,NA,Melbourne,4,9,2020,66.2
-Australia/South Pacific,Australia,NA,Melbourne,4,10,2020,63.7
-Australia/South Pacific,Australia,NA,Melbourne,4,11,2020,64.7
-Australia/South Pacific,Australia,NA,Melbourne,4,12,2020,60.4
-Australia/South Pacific,Australia,NA,Melbourne,4,13,2020,63.6
-Australia/South Pacific,Australia,NA,Melbourne,4,14,2020,67.7
-Australia/South Pacific,Australia,NA,Melbourne,4,15,2020,71.7
-Australia/South Pacific,Australia,NA,Melbourne,4,16,2020,74.1
-Australia/South Pacific,Australia,NA,Melbourne,4,17,2020,68.1
-Australia/South Pacific,Australia,NA,Melbourne,4,18,2020,63
-Australia/South Pacific,Australia,NA,Melbourne,4,19,2020,63
-Australia/South Pacific,Australia,NA,Melbourne,4,20,2020,64.1
-Australia/South Pacific,Australia,NA,Melbourne,4,21,2020,68.1
-Australia/South Pacific,Australia,NA,Melbourne,4,22,2020,66
-Australia/South Pacific,Australia,NA,Melbourne,4,23,2020,69
-Australia/South Pacific,Australia,NA,Melbourne,4,24,2020,69
-Australia/South Pacific,Australia,NA,Melbourne,4,25,2020,69.6
-Australia/South Pacific,Australia,NA,Melbourne,4,26,2020,70.4
-Australia/South Pacific,Australia,NA,Melbourne,4,27,2020,68.6
-Australia/South Pacific,Australia,NA,Melbourne,4,28,2020,69
-Australia/South Pacific,Australia,NA,Melbourne,4,29,2020,71
-Australia/South Pacific,Australia,NA,Melbourne,4,30,2020,55.8
-Australia/South Pacific,Australia,NA,Melbourne,5,1,2020,58.6
-Australia/South Pacific,Australia,NA,Melbourne,5,2,2020,58.2
-Australia/South Pacific,Australia,NA,Melbourne,5,3,2020,57.6
-Australia/South Pacific,Australia,NA,Melbourne,5,4,2020,59.4
-Australia/South Pacific,Australia,NA,Melbourne,5,5,2020,59.4
-Australia/South Pacific,Australia,NA,Melbourne,5,6,2020,63.2
-Australia/South Pacific,Australia,NA,Melbourne,5,7,2020,67.2
-Australia/South Pacific,Australia,NA,Melbourne,5,8,2020,70.7
-Australia/South Pacific,Australia,NA,Melbourne,5,9,2020,66.2
-Australia/South Pacific,Australia,NA,Melbourne,5,10,2020,54.8
-Australia/South Pacific,Australia,NA,Melbourne,5,11,2020,55.7
-Australia/South Pacific,Australia,NA,Melbourne,5,12,2020,59.8
-Australia/South Pacific,Australia,NA,Melbourne,5,13,2020,61.5
 Australia/South Pacific,Australia,NA,Perth,1,1,1995,81.7
 Australia/South Pacific,Australia,NA,Perth,1,2,1995,82.2
 Australia/South Pacific,Australia,NA,Perth,1,3,1995,79.5
@@ -29116,148 +28714,148 @@ Australia/South Pacific,Australia,NA,Perth,8,8,1998,59.4
 Australia/South Pacific,Australia,NA,Perth,8,9,1998,63.7
 Australia/South Pacific,Australia,NA,Perth,8,10,1998,60
 Australia/South Pacific,Australia,NA,Perth,8,11,1998,58.7
-Australia/South Pacific,Australia,NA,Perth,8,12,1998,-99
-Australia/South Pacific,Australia,NA,Perth,8,13,1998,-99
-Australia/South Pacific,Australia,NA,Perth,8,14,1998,-99
-Australia/South Pacific,Australia,NA,Perth,8,15,1998,-99
-Australia/South Pacific,Australia,NA,Perth,8,16,1998,-99
-Australia/South Pacific,Australia,NA,Perth,8,17,1998,-99
-Australia/South Pacific,Australia,NA,Perth,8,18,1998,-99
-Australia/South Pacific,Australia,NA,Perth,8,19,1998,-99
-Australia/South Pacific,Australia,NA,Perth,8,20,1998,-99
-Australia/South Pacific,Australia,NA,Perth,8,21,1998,-99
-Australia/South Pacific,Australia,NA,Perth,8,22,1998,-99
-Australia/South Pacific,Australia,NA,Perth,8,23,1998,-99
-Australia/South Pacific,Australia,NA,Perth,8,24,1998,-99
-Australia/South Pacific,Australia,NA,Perth,8,25,1998,-99
-Australia/South Pacific,Australia,NA,Perth,8,26,1998,-99
-Australia/South Pacific,Australia,NA,Perth,8,27,1998,-99
-Australia/South Pacific,Australia,NA,Perth,8,28,1998,-99
-Australia/South Pacific,Australia,NA,Perth,8,29,1998,-99
-Australia/South Pacific,Australia,NA,Perth,8,30,1998,-99
-Australia/South Pacific,Australia,NA,Perth,8,31,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,1,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,2,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,3,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,4,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,5,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,6,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,7,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,8,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,9,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,10,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,11,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,12,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,13,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,14,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,15,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,16,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,17,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,18,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,19,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,20,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,21,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,22,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,23,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,24,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,25,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,26,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,27,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,28,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,29,1998,-99
-Australia/South Pacific,Australia,NA,Perth,9,30,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,1,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,2,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,3,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,4,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,5,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,6,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,7,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,8,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,9,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,10,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,11,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,12,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,13,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,14,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,15,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,16,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,17,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,18,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,19,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,20,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,21,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,22,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,23,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,24,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,25,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,26,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,27,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,28,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,29,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,30,1998,-99
-Australia/South Pacific,Australia,NA,Perth,10,31,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,1,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,2,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,3,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,4,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,5,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,6,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,7,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,8,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,9,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,10,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,11,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,12,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,13,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,14,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,15,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,16,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,17,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,18,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,19,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,20,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,21,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,22,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,23,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,24,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,25,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,26,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,27,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,28,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,29,1998,-99
-Australia/South Pacific,Australia,NA,Perth,11,30,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,1,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,2,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,3,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,4,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,5,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,6,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,7,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,8,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,9,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,10,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,11,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,12,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,13,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,14,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,15,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,16,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,17,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,18,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,19,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,20,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,21,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,22,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,23,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,24,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,25,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,26,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,27,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,28,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,29,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,30,1998,-99
-Australia/South Pacific,Australia,NA,Perth,12,31,1998,-99
+Australia/South Pacific,Australia,NA,Perth,8,12,1998,NA
+Australia/South Pacific,Australia,NA,Perth,8,13,1998,NA
+Australia/South Pacific,Australia,NA,Perth,8,14,1998,NA
+Australia/South Pacific,Australia,NA,Perth,8,15,1998,NA
+Australia/South Pacific,Australia,NA,Perth,8,16,1998,NA
+Australia/South Pacific,Australia,NA,Perth,8,17,1998,NA
+Australia/South Pacific,Australia,NA,Perth,8,18,1998,NA
+Australia/South Pacific,Australia,NA,Perth,8,19,1998,NA
+Australia/South Pacific,Australia,NA,Perth,8,20,1998,NA
+Australia/South Pacific,Australia,NA,Perth,8,21,1998,NA
+Australia/South Pacific,Australia,NA,Perth,8,22,1998,NA
+Australia/South Pacific,Australia,NA,Perth,8,23,1998,NA
+Australia/South Pacific,Australia,NA,Perth,8,24,1998,NA
+Australia/South Pacific,Australia,NA,Perth,8,25,1998,NA
+Australia/South Pacific,Australia,NA,Perth,8,26,1998,NA
+Australia/South Pacific,Australia,NA,Perth,8,27,1998,NA
+Australia/South Pacific,Australia,NA,Perth,8,28,1998,NA
+Australia/South Pacific,Australia,NA,Perth,8,29,1998,NA
+Australia/South Pacific,Australia,NA,Perth,8,30,1998,NA
+Australia/South Pacific,Australia,NA,Perth,8,31,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,1,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,2,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,3,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,4,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,5,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,6,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,7,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,8,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,9,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,10,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,11,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,12,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,13,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,14,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,15,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,16,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,17,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,18,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,19,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,20,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,21,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,22,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,23,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,24,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,25,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,26,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,27,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,28,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,29,1998,NA
+Australia/South Pacific,Australia,NA,Perth,9,30,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,1,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,2,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,3,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,4,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,5,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,6,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,7,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,8,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,9,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,10,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,11,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,12,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,13,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,14,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,15,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,16,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,17,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,18,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,19,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,20,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,21,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,22,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,23,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,24,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,25,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,26,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,27,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,28,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,29,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,30,1998,NA
+Australia/South Pacific,Australia,NA,Perth,10,31,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,1,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,2,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,3,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,4,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,5,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,6,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,7,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,8,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,9,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,10,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,11,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,12,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,13,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,14,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,15,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,16,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,17,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,18,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,19,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,20,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,21,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,22,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,23,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,24,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,25,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,26,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,27,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,28,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,29,1998,NA
+Australia/South Pacific,Australia,NA,Perth,11,30,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,1,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,2,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,3,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,4,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,5,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,6,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,7,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,8,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,9,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,10,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,11,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,12,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,13,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,14,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,15,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,16,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,17,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,18,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,19,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,20,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,21,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,22,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,23,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,24,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,25,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,26,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,27,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,28,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,29,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,30,1998,NA
+Australia/South Pacific,Australia,NA,Perth,12,31,1998,NA
 Australia/South Pacific,Australia,NA,Perth,1,1,1999,76.2
 Australia/South Pacific,Australia,NA,Perth,1,2,1999,73.4
 Australia/South Pacific,Australia,NA,Perth,1,3,1999,71.3
@@ -29267,7 +28865,7 @@ Australia/South Pacific,Australia,NA,Perth,1,6,1999,68.1
 Australia/South Pacific,Australia,NA,Perth,1,7,1999,73.7
 Australia/South Pacific,Australia,NA,Perth,1,8,1999,79.6
 Australia/South Pacific,Australia,NA,Perth,1,9,1999,66.7
-Australia/South Pacific,Australia,NA,Perth,1,10,1999,-99
+Australia/South Pacific,Australia,NA,Perth,1,10,1999,NA
 Australia/South Pacific,Australia,NA,Perth,1,11,1999,69.9
 Australia/South Pacific,Australia,NA,Perth,1,12,1999,69.4
 Australia/South Pacific,Australia,NA,Perth,1,13,1999,76.7
@@ -30043,7 +29641,7 @@ Australia/South Pacific,Australia,NA,Perth,2,20,2001,70.7
 Australia/South Pacific,Australia,NA,Perth,2,21,2001,76.9
 Australia/South Pacific,Australia,NA,Perth,2,22,2001,81.9
 Australia/South Pacific,Australia,NA,Perth,2,23,2001,80.4
-Australia/South Pacific,Australia,NA,Perth,2,24,2001,-99
+Australia/South Pacific,Australia,NA,Perth,2,24,2001,NA
 Australia/South Pacific,Australia,NA,Perth,2,25,2001,76.8
 Australia/South Pacific,Australia,NA,Perth,2,26,2001,72.9
 Australia/South Pacific,Australia,NA,Perth,2,27,2001,78.7
@@ -30522,10 +30120,10 @@ Australia/South Pacific,Australia,NA,Perth,6,14,2002,56.4
 Australia/South Pacific,Australia,NA,Perth,6,15,2002,53.8
 Australia/South Pacific,Australia,NA,Perth,6,16,2002,56.8
 Australia/South Pacific,Australia,NA,Perth,6,17,2002,61.6
-Australia/South Pacific,Australia,NA,Perth,6,18,2002,-99
-Australia/South Pacific,Australia,NA,Perth,6,19,2002,-99
-Australia/South Pacific,Australia,NA,Perth,6,20,2002,-99
-Australia/South Pacific,Australia,NA,Perth,6,21,2002,-99
+Australia/South Pacific,Australia,NA,Perth,6,18,2002,NA
+Australia/South Pacific,Australia,NA,Perth,6,19,2002,NA
+Australia/South Pacific,Australia,NA,Perth,6,20,2002,NA
+Australia/South Pacific,Australia,NA,Perth,6,21,2002,NA
 Australia/South Pacific,Australia,NA,Perth,6,22,2002,51
 Australia/South Pacific,Australia,NA,Perth,6,23,2002,55.4
 Australia/South Pacific,Australia,NA,Perth,6,24,2002,56.9
@@ -30603,7 +30201,7 @@ Australia/South Pacific,Australia,NA,Perth,9,3,2002,56.6
 Australia/South Pacific,Australia,NA,Perth,9,4,2002,55.7
 Australia/South Pacific,Australia,NA,Perth,9,5,2002,58.7
 Australia/South Pacific,Australia,NA,Perth,9,6,2002,54.1
-Australia/South Pacific,Australia,NA,Perth,9,7,2002,-99
+Australia/South Pacific,Australia,NA,Perth,9,7,2002,NA
 Australia/South Pacific,Australia,NA,Perth,9,8,2002,54.4
 Australia/South Pacific,Australia,NA,Perth,9,9,2002,58.8
 Australia/South Pacific,Australia,NA,Perth,9,10,2002,61.3
@@ -30731,7 +30329,7 @@ Australia/South Pacific,Australia,NA,Perth,1,9,2003,87.9
 Australia/South Pacific,Australia,NA,Perth,1,10,2003,79.3
 Australia/South Pacific,Australia,NA,Perth,1,11,2003,70.7
 Australia/South Pacific,Australia,NA,Perth,1,12,2003,65.3
-Australia/South Pacific,Australia,NA,Perth,1,13,2003,-99
+Australia/South Pacific,Australia,NA,Perth,1,13,2003,NA
 Australia/South Pacific,Australia,NA,Perth,1,14,2003,76.2
 Australia/South Pacific,Australia,NA,Perth,1,15,2003,82
 Australia/South Pacific,Australia,NA,Perth,1,16,2003,80.1
@@ -30778,7 +30376,7 @@ Australia/South Pacific,Australia,NA,Perth,2,25,2003,79.3
 Australia/South Pacific,Australia,NA,Perth,2,26,2003,79.4
 Australia/South Pacific,Australia,NA,Perth,2,27,2003,71.8
 Australia/South Pacific,Australia,NA,Perth,2,28,2003,73.6
-Australia/South Pacific,Australia,NA,Perth,3,1,2003,-99
+Australia/South Pacific,Australia,NA,Perth,3,1,2003,NA
 Australia/South Pacific,Australia,NA,Perth,3,2,2003,76.3
 Australia/South Pacific,Australia,NA,Perth,3,3,2003,75.7
 Australia/South Pacific,Australia,NA,Perth,3,4,2003,76.1
@@ -30984,7 +30582,7 @@ Australia/South Pacific,Australia,NA,Perth,9,19,2003,60.9
 Australia/South Pacific,Australia,NA,Perth,9,20,2003,57.3
 Australia/South Pacific,Australia,NA,Perth,9,21,2003,56
 Australia/South Pacific,Australia,NA,Perth,9,22,2003,56.2
-Australia/South Pacific,Australia,NA,Perth,9,23,2003,-99
+Australia/South Pacific,Australia,NA,Perth,9,23,2003,NA
 Australia/South Pacific,Australia,NA,Perth,9,24,2003,58.3
 Australia/South Pacific,Australia,NA,Perth,9,25,2003,53.8
 Australia/South Pacific,Australia,NA,Perth,9,26,2003,60.3
@@ -32419,7 +32017,7 @@ Australia/South Pacific,Australia,NA,Perth,8,24,2007,57.6
 Australia/South Pacific,Australia,NA,Perth,8,25,2007,61.6
 Australia/South Pacific,Australia,NA,Perth,8,26,2007,57.7
 Australia/South Pacific,Australia,NA,Perth,8,27,2007,55.9
-Australia/South Pacific,Australia,NA,Perth,8,28,2007,-99
+Australia/South Pacific,Australia,NA,Perth,8,28,2007,NA
 Australia/South Pacific,Australia,NA,Perth,8,29,2007,52.7
 Australia/South Pacific,Australia,NA,Perth,8,30,2007,50.8
 Australia/South Pacific,Australia,NA,Perth,8,31,2007,52.3
@@ -32587,7 +32185,7 @@ Australia/South Pacific,Australia,NA,Perth,2,8,2008,73.4
 Australia/South Pacific,Australia,NA,Perth,2,9,2008,76.4
 Australia/South Pacific,Australia,NA,Perth,2,10,2008,82.2
 Australia/South Pacific,Australia,NA,Perth,2,11,2008,83.5
-Australia/South Pacific,Australia,NA,Perth,2,12,2008,-99
+Australia/South Pacific,Australia,NA,Perth,2,12,2008,NA
 Australia/South Pacific,Australia,NA,Perth,2,13,2008,86.3
 Australia/South Pacific,Australia,NA,Perth,2,14,2008,78.2
 Australia/South Pacific,Australia,NA,Perth,2,15,2008,72.1
@@ -32775,7 +32373,7 @@ Australia/South Pacific,Australia,NA,Perth,8,14,2008,55.6
 Australia/South Pacific,Australia,NA,Perth,8,15,2008,56.4
 Australia/South Pacific,Australia,NA,Perth,8,16,2008,58.7
 Australia/South Pacific,Australia,NA,Perth,8,17,2008,56.8
-Australia/South Pacific,Australia,NA,Perth,8,18,2008,-99
+Australia/South Pacific,Australia,NA,Perth,8,18,2008,NA
 Australia/South Pacific,Australia,NA,Perth,8,19,2008,54.2
 Australia/South Pacific,Australia,NA,Perth,8,20,2008,53.9
 Australia/South Pacific,Australia,NA,Perth,8,21,2008,53.7
@@ -32812,7 +32410,7 @@ Australia/South Pacific,Australia,NA,Perth,9,20,2008,62
 Australia/South Pacific,Australia,NA,Perth,9,21,2008,49.4
 Australia/South Pacific,Australia,NA,Perth,9,22,2008,50.1
 Australia/South Pacific,Australia,NA,Perth,9,23,2008,66.1
-Australia/South Pacific,Australia,NA,Perth,9,24,2008,-99
+Australia/South Pacific,Australia,NA,Perth,9,24,2008,NA
 Australia/South Pacific,Australia,NA,Perth,9,25,2008,56.6
 Australia/South Pacific,Australia,NA,Perth,9,26,2008,55.9
 Australia/South Pacific,Australia,NA,Perth,9,27,2008,58.9
@@ -33009,7 +32607,7 @@ Australia/South Pacific,Australia,NA,Perth,4,5,2009,69.4
 Australia/South Pacific,Australia,NA,Perth,4,6,2009,71.6
 Australia/South Pacific,Australia,NA,Perth,4,7,2009,75.3
 Australia/South Pacific,Australia,NA,Perth,4,8,2009,74.8
-Australia/South Pacific,Australia,NA,Perth,4,9,2009,-99
+Australia/South Pacific,Australia,NA,Perth,4,9,2009,NA
 Australia/South Pacific,Australia,NA,Perth,4,10,2009,75.4
 Australia/South Pacific,Australia,NA,Perth,4,11,2009,73.5
 Australia/South Pacific,Australia,NA,Perth,4,12,2009,79.6
@@ -34773,7 +34371,7 @@ Australia/South Pacific,Australia,NA,Perth,2,2,2014,75.9
 Australia/South Pacific,Australia,NA,Perth,2,3,2014,80.1
 Australia/South Pacific,Australia,NA,Perth,2,4,2014,83.6
 Australia/South Pacific,Australia,NA,Perth,2,5,2014,79.9
-Australia/South Pacific,Australia,NA,Perth,2,6,2014,-99
+Australia/South Pacific,Australia,NA,Perth,2,6,2014,NA
 Australia/South Pacific,Australia,NA,Perth,2,7,2014,73
 Australia/South Pacific,Australia,NA,Perth,2,8,2014,72.3
 Australia/South Pacific,Australia,NA,Perth,2,9,2014,74.4
@@ -35466,8 +35064,8 @@ Australia/South Pacific,Australia,NA,Perth,12,27,2015,85.7
 Australia/South Pacific,Australia,NA,Perth,12,28,2015,92.2
 Australia/South Pacific,Australia,NA,Perth,12,29,2015,80.8
 Australia/South Pacific,Australia,NA,Perth,12,30,2015,75.8
-Australia/South Pacific,Australia,NA,Perth,12,30,2015,-99
-Australia/South Pacific,Australia,NA,Perth,12,31,2015,-99
+Australia/South Pacific,Australia,NA,Perth,12,30,2015,NA
+Australia/South Pacific,Australia,NA,Perth,12,31,2015,NA
 Australia/South Pacific,Australia,NA,Perth,1,1,2016,80.7
 Australia/South Pacific,Australia,NA,Perth,1,2,2016,82.4
 Australia/South Pacific,Australia,NA,Perth,1,3,2016,84.2
@@ -35537,7 +35135,7 @@ Australia/South Pacific,Australia,NA,Perth,3,6,2016,77.2
 Australia/South Pacific,Australia,NA,Perth,3,7,2016,78.7
 Australia/South Pacific,Australia,NA,Perth,3,8,2016,78.4
 Australia/South Pacific,Australia,NA,Perth,3,9,2016,81.6
-Australia/South Pacific,Australia,NA,Perth,3,10,2016,-99
+Australia/South Pacific,Australia,NA,Perth,3,10,2016,NA
 Australia/South Pacific,Australia,NA,Perth,3,11,2016,76
 Australia/South Pacific,Australia,NA,Perth,3,12,2016,79.7
 Australia/South Pacific,Australia,NA,Perth,3,13,2016,89.4
@@ -35593,7 +35191,7 @@ Australia/South Pacific,Australia,NA,Perth,5,1,2016,57.6
 Australia/South Pacific,Australia,NA,Perth,5,2,2016,58.7
 Australia/South Pacific,Australia,NA,Perth,5,3,2016,60.3
 Australia/South Pacific,Australia,NA,Perth,5,4,2016,63.1
-Australia/South Pacific,Australia,NA,Perth,5,5,2016,-99
+Australia/South Pacific,Australia,NA,Perth,5,5,2016,NA
 Australia/South Pacific,Australia,NA,Perth,5,6,2016,60.4
 Australia/South Pacific,Australia,NA,Perth,5,7,2016,53
 Australia/South Pacific,Australia,NA,Perth,5,8,2016,50.8
@@ -35732,7 +35330,7 @@ Australia/South Pacific,Australia,NA,Perth,9,17,2016,51.5
 Australia/South Pacific,Australia,NA,Perth,9,18,2016,53.3
 Australia/South Pacific,Australia,NA,Perth,9,19,2016,52.5
 Australia/South Pacific,Australia,NA,Perth,9,20,2016,55.2
-Australia/South Pacific,Australia,NA,Perth,9,21,2016,-99
+Australia/South Pacific,Australia,NA,Perth,9,21,2016,NA
 Australia/South Pacific,Australia,NA,Perth,9,22,2016,55.9
 Australia/South Pacific,Australia,NA,Perth,9,23,2016,49.6
 Australia/South Pacific,Australia,NA,Perth,9,24,2016,53.1
@@ -35783,7 +35381,7 @@ Australia/South Pacific,Australia,NA,Perth,11,7,2016,61.7
 Australia/South Pacific,Australia,NA,Perth,11,8,2016,63
 Australia/South Pacific,Australia,NA,Perth,11,9,2016,58.1
 Australia/South Pacific,Australia,NA,Perth,11,10,2016,60.8
-Australia/South Pacific,Australia,NA,Perth,11,11,2016,-99
+Australia/South Pacific,Australia,NA,Perth,11,11,2016,NA
 Australia/South Pacific,Australia,NA,Perth,11,12,2016,63.3
 Australia/South Pacific,Australia,NA,Perth,11,13,2016,72.9
 Australia/South Pacific,Australia,NA,Perth,11,14,2016,84.3
@@ -36202,7 +35800,7 @@ Australia/South Pacific,Australia,NA,Perth,12,31,2017,77.8
 Australia/South Pacific,Australia,NA,Perth,1,1,2018,78.5
 Australia/South Pacific,Australia,NA,Perth,1,2,2018,84.6
 Australia/South Pacific,Australia,NA,Perth,1,3,2018,74.8
-Australia/South Pacific,Australia,NA,Perth,1,4,2018,-99
+Australia/South Pacific,Australia,NA,Perth,1,4,2018,NA
 Australia/South Pacific,Australia,NA,Perth,1,5,2018,66.8
 Australia/South Pacific,Australia,NA,Perth,1,6,2018,68.9
 Australia/South Pacific,Australia,NA,Perth,1,7,2018,75.5
@@ -36516,10 +36114,10 @@ Australia/South Pacific,Australia,NA,Perth,11,10,2018,68.2
 Australia/South Pacific,Australia,NA,Perth,11,11,2018,64.1
 Australia/South Pacific,Australia,NA,Perth,11,12,2018,66.1
 Australia/South Pacific,Australia,NA,Perth,11,13,2018,67.4
-Australia/South Pacific,Australia,NA,Perth,11,14,2018,-99
-Australia/South Pacific,Australia,NA,Perth,11,15,2018,-99
+Australia/South Pacific,Australia,NA,Perth,11,14,2018,NA
+Australia/South Pacific,Australia,NA,Perth,11,15,2018,NA
 Australia/South Pacific,Australia,NA,Perth,11,16,2018,84.7
-Australia/South Pacific,Australia,NA,Perth,11,17,2018,-99
+Australia/South Pacific,Australia,NA,Perth,11,17,2018,NA
 Australia/South Pacific,Australia,NA,Perth,11,18,2018,65.4
 Australia/South Pacific,Australia,NA,Perth,11,19,2018,60.5
 Australia/South Pacific,Australia,NA,Perth,11,20,2018,61.9
@@ -36677,7 +36275,7 @@ Australia/South Pacific,Australia,NA,Perth,4,20,2019,52.4
 Australia/South Pacific,Australia,NA,Perth,4,21,2019,58.6
 Australia/South Pacific,Australia,NA,Perth,4,22,2019,62.4
 Australia/South Pacific,Australia,NA,Perth,4,23,2019,67.1
-Australia/South Pacific,Australia,NA,Perth,4,24,2019,-99
+Australia/South Pacific,Australia,NA,Perth,4,24,2019,NA
 Australia/South Pacific,Australia,NA,Perth,4,25,2019,69.4
 Australia/South Pacific,Australia,NA,Perth,4,26,2019,67.1
 Australia/South Pacific,Australia,NA,Perth,4,27,2019,69
@@ -36699,10 +36297,10 @@ Australia/South Pacific,Australia,NA,Perth,5,12,2019,59.5
 Australia/South Pacific,Australia,NA,Perth,5,13,2019,58.3
 Australia/South Pacific,Australia,NA,Perth,5,14,2019,64
 Australia/South Pacific,Australia,NA,Perth,5,15,2019,66.2
-Australia/South Pacific,Australia,NA,Perth,5,16,2019,-99
-Australia/South Pacific,Australia,NA,Perth,5,17,2019,-99
-Australia/South Pacific,Australia,NA,Perth,5,18,2019,-99
-Australia/South Pacific,Australia,NA,Perth,5,19,2019,-99
+Australia/South Pacific,Australia,NA,Perth,5,16,2019,NA
+Australia/South Pacific,Australia,NA,Perth,5,17,2019,NA
+Australia/South Pacific,Australia,NA,Perth,5,18,2019,NA
+Australia/South Pacific,Australia,NA,Perth,5,19,2019,NA
 Australia/South Pacific,Australia,NA,Perth,5,20,2019,60.2
 Australia/South Pacific,Australia,NA,Perth,5,21,2019,56.8
 Australia/South Pacific,Australia,NA,Perth,5,22,2019,59.7
@@ -36929,140 +36527,6 @@ Australia/South Pacific,Australia,NA,Perth,12,28,2019,72.2
 Australia/South Pacific,Australia,NA,Perth,12,29,2019,70.3
 Australia/South Pacific,Australia,NA,Perth,12,30,2019,68.4
 Australia/South Pacific,Australia,NA,Perth,12,31,2019,72.4
-Australia/South Pacific,Australia,NA,Perth,1,1,2020,74.3
-Australia/South Pacific,Australia,NA,Perth,1,2,2020,67.7
-Australia/South Pacific,Australia,NA,Perth,1,3,2020,63.9
-Australia/South Pacific,Australia,NA,Perth,1,4,2020,67.9
-Australia/South Pacific,Australia,NA,Perth,1,5,2020,77.6
-Australia/South Pacific,Australia,NA,Perth,1,6,2020,77.4
-Australia/South Pacific,Australia,NA,Perth,1,7,2020,76
-Australia/South Pacific,Australia,NA,Perth,1,8,2020,73.8
-Australia/South Pacific,Australia,NA,Perth,1,9,2020,72.2
-Australia/South Pacific,Australia,NA,Perth,1,10,2020,76.4
-Australia/South Pacific,Australia,NA,Perth,1,11,2020,85.2
-Australia/South Pacific,Australia,NA,Perth,1,12,2020,78.2
-Australia/South Pacific,Australia,NA,Perth,1,13,2020,80.4
-Australia/South Pacific,Australia,NA,Perth,1,14,2020,80.5
-Australia/South Pacific,Australia,NA,Perth,1,15,2020,79.7
-Australia/South Pacific,Australia,NA,Perth,1,16,2020,83
-Australia/South Pacific,Australia,NA,Perth,1,17,2020,75.5
-Australia/South Pacific,Australia,NA,Perth,1,18,2020,76.5
-Australia/South Pacific,Australia,NA,Perth,1,19,2020,72.5
-Australia/South Pacific,Australia,NA,Perth,1,20,2020,75.1
-Australia/South Pacific,Australia,NA,Perth,1,21,2020,67.8
-Australia/South Pacific,Australia,NA,Perth,1,22,2020,69.4
-Australia/South Pacific,Australia,NA,Perth,1,23,2020,72.7
-Australia/South Pacific,Australia,NA,Perth,1,24,2020,75.8
-Australia/South Pacific,Australia,NA,Perth,1,25,2020,79.1
-Australia/South Pacific,Australia,NA,Perth,1,26,2020,83.8
-Australia/South Pacific,Australia,NA,Perth,1,27,2020,87.9
-Australia/South Pacific,Australia,NA,Perth,1,28,2020,79.6
-Australia/South Pacific,Australia,NA,Perth,1,29,2020,72.9
-Australia/South Pacific,Australia,NA,Perth,1,30,2020,65.8
-Australia/South Pacific,Australia,NA,Perth,1,31,2020,66.8
-Australia/South Pacific,Australia,NA,Perth,2,1,2020,71.5
-Australia/South Pacific,Australia,NA,Perth,2,2,2020,80
-Australia/South Pacific,Australia,NA,Perth,2,3,2020,86.3
-Australia/South Pacific,Australia,NA,Perth,2,4,2020,92.2
-Australia/South Pacific,Australia,NA,Perth,2,5,2020,82.1
-Australia/South Pacific,Australia,NA,Perth,2,6,2020,77.2
-Australia/South Pacific,Australia,NA,Perth,2,7,2020,75.7
-Australia/South Pacific,Australia,NA,Perth,2,8,2020,71.8
-Australia/South Pacific,Australia,NA,Perth,2,9,2020,71
-Australia/South Pacific,Australia,NA,Perth,2,10,2020,78.2
-Australia/South Pacific,Australia,NA,Perth,2,11,2020,79.3
-Australia/South Pacific,Australia,NA,Perth,2,12,2020,80.6
-Australia/South Pacific,Australia,NA,Perth,2,13,2020,85.7
-Australia/South Pacific,Australia,NA,Perth,2,14,2020,84.6
-Australia/South Pacific,Australia,NA,Perth,2,15,2020,72.2
-Australia/South Pacific,Australia,NA,Perth,2,16,2020,71.7
-Australia/South Pacific,Australia,NA,Perth,2,17,2020,76.7
-Australia/South Pacific,Australia,NA,Perth,2,18,2020,82
-Australia/South Pacific,Australia,NA,Perth,2,19,2020,85.8
-Australia/South Pacific,Australia,NA,Perth,2,20,2020,85
-Australia/South Pacific,Australia,NA,Perth,2,21,2020,80.9
-Australia/South Pacific,Australia,NA,Perth,2,22,2020,73.7
-Australia/South Pacific,Australia,NA,Perth,2,23,2020,81.3
-Australia/South Pacific,Australia,NA,Perth,2,24,2020,78.9
-Australia/South Pacific,Australia,NA,Perth,2,25,2020,80.1
-Australia/South Pacific,Australia,NA,Perth,2,26,2020,76.3
-Australia/South Pacific,Australia,NA,Perth,2,27,2020,75.5
-Australia/South Pacific,Australia,NA,Perth,2,28,2020,77.3
-Australia/South Pacific,Australia,NA,Perth,2,29,2020,73.8
-Australia/South Pacific,Australia,NA,Perth,3,1,2020,71.5
-Australia/South Pacific,Australia,NA,Perth,3,2,2020,73.3
-Australia/South Pacific,Australia,NA,Perth,3,3,2020,76.4
-Australia/South Pacific,Australia,NA,Perth,3,4,2020,74.4
-Australia/South Pacific,Australia,NA,Perth,3,5,2020,77
-Australia/South Pacific,Australia,NA,Perth,3,6,2020,73
-Australia/South Pacific,Australia,NA,Perth,3,7,2020,72.1
-Australia/South Pacific,Australia,NA,Perth,3,8,2020,77.9
-Australia/South Pacific,Australia,NA,Perth,3,9,2020,81.8
-Australia/South Pacific,Australia,NA,Perth,3,10,2020,81.1
-Australia/South Pacific,Australia,NA,Perth,3,11,2020,77
-Australia/South Pacific,Australia,NA,Perth,3,12,2020,76.4
-Australia/South Pacific,Australia,NA,Perth,3,13,2020,79.4
-Australia/South Pacific,Australia,NA,Perth,3,14,2020,72.7
-Australia/South Pacific,Australia,NA,Perth,3,15,2020,71.1
-Australia/South Pacific,Australia,NA,Perth,3,16,2020,71.4
-Australia/South Pacific,Australia,NA,Perth,3,17,2020,66.5
-Australia/South Pacific,Australia,NA,Perth,3,18,2020,64.5
-Australia/South Pacific,Australia,NA,Perth,3,19,2020,67.7
-Australia/South Pacific,Australia,NA,Perth,3,20,2020,73.1
-Australia/South Pacific,Australia,NA,Perth,3,21,2020,75.9
-Australia/South Pacific,Australia,NA,Perth,3,22,2020,77.1
-Australia/South Pacific,Australia,NA,Perth,3,23,2020,78.2
-Australia/South Pacific,Australia,NA,Perth,3,24,2020,81.5
-Australia/South Pacific,Australia,NA,Perth,3,25,2020,79.5
-Australia/South Pacific,Australia,NA,Perth,3,26,2020,83.3
-Australia/South Pacific,Australia,NA,Perth,3,27,2020,74.2
-Australia/South Pacific,Australia,NA,Perth,3,28,2020,65
-Australia/South Pacific,Australia,NA,Perth,3,29,2020,60.8
-Australia/South Pacific,Australia,NA,Perth,3,30,2020,63
-Australia/South Pacific,Australia,NA,Perth,3,31,2020,65.6
-Australia/South Pacific,Australia,NA,Perth,4,1,2020,70.8
-Australia/South Pacific,Australia,NA,Perth,4,2,2020,64.9
-Australia/South Pacific,Australia,NA,Perth,4,3,2020,62.7
-Australia/South Pacific,Australia,NA,Perth,4,4,2020,68.7
-Australia/South Pacific,Australia,NA,Perth,4,5,2020,70.8
-Australia/South Pacific,Australia,NA,Perth,4,6,2020,78.2
-Australia/South Pacific,Australia,NA,Perth,4,7,2020,75.7
-Australia/South Pacific,Australia,NA,Perth,4,8,2020,73.6
-Australia/South Pacific,Australia,NA,Perth,4,9,2020,80.2
-Australia/South Pacific,Australia,NA,Perth,4,10,2020,82.8
-Australia/South Pacific,Australia,NA,Perth,4,11,2020,80.9
-Australia/South Pacific,Australia,NA,Perth,4,12,2020,69.4
-Australia/South Pacific,Australia,NA,Perth,4,13,2020,67.5
-Australia/South Pacific,Australia,NA,Perth,4,14,2020,67.5
-Australia/South Pacific,Australia,NA,Perth,4,15,2020,62.5
-Australia/South Pacific,Australia,NA,Perth,4,16,2020,66.3
-Australia/South Pacific,Australia,NA,Perth,4,17,2020,66.1
-Australia/South Pacific,Australia,NA,Perth,4,18,2020,65.5
-Australia/South Pacific,Australia,NA,Perth,4,19,2020,59.8
-Australia/South Pacific,Australia,NA,Perth,4,20,2020,66
-Australia/South Pacific,Australia,NA,Perth,4,21,2020,64.7
-Australia/South Pacific,Australia,NA,Perth,4,22,2020,65.4
-Australia/South Pacific,Australia,NA,Perth,4,23,2020,65.1
-Australia/South Pacific,Australia,NA,Perth,4,24,2020,66.1
-Australia/South Pacific,Australia,NA,Perth,4,25,2020,62.4
-Australia/South Pacific,Australia,NA,Perth,4,26,2020,63.7
-Australia/South Pacific,Australia,NA,Perth,4,27,2020,63.1
-Australia/South Pacific,Australia,NA,Perth,4,28,2020,60.6
-Australia/South Pacific,Australia,NA,Perth,4,29,2020,59.7
-Australia/South Pacific,Australia,NA,Perth,4,30,2020,58.5
-Australia/South Pacific,Australia,NA,Perth,5,1,2020,64
-Australia/South Pacific,Australia,NA,Perth,5,2,2020,69.5
-Australia/South Pacific,Australia,NA,Perth,5,3,2020,69.8
-Australia/South Pacific,Australia,NA,Perth,5,4,2020,64.6
-Australia/South Pacific,Australia,NA,Perth,5,5,2020,63.3
-Australia/South Pacific,Australia,NA,Perth,5,6,2020,53.6
-Australia/South Pacific,Australia,NA,Perth,5,7,2020,57.6
-Australia/South Pacific,Australia,NA,Perth,5,8,2020,53.1
-Australia/South Pacific,Australia,NA,Perth,5,9,2020,55.2
-Australia/South Pacific,Australia,NA,Perth,5,10,2020,56.9
-Australia/South Pacific,Australia,NA,Perth,5,11,2020,60.5
-Australia/South Pacific,Australia,NA,Perth,5,12,2020,63.1
-Australia/South Pacific,Australia,NA,Perth,5,13,2020,65.9
 Australia/South Pacific,Australia,NA,Sydney,1,1,1995,59.1
 Australia/South Pacific,Australia,NA,Sydney,1,2,1995,64.6
 Australia/South Pacific,Australia,NA,Sydney,1,3,1995,79.1
@@ -38516,14 +37980,14 @@ Australia/South Pacific,Australia,NA,Sydney,12,20,1998,55.1
 Australia/South Pacific,Australia,NA,Sydney,12,21,1998,61.1
 Australia/South Pacific,Australia,NA,Sydney,12,22,1998,63.1
 Australia/South Pacific,Australia,NA,Sydney,12,23,1998,74.9
-Australia/South Pacific,Australia,NA,Sydney,12,24,1998,-99
+Australia/South Pacific,Australia,NA,Sydney,12,24,1998,NA
 Australia/South Pacific,Australia,NA,Sydney,12,25,1998,70.7
 Australia/South Pacific,Australia,NA,Sydney,12,26,1998,52.6
 Australia/South Pacific,Australia,NA,Sydney,12,27,1998,54.9
 Australia/South Pacific,Australia,NA,Sydney,12,28,1998,57.6
 Australia/South Pacific,Australia,NA,Sydney,12,29,1998,61.2
-Australia/South Pacific,Australia,NA,Sydney,12,30,1998,-99
-Australia/South Pacific,Australia,NA,Sydney,12,31,1998,-99
+Australia/South Pacific,Australia,NA,Sydney,12,30,1998,NA
+Australia/South Pacific,Australia,NA,Sydney,12,31,1998,NA
 Australia/South Pacific,Australia,NA,Sydney,1,1,1999,70.1
 Australia/South Pacific,Australia,NA,Sydney,1,2,1999,81.1
 Australia/South Pacific,Australia,NA,Sydney,1,3,1999,66
@@ -38533,7 +37997,7 @@ Australia/South Pacific,Australia,NA,Sydney,1,6,1999,66.6
 Australia/South Pacific,Australia,NA,Sydney,1,7,1999,60.6
 Australia/South Pacific,Australia,NA,Sydney,1,8,1999,65.1
 Australia/South Pacific,Australia,NA,Sydney,1,9,1999,68.5
-Australia/South Pacific,Australia,NA,Sydney,1,10,1999,-99
+Australia/South Pacific,Australia,NA,Sydney,1,10,1999,NA
 Australia/South Pacific,Australia,NA,Sydney,1,11,1999,60.8
 Australia/South Pacific,Australia,NA,Sydney,1,12,1999,62
 Australia/South Pacific,Australia,NA,Sydney,1,13,1999,61.7
@@ -39309,7 +38773,7 @@ Australia/South Pacific,Australia,NA,Sydney,2,20,2001,82.5
 Australia/South Pacific,Australia,NA,Sydney,2,21,2001,72.3
 Australia/South Pacific,Australia,NA,Sydney,2,22,2001,65.4
 Australia/South Pacific,Australia,NA,Sydney,2,23,2001,66.3
-Australia/South Pacific,Australia,NA,Sydney,2,24,2001,-99
+Australia/South Pacific,Australia,NA,Sydney,2,24,2001,NA
 Australia/South Pacific,Australia,NA,Sydney,2,25,2001,62.6
 Australia/South Pacific,Australia,NA,Sydney,2,26,2001,73.1
 Australia/South Pacific,Australia,NA,Sydney,2,27,2001,66.1
@@ -39788,10 +39252,10 @@ Australia/South Pacific,Australia,NA,Sydney,6,14,2002,51.1
 Australia/South Pacific,Australia,NA,Sydney,6,15,2002,53.3
 Australia/South Pacific,Australia,NA,Sydney,6,16,2002,50.3
 Australia/South Pacific,Australia,NA,Sydney,6,17,2002,46
-Australia/South Pacific,Australia,NA,Sydney,6,18,2002,-99
-Australia/South Pacific,Australia,NA,Sydney,6,19,2002,-99
-Australia/South Pacific,Australia,NA,Sydney,6,20,2002,-99
-Australia/South Pacific,Australia,NA,Sydney,6,21,2002,-99
+Australia/South Pacific,Australia,NA,Sydney,6,18,2002,NA
+Australia/South Pacific,Australia,NA,Sydney,6,19,2002,NA
+Australia/South Pacific,Australia,NA,Sydney,6,20,2002,NA
+Australia/South Pacific,Australia,NA,Sydney,6,21,2002,NA
 Australia/South Pacific,Australia,NA,Sydney,6,22,2002,48.1
 Australia/South Pacific,Australia,NA,Sydney,6,23,2002,50.7
 Australia/South Pacific,Australia,NA,Sydney,6,24,2002,52.6
@@ -39869,7 +39333,7 @@ Australia/South Pacific,Australia,NA,Sydney,9,3,2002,58.2
 Australia/South Pacific,Australia,NA,Sydney,9,4,2002,52.3
 Australia/South Pacific,Australia,NA,Sydney,9,5,2002,60.2
 Australia/South Pacific,Australia,NA,Sydney,9,6,2002,56.9
-Australia/South Pacific,Australia,NA,Sydney,9,7,2002,-99
+Australia/South Pacific,Australia,NA,Sydney,9,7,2002,NA
 Australia/South Pacific,Australia,NA,Sydney,9,8,2002,54.4
 Australia/South Pacific,Australia,NA,Sydney,9,9,2002,44.7
 Australia/South Pacific,Australia,NA,Sydney,9,10,2002,46.4
@@ -40044,7 +39508,7 @@ Australia/South Pacific,Australia,NA,Sydney,2,25,2003,67.5
 Australia/South Pacific,Australia,NA,Sydney,2,26,2003,67.2
 Australia/South Pacific,Australia,NA,Sydney,2,27,2003,65.2
 Australia/South Pacific,Australia,NA,Sydney,2,28,2003,57.2
-Australia/South Pacific,Australia,NA,Sydney,3,1,2003,-99
+Australia/South Pacific,Australia,NA,Sydney,3,1,2003,NA
 Australia/South Pacific,Australia,NA,Sydney,3,2,2003,59.1
 Australia/South Pacific,Australia,NA,Sydney,3,3,2003,58.6
 Australia/South Pacific,Australia,NA,Sydney,3,4,2003,59.5
@@ -40250,7 +39714,7 @@ Australia/South Pacific,Australia,NA,Sydney,9,19,2003,50.8
 Australia/South Pacific,Australia,NA,Sydney,9,20,2003,57
 Australia/South Pacific,Australia,NA,Sydney,9,21,2003,53.9
 Australia/South Pacific,Australia,NA,Sydney,9,22,2003,55.7
-Australia/South Pacific,Australia,NA,Sydney,9,23,2003,-99
+Australia/South Pacific,Australia,NA,Sydney,9,23,2003,NA
 Australia/South Pacific,Australia,NA,Sydney,9,24,2003,60
 Australia/South Pacific,Australia,NA,Sydney,9,25,2003,54.4
 Australia/South Pacific,Australia,NA,Sydney,9,26,2003,48
@@ -41685,7 +41149,7 @@ Australia/South Pacific,Australia,NA,Sydney,8,24,2007,56.1
 Australia/South Pacific,Australia,NA,Sydney,8,25,2007,58.2
 Australia/South Pacific,Australia,NA,Sydney,8,26,2007,58.1
 Australia/South Pacific,Australia,NA,Sydney,8,27,2007,64.2
-Australia/South Pacific,Australia,NA,Sydney,8,28,2007,-99
+Australia/South Pacific,Australia,NA,Sydney,8,28,2007,NA
 Australia/South Pacific,Australia,NA,Sydney,8,29,2007,53.7
 Australia/South Pacific,Australia,NA,Sydney,8,30,2007,64.3
 Australia/South Pacific,Australia,NA,Sydney,8,31,2007,47.6
@@ -41853,7 +41317,7 @@ Australia/South Pacific,Australia,NA,Sydney,2,8,2008,56.6
 Australia/South Pacific,Australia,NA,Sydney,2,9,2008,59.5
 Australia/South Pacific,Australia,NA,Sydney,2,10,2008,58.1
 Australia/South Pacific,Australia,NA,Sydney,2,11,2008,65.1
-Australia/South Pacific,Australia,NA,Sydney,2,12,2008,-99
+Australia/South Pacific,Australia,NA,Sydney,2,12,2008,NA
 Australia/South Pacific,Australia,NA,Sydney,2,13,2008,59.3
 Australia/South Pacific,Australia,NA,Sydney,2,14,2008,62.1
 Australia/South Pacific,Australia,NA,Sydney,2,15,2008,65.4
@@ -42041,7 +41505,7 @@ Australia/South Pacific,Australia,NA,Sydney,8,14,2008,49.4
 Australia/South Pacific,Australia,NA,Sydney,8,15,2008,49
 Australia/South Pacific,Australia,NA,Sydney,8,16,2008,45.9
 Australia/South Pacific,Australia,NA,Sydney,8,17,2008,45.6
-Australia/South Pacific,Australia,NA,Sydney,8,18,2008,-99
+Australia/South Pacific,Australia,NA,Sydney,8,18,2008,NA
 Australia/South Pacific,Australia,NA,Sydney,8,19,2008,52.6
 Australia/South Pacific,Australia,NA,Sydney,8,20,2008,50.4
 Australia/South Pacific,Australia,NA,Sydney,8,21,2008,42.7
@@ -42078,7 +41542,7 @@ Australia/South Pacific,Australia,NA,Sydney,9,20,2008,50.6
 Australia/South Pacific,Australia,NA,Sydney,9,21,2008,59.1
 Australia/South Pacific,Australia,NA,Sydney,9,22,2008,50.4
 Australia/South Pacific,Australia,NA,Sydney,9,23,2008,52.2
-Australia/South Pacific,Australia,NA,Sydney,9,24,2008,-99
+Australia/South Pacific,Australia,NA,Sydney,9,24,2008,NA
 Australia/South Pacific,Australia,NA,Sydney,9,25,2008,63
 Australia/South Pacific,Australia,NA,Sydney,9,26,2008,61.9
 Australia/South Pacific,Australia,NA,Sydney,9,27,2008,61.6
@@ -42275,7 +41739,7 @@ Australia/South Pacific,Australia,NA,Sydney,4,5,2009,54.2
 Australia/South Pacific,Australia,NA,Sydney,4,6,2009,54.5
 Australia/South Pacific,Australia,NA,Sydney,4,7,2009,56.8
 Australia/South Pacific,Australia,NA,Sydney,4,8,2009,58.2
-Australia/South Pacific,Australia,NA,Sydney,4,9,2009,-99
+Australia/South Pacific,Australia,NA,Sydney,4,9,2009,NA
 Australia/South Pacific,Australia,NA,Sydney,4,10,2009,59.5
 Australia/South Pacific,Australia,NA,Sydney,4,11,2009,59.7
 Australia/South Pacific,Australia,NA,Sydney,4,12,2009,57.4
@@ -43739,7 +43203,7 @@ Australia/South Pacific,Australia,NA,Sydney,4,8,2013,62.2
 Australia/South Pacific,Australia,NA,Sydney,4,9,2013,60
 Australia/South Pacific,Australia,NA,Sydney,4,10,2013,63.7
 Australia/South Pacific,Australia,NA,Sydney,4,11,2013,56.7
-Australia/South Pacific,Australia,NA,Sydney,4,12,2013,-99
+Australia/South Pacific,Australia,NA,Sydney,4,12,2013,NA
 Australia/South Pacific,Australia,NA,Sydney,4,13,2013,65.5
 Australia/South Pacific,Australia,NA,Sydney,4,14,2013,60.4
 Australia/South Pacific,Australia,NA,Sydney,4,15,2013,54.1
@@ -44039,7 +43503,7 @@ Australia/South Pacific,Australia,NA,Sydney,2,2,2014,89.1
 Australia/South Pacific,Australia,NA,Sydney,2,3,2014,66.5
 Australia/South Pacific,Australia,NA,Sydney,2,4,2014,63.8
 Australia/South Pacific,Australia,NA,Sydney,2,5,2014,72.5
-Australia/South Pacific,Australia,NA,Sydney,2,6,2014,-99
+Australia/South Pacific,Australia,NA,Sydney,2,6,2014,NA
 Australia/South Pacific,Australia,NA,Sydney,2,7,2014,71.2
 Australia/South Pacific,Australia,NA,Sydney,2,8,2014,90.1
 Australia/South Pacific,Australia,NA,Sydney,2,9,2014,71.2
@@ -44732,8 +44196,8 @@ Australia/South Pacific,Australia,NA,Sydney,12,27,2015,59.3
 Australia/South Pacific,Australia,NA,Sydney,12,28,2015,62
 Australia/South Pacific,Australia,NA,Sydney,12,29,2015,65.8
 Australia/South Pacific,Australia,NA,Sydney,12,30,2015,85
-Australia/South Pacific,Australia,NA,Sydney,12,30,2015,-99
-Australia/South Pacific,Australia,NA,Sydney,12,31,2015,-99
+Australia/South Pacific,Australia,NA,Sydney,12,30,2015,NA
+Australia/South Pacific,Australia,NA,Sydney,12,31,2015,NA
 Australia/South Pacific,Australia,NA,Sydney,1,1,2016,68.9
 Australia/South Pacific,Australia,NA,Sydney,1,2,2016,68.9
 Australia/South Pacific,Australia,NA,Sydney,1,3,2016,68.2
@@ -44803,7 +44267,7 @@ Australia/South Pacific,Australia,NA,Sydney,3,6,2016,69.9
 Australia/South Pacific,Australia,NA,Sydney,3,7,2016,69.1
 Australia/South Pacific,Australia,NA,Sydney,3,8,2016,90.2
 Australia/South Pacific,Australia,NA,Sydney,3,9,2016,71.1
-Australia/South Pacific,Australia,NA,Sydney,3,10,2016,-99
+Australia/South Pacific,Australia,NA,Sydney,3,10,2016,NA
 Australia/South Pacific,Australia,NA,Sydney,3,11,2016,72.2
 Australia/South Pacific,Australia,NA,Sydney,3,12,2016,66.4
 Australia/South Pacific,Australia,NA,Sydney,3,13,2016,66.5
@@ -44859,7 +44323,7 @@ Australia/South Pacific,Australia,NA,Sydney,5,1,2016,52.4
 Australia/South Pacific,Australia,NA,Sydney,5,2,2016,57.8
 Australia/South Pacific,Australia,NA,Sydney,5,3,2016,55.3
 Australia/South Pacific,Australia,NA,Sydney,5,4,2016,57.1
-Australia/South Pacific,Australia,NA,Sydney,5,5,2016,-99
+Australia/South Pacific,Australia,NA,Sydney,5,5,2016,NA
 Australia/South Pacific,Australia,NA,Sydney,5,6,2016,63.2
 Australia/South Pacific,Australia,NA,Sydney,5,7,2016,66.3
 Australia/South Pacific,Australia,NA,Sydney,5,8,2016,64
@@ -45049,7 +44513,7 @@ Australia/South Pacific,Australia,NA,Sydney,11,7,2016,59.8
 Australia/South Pacific,Australia,NA,Sydney,11,8,2016,55.7
 Australia/South Pacific,Australia,NA,Sydney,11,9,2016,55.4
 Australia/South Pacific,Australia,NA,Sydney,11,10,2016,53.2
-Australia/South Pacific,Australia,NA,Sydney,11,11,2016,-99
+Australia/South Pacific,Australia,NA,Sydney,11,11,2016,NA
 Australia/South Pacific,Australia,NA,Sydney,11,12,2016,62.3
 Australia/South Pacific,Australia,NA,Sydney,11,13,2016,54.7
 Australia/South Pacific,Australia,NA,Sydney,11,14,2016,54.2
@@ -45468,7 +44932,7 @@ Australia/South Pacific,Australia,NA,Sydney,12,31,2017,65.8
 Australia/South Pacific,Australia,NA,Sydney,1,1,2018,66.7
 Australia/South Pacific,Australia,NA,Sydney,1,2,2018,62.9
 Australia/South Pacific,Australia,NA,Sydney,1,3,2018,62.9
-Australia/South Pacific,Australia,NA,Sydney,1,4,2018,-99
+Australia/South Pacific,Australia,NA,Sydney,1,4,2018,NA
 Australia/South Pacific,Australia,NA,Sydney,1,5,2018,75.5
 Australia/South Pacific,Australia,NA,Sydney,1,6,2018,79.1
 Australia/South Pacific,Australia,NA,Sydney,1,7,2018,64.8
@@ -45782,10 +45246,10 @@ Australia/South Pacific,Australia,NA,Sydney,11,10,2018,58
 Australia/South Pacific,Australia,NA,Sydney,11,11,2018,59.1
 Australia/South Pacific,Australia,NA,Sydney,11,12,2018,76
 Australia/South Pacific,Australia,NA,Sydney,11,13,2018,70.5
-Australia/South Pacific,Australia,NA,Sydney,11,14,2018,-99
-Australia/South Pacific,Australia,NA,Sydney,11,15,2018,-99
+Australia/South Pacific,Australia,NA,Sydney,11,14,2018,NA
+Australia/South Pacific,Australia,NA,Sydney,11,15,2018,NA
 Australia/South Pacific,Australia,NA,Sydney,11,16,2018,57.2
-Australia/South Pacific,Australia,NA,Sydney,11,17,2018,-99
+Australia/South Pacific,Australia,NA,Sydney,11,17,2018,NA
 Australia/South Pacific,Australia,NA,Sydney,11,18,2018,69.4
 Australia/South Pacific,Australia,NA,Sydney,11,19,2018,77.7
 Australia/South Pacific,Australia,NA,Sydney,11,20,2018,63.8
@@ -45852,7 +45316,7 @@ Australia/South Pacific,Australia,NA,Sydney,1,19,2019,65.3
 Australia/South Pacific,Australia,NA,Sydney,1,20,2019,68.1
 Australia/South Pacific,Australia,NA,Sydney,1,21,2019,71.5
 Australia/South Pacific,Australia,NA,Sydney,1,22,2019,73.2
-Australia/South Pacific,Australia,NA,Sydney,1,23,2019,-99
+Australia/South Pacific,Australia,NA,Sydney,1,23,2019,NA
 Australia/South Pacific,Australia,NA,Sydney,1,24,2019,93.8
 Australia/South Pacific,Australia,NA,Sydney,1,25,2019,79.2
 Australia/South Pacific,Australia,NA,Sydney,1,26,2019,70.1
@@ -45943,7 +45407,7 @@ Australia/South Pacific,Australia,NA,Sydney,4,20,2019,73.9
 Australia/South Pacific,Australia,NA,Sydney,4,21,2019,67
 Australia/South Pacific,Australia,NA,Sydney,4,22,2019,55.4
 Australia/South Pacific,Australia,NA,Sydney,4,23,2019,60
-Australia/South Pacific,Australia,NA,Sydney,4,24,2019,-99
+Australia/South Pacific,Australia,NA,Sydney,4,24,2019,NA
 Australia/South Pacific,Australia,NA,Sydney,4,25,2019,60.9
 Australia/South Pacific,Australia,NA,Sydney,4,26,2019,49.9
 Australia/South Pacific,Australia,NA,Sydney,4,27,2019,56.6
@@ -45965,10 +45429,10 @@ Australia/South Pacific,Australia,NA,Sydney,5,12,2019,57
 Australia/South Pacific,Australia,NA,Sydney,5,13,2019,55.2
 Australia/South Pacific,Australia,NA,Sydney,5,14,2019,57.7
 Australia/South Pacific,Australia,NA,Sydney,5,15,2019,52.8
-Australia/South Pacific,Australia,NA,Sydney,5,16,2019,-99
-Australia/South Pacific,Australia,NA,Sydney,5,17,2019,-99
-Australia/South Pacific,Australia,NA,Sydney,5,18,2019,-99
-Australia/South Pacific,Australia,NA,Sydney,5,19,2019,-99
+Australia/South Pacific,Australia,NA,Sydney,5,16,2019,NA
+Australia/South Pacific,Australia,NA,Sydney,5,17,2019,NA
+Australia/South Pacific,Australia,NA,Sydney,5,18,2019,NA
+Australia/South Pacific,Australia,NA,Sydney,5,19,2019,NA
 Australia/South Pacific,Australia,NA,Sydney,5,20,2019,56.5
 Australia/South Pacific,Australia,NA,Sydney,5,21,2019,57.9
 Australia/South Pacific,Australia,NA,Sydney,5,22,2019,59.6
@@ -46195,140 +45659,6 @@ Australia/South Pacific,Australia,NA,Sydney,12,28,2019,74.4
 Australia/South Pacific,Australia,NA,Sydney,12,29,2019,81.1
 Australia/South Pacific,Australia,NA,Sydney,12,30,2019,78.8
 Australia/South Pacific,Australia,NA,Sydney,12,31,2019,60.9
-Australia/South Pacific,Australia,NA,Sydney,1,1,2020,65.3
-Australia/South Pacific,Australia,NA,Sydney,1,2,2020,66
-Australia/South Pacific,Australia,NA,Sydney,1,3,2020,81.7
-Australia/South Pacific,Australia,NA,Sydney,1,4,2020,63.6
-Australia/South Pacific,Australia,NA,Sydney,1,5,2020,55.8
-Australia/South Pacific,Australia,NA,Sydney,1,6,2020,59.4
-Australia/South Pacific,Australia,NA,Sydney,1,7,2020,63.9
-Australia/South Pacific,Australia,NA,Sydney,1,8,2020,68.2
-Australia/South Pacific,Australia,NA,Sydney,1,9,2020,80.6
-Australia/South Pacific,Australia,NA,Sydney,1,10,2020,63.4
-Australia/South Pacific,Australia,NA,Sydney,1,11,2020,62.3
-Australia/South Pacific,Australia,NA,Sydney,1,12,2020,61
-Australia/South Pacific,Australia,NA,Sydney,1,13,2020,76.1
-Australia/South Pacific,Australia,NA,Sydney,1,14,2020,80.4
-Australia/South Pacific,Australia,NA,Sydney,1,15,2020,72.2
-Australia/South Pacific,Australia,NA,Sydney,1,16,2020,58.9
-Australia/South Pacific,Australia,NA,Sydney,1,17,2020,63.5
-Australia/South Pacific,Australia,NA,Sydney,1,18,2020,70.7
-Australia/South Pacific,Australia,NA,Sydney,1,19,2020,70.8
-Australia/South Pacific,Australia,NA,Sydney,1,20,2020,60.9
-Australia/South Pacific,Australia,NA,Sydney,1,21,2020,64.7
-Australia/South Pacific,Australia,NA,Sydney,1,22,2020,69
-Australia/South Pacific,Australia,NA,Sydney,1,23,2020,60.8
-Australia/South Pacific,Australia,NA,Sydney,1,24,2020,64.7
-Australia/South Pacific,Australia,NA,Sydney,1,25,2020,68.2
-Australia/South Pacific,Australia,NA,Sydney,1,26,2020,64.6
-Australia/South Pacific,Australia,NA,Sydney,1,27,2020,62.6
-Australia/South Pacific,Australia,NA,Sydney,1,28,2020,66.4
-Australia/South Pacific,Australia,NA,Sydney,1,29,2020,74.4
-Australia/South Pacific,Australia,NA,Sydney,1,30,2020,88.1
-Australia/South Pacific,Australia,NA,Sydney,1,31,2020,88.4
-Australia/South Pacific,Australia,NA,Sydney,2,1,2020,63.1
-Australia/South Pacific,Australia,NA,Sydney,2,2,2020,63.3
-Australia/South Pacific,Australia,NA,Sydney,2,3,2020,57.8
-Australia/South Pacific,Australia,NA,Sydney,2,4,2020,58.8
-Australia/South Pacific,Australia,NA,Sydney,2,5,2020,61.8
-Australia/South Pacific,Australia,NA,Sydney,2,6,2020,69.4
-Australia/South Pacific,Australia,NA,Sydney,2,7,2020,67.7
-Australia/South Pacific,Australia,NA,Sydney,2,8,2020,72.9
-Australia/South Pacific,Australia,NA,Sydney,2,9,2020,70.2
-Australia/South Pacific,Australia,NA,Sydney,2,10,2020,71
-Australia/South Pacific,Australia,NA,Sydney,2,11,2020,69.7
-Australia/South Pacific,Australia,NA,Sydney,2,12,2020,70.3
-Australia/South Pacific,Australia,NA,Sydney,2,13,2020,76.2
-Australia/South Pacific,Australia,NA,Sydney,2,14,2020,71.8
-Australia/South Pacific,Australia,NA,Sydney,2,15,2020,61.7
-Australia/South Pacific,Australia,NA,Sydney,2,16,2020,65.5
-Australia/South Pacific,Australia,NA,Sydney,2,17,2020,69.9
-Australia/South Pacific,Australia,NA,Sydney,2,18,2020,61.5
-Australia/South Pacific,Australia,NA,Sydney,2,19,2020,58.3
-Australia/South Pacific,Australia,NA,Sydney,2,20,2020,58.2
-Australia/South Pacific,Australia,NA,Sydney,2,21,2020,57.6
-Australia/South Pacific,Australia,NA,Sydney,2,22,2020,60.5
-Australia/South Pacific,Australia,NA,Sydney,2,23,2020,72.5
-Australia/South Pacific,Australia,NA,Sydney,2,24,2020,70
-Australia/South Pacific,Australia,NA,Sydney,2,25,2020,68.7
-Australia/South Pacific,Australia,NA,Sydney,2,26,2020,55
-Australia/South Pacific,Australia,NA,Sydney,2,27,2020,60.3
-Australia/South Pacific,Australia,NA,Sydney,2,28,2020,60.1
-Australia/South Pacific,Australia,NA,Sydney,2,29,2020,63.3
-Australia/South Pacific,Australia,NA,Sydney,3,1,2020,71.1
-Australia/South Pacific,Australia,NA,Sydney,3,2,2020,58.6
-Australia/South Pacific,Australia,NA,Sydney,3,3,2020,59.7
-Australia/South Pacific,Australia,NA,Sydney,3,4,2020,65.3
-Australia/South Pacific,Australia,NA,Sydney,3,5,2020,62
-Australia/South Pacific,Australia,NA,Sydney,3,6,2020,60.1
-Australia/South Pacific,Australia,NA,Sydney,3,7,2020,59.7
-Australia/South Pacific,Australia,NA,Sydney,3,8,2020,59.7
-Australia/South Pacific,Australia,NA,Sydney,3,9,2020,58.1
-Australia/South Pacific,Australia,NA,Sydney,3,10,2020,62.5
-Australia/South Pacific,Australia,NA,Sydney,3,11,2020,74
-Australia/South Pacific,Australia,NA,Sydney,3,12,2020,73.6
-Australia/South Pacific,Australia,NA,Sydney,3,13,2020,61
-Australia/South Pacific,Australia,NA,Sydney,3,14,2020,56.4
-Australia/South Pacific,Australia,NA,Sydney,3,15,2020,56
-Australia/South Pacific,Australia,NA,Sydney,3,16,2020,65.1
-Australia/South Pacific,Australia,NA,Sydney,3,17,2020,72.4
-Australia/South Pacific,Australia,NA,Sydney,3,18,2020,74.1
-Australia/South Pacific,Australia,NA,Sydney,3,19,2020,71.9
-Australia/South Pacific,Australia,NA,Sydney,3,20,2020,61.7
-Australia/South Pacific,Australia,NA,Sydney,3,21,2020,56.9
-Australia/South Pacific,Australia,NA,Sydney,3,22,2020,55.3
-Australia/South Pacific,Australia,NA,Sydney,3,23,2020,53.7
-Australia/South Pacific,Australia,NA,Sydney,3,24,2020,57.5
-Australia/South Pacific,Australia,NA,Sydney,3,25,2020,56.7
-Australia/South Pacific,Australia,NA,Sydney,3,26,2020,57.9
-Australia/South Pacific,Australia,NA,Sydney,3,27,2020,67.4
-Australia/South Pacific,Australia,NA,Sydney,3,28,2020,72.3
-Australia/South Pacific,Australia,NA,Sydney,3,29,2020,64.4
-Australia/South Pacific,Australia,NA,Sydney,3,30,2020,60.4
-Australia/South Pacific,Australia,NA,Sydney,3,31,2020,58.8
-Australia/South Pacific,Australia,NA,Sydney,4,1,2020,65.2
-Australia/South Pacific,Australia,NA,Sydney,4,2,2020,59.9
-Australia/South Pacific,Australia,NA,Sydney,4,3,2020,60.9
-Australia/South Pacific,Australia,NA,Sydney,4,4,2020,50.3
-Australia/South Pacific,Australia,NA,Sydney,4,5,2020,54.4
-Australia/South Pacific,Australia,NA,Sydney,4,6,2020,55.2
-Australia/South Pacific,Australia,NA,Sydney,4,7,2020,54.5
-Australia/South Pacific,Australia,NA,Sydney,4,8,2020,54.7
-Australia/South Pacific,Australia,NA,Sydney,4,9,2020,60
-Australia/South Pacific,Australia,NA,Sydney,4,10,2020,62.6
-Australia/South Pacific,Australia,NA,Sydney,4,11,2020,52.9
-Australia/South Pacific,Australia,NA,Sydney,4,12,2020,53.5
-Australia/South Pacific,Australia,NA,Sydney,4,13,2020,58.1
-Australia/South Pacific,Australia,NA,Sydney,4,14,2020,63.9
-Australia/South Pacific,Australia,NA,Sydney,4,15,2020,66.7
-Australia/South Pacific,Australia,NA,Sydney,4,16,2020,56.6
-Australia/South Pacific,Australia,NA,Sydney,4,17,2020,56.4
-Australia/South Pacific,Australia,NA,Sydney,4,18,2020,53.8
-Australia/South Pacific,Australia,NA,Sydney,4,19,2020,57.7
-Australia/South Pacific,Australia,NA,Sydney,4,20,2020,54.2
-Australia/South Pacific,Australia,NA,Sydney,4,21,2020,58.2
-Australia/South Pacific,Australia,NA,Sydney,4,22,2020,54.8
-Australia/South Pacific,Australia,NA,Sydney,4,23,2020,61.6
-Australia/South Pacific,Australia,NA,Sydney,4,24,2020,59.1
-Australia/South Pacific,Australia,NA,Sydney,4,25,2020,62.4
-Australia/South Pacific,Australia,NA,Sydney,4,26,2020,52
-Australia/South Pacific,Australia,NA,Sydney,4,27,2020,52.7
-Australia/South Pacific,Australia,NA,Sydney,4,28,2020,60
-Australia/South Pacific,Australia,NA,Sydney,4,29,2020,51.3
-Australia/South Pacific,Australia,NA,Sydney,4,30,2020,49.5
-Australia/South Pacific,Australia,NA,Sydney,5,1,2020,49.7
-Australia/South Pacific,Australia,NA,Sydney,5,2,2020,50.1
-Australia/South Pacific,Australia,NA,Sydney,5,3,2020,50.6
-Australia/South Pacific,Australia,NA,Sydney,5,4,2020,50.8
-Australia/South Pacific,Australia,NA,Sydney,5,5,2020,57.2
-Australia/South Pacific,Australia,NA,Sydney,5,6,2020,60.1
-Australia/South Pacific,Australia,NA,Sydney,5,7,2020,60
-Australia/South Pacific,Australia,NA,Sydney,5,8,2020,57.5
-Australia/South Pacific,Australia,NA,Sydney,5,9,2020,46.7
-Australia/South Pacific,Australia,NA,Sydney,5,10,2020,49.2
-Australia/South Pacific,Australia,NA,Sydney,5,11,2020,53.9
-Australia/South Pacific,Australia,NA,Sydney,5,12,2020,52.6
-Australia/South Pacific,Australia,NA,Sydney,5,13,2020,52.9
 Australia/South Pacific,New Zealand,NA,Auckland,1,1,1995,63.6
 Australia/South Pacific,New Zealand,NA,Auckland,1,2,1995,63.8
 Australia/South Pacific,New Zealand,NA,Auckland,1,3,1995,59.2
@@ -46579,7 +45909,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,9,4,1995,55.5
 Australia/South Pacific,New Zealand,NA,Auckland,9,5,1995,59.2
 Australia/South Pacific,New Zealand,NA,Auckland,9,6,1995,57
 Australia/South Pacific,New Zealand,NA,Auckland,9,7,1995,54.5
-Australia/South Pacific,New Zealand,NA,Auckland,9,8,1995,-99
+Australia/South Pacific,New Zealand,NA,Auckland,9,8,1995,NA
 Australia/South Pacific,New Zealand,NA,Auckland,9,9,1995,45.8
 Australia/South Pacific,New Zealand,NA,Auckland,9,10,1995,48.7
 Australia/South Pacific,New Zealand,NA,Auckland,9,11,1995,48.8
@@ -47782,14 +47112,14 @@ Australia/South Pacific,New Zealand,NA,Auckland,12,20,1998,69.7
 Australia/South Pacific,New Zealand,NA,Auckland,12,21,1998,69.3
 Australia/South Pacific,New Zealand,NA,Auckland,12,22,1998,69.6
 Australia/South Pacific,New Zealand,NA,Auckland,12,23,1998,66.1
-Australia/South Pacific,New Zealand,NA,Auckland,12,24,1998,-99
-Australia/South Pacific,New Zealand,NA,Auckland,12,25,1998,-99
+Australia/South Pacific,New Zealand,NA,Auckland,12,24,1998,NA
+Australia/South Pacific,New Zealand,NA,Auckland,12,25,1998,NA
 Australia/South Pacific,New Zealand,NA,Auckland,12,26,1998,65.9
 Australia/South Pacific,New Zealand,NA,Auckland,12,27,1998,66.4
 Australia/South Pacific,New Zealand,NA,Auckland,12,28,1998,68.3
 Australia/South Pacific,New Zealand,NA,Auckland,12,29,1998,68.2
-Australia/South Pacific,New Zealand,NA,Auckland,12,30,1998,-99
-Australia/South Pacific,New Zealand,NA,Auckland,12,31,1998,-99
+Australia/South Pacific,New Zealand,NA,Auckland,12,30,1998,NA
+Australia/South Pacific,New Zealand,NA,Auckland,12,31,1998,NA
 Australia/South Pacific,New Zealand,NA,Auckland,1,1,1999,67.9
 Australia/South Pacific,New Zealand,NA,Auckland,1,2,1999,70
 Australia/South Pacific,New Zealand,NA,Auckland,1,3,1999,70.9
@@ -47799,7 +47129,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,1,6,1999,69.7
 Australia/South Pacific,New Zealand,NA,Auckland,1,7,1999,68.9
 Australia/South Pacific,New Zealand,NA,Auckland,1,8,1999,68.2
 Australia/South Pacific,New Zealand,NA,Auckland,1,9,1999,66.1
-Australia/South Pacific,New Zealand,NA,Auckland,1,10,1999,-99
+Australia/South Pacific,New Zealand,NA,Auckland,1,10,1999,NA
 Australia/South Pacific,New Zealand,NA,Auckland,1,11,1999,69
 Australia/South Pacific,New Zealand,NA,Auckland,1,12,1999,71.9
 Australia/South Pacific,New Zealand,NA,Auckland,1,13,1999,70.1
@@ -48489,7 +47819,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,11,26,2000,60.6
 Australia/South Pacific,New Zealand,NA,Auckland,11,27,2000,58.1
 Australia/South Pacific,New Zealand,NA,Auckland,11,28,2000,57.7
 Australia/South Pacific,New Zealand,NA,Auckland,11,29,2000,59.4
-Australia/South Pacific,New Zealand,NA,Auckland,11,30,2000,-99
+Australia/South Pacific,New Zealand,NA,Auckland,11,30,2000,NA
 Australia/South Pacific,New Zealand,NA,Auckland,12,1,2000,60.8
 Australia/South Pacific,New Zealand,NA,Auckland,12,2,2000,64.3
 Australia/South Pacific,New Zealand,NA,Auckland,12,3,2000,65.2
@@ -48575,7 +47905,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,2,20,2001,73.4
 Australia/South Pacific,New Zealand,NA,Auckland,2,21,2001,71.6
 Australia/South Pacific,New Zealand,NA,Auckland,2,22,2001,71.7
 Australia/South Pacific,New Zealand,NA,Auckland,2,23,2001,65
-Australia/South Pacific,New Zealand,NA,Auckland,2,24,2001,-99
+Australia/South Pacific,New Zealand,NA,Auckland,2,24,2001,NA
 Australia/South Pacific,New Zealand,NA,Auckland,2,25,2001,68.5
 Australia/South Pacific,New Zealand,NA,Auckland,2,26,2001,71.4
 Australia/South Pacific,New Zealand,NA,Auckland,2,27,2001,69.6
@@ -48847,7 +48177,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,11,19,2001,64.6
 Australia/South Pacific,New Zealand,NA,Auckland,11,20,2001,66.4
 Australia/South Pacific,New Zealand,NA,Auckland,11,21,2001,66.2
 Australia/South Pacific,New Zealand,NA,Auckland,11,22,2001,61.5
-Australia/South Pacific,New Zealand,NA,Auckland,11,23,2001,-99
+Australia/South Pacific,New Zealand,NA,Auckland,11,23,2001,NA
 Australia/South Pacific,New Zealand,NA,Auckland,11,24,2001,60.6
 Australia/South Pacific,New Zealand,NA,Auckland,11,25,2001,60.2
 Australia/South Pacific,New Zealand,NA,Auckland,11,26,2001,59.1
@@ -49028,21 +48358,21 @@ Australia/South Pacific,New Zealand,NA,Auckland,5,19,2002,58.2
 Australia/South Pacific,New Zealand,NA,Auckland,5,20,2002,63
 Australia/South Pacific,New Zealand,NA,Auckland,5,21,2002,58.5
 Australia/South Pacific,New Zealand,NA,Auckland,5,22,2002,60.6
-Australia/South Pacific,New Zealand,NA,Auckland,5,23,2002,-99
+Australia/South Pacific,New Zealand,NA,Auckland,5,23,2002,NA
 Australia/South Pacific,New Zealand,NA,Auckland,5,24,2002,55.1
 Australia/South Pacific,New Zealand,NA,Auckland,5,25,2002,55.9
 Australia/South Pacific,New Zealand,NA,Auckland,5,26,2002,55.7
 Australia/South Pacific,New Zealand,NA,Auckland,5,27,2002,55.6
 Australia/South Pacific,New Zealand,NA,Auckland,5,28,2002,53.7
-Australia/South Pacific,New Zealand,NA,Auckland,5,29,2002,-99
+Australia/South Pacific,New Zealand,NA,Auckland,5,29,2002,NA
 Australia/South Pacific,New Zealand,NA,Auckland,5,30,2002,51.3
 Australia/South Pacific,New Zealand,NA,Auckland,5,31,2002,48.9
 Australia/South Pacific,New Zealand,NA,Auckland,6,1,2002,50.8
 Australia/South Pacific,New Zealand,NA,Auckland,6,2,2002,56.1
 Australia/South Pacific,New Zealand,NA,Auckland,6,3,2002,57.7
-Australia/South Pacific,New Zealand,NA,Auckland,6,4,2002,-99
+Australia/South Pacific,New Zealand,NA,Auckland,6,4,2002,NA
 Australia/South Pacific,New Zealand,NA,Auckland,6,5,2002,58.4
-Australia/South Pacific,New Zealand,NA,Auckland,6,6,2002,-99
+Australia/South Pacific,New Zealand,NA,Auckland,6,6,2002,NA
 Australia/South Pacific,New Zealand,NA,Auckland,6,7,2002,57
 Australia/South Pacific,New Zealand,NA,Auckland,6,8,2002,58
 Australia/South Pacific,New Zealand,NA,Auckland,6,9,2002,59.7
@@ -49054,10 +48384,10 @@ Australia/South Pacific,New Zealand,NA,Auckland,6,14,2002,61
 Australia/South Pacific,New Zealand,NA,Auckland,6,15,2002,58
 Australia/South Pacific,New Zealand,NA,Auckland,6,16,2002,50.6
 Australia/South Pacific,New Zealand,NA,Auckland,6,17,2002,61.6
-Australia/South Pacific,New Zealand,NA,Auckland,6,18,2002,-99
-Australia/South Pacific,New Zealand,NA,Auckland,6,19,2002,-99
-Australia/South Pacific,New Zealand,NA,Auckland,6,20,2002,-99
-Australia/South Pacific,New Zealand,NA,Auckland,6,21,2002,-99
+Australia/South Pacific,New Zealand,NA,Auckland,6,18,2002,NA
+Australia/South Pacific,New Zealand,NA,Auckland,6,19,2002,NA
+Australia/South Pacific,New Zealand,NA,Auckland,6,20,2002,NA
+Australia/South Pacific,New Zealand,NA,Auckland,6,21,2002,NA
 Australia/South Pacific,New Zealand,NA,Auckland,6,22,2002,55.5
 Australia/South Pacific,New Zealand,NA,Auckland,6,23,2002,55.2
 Australia/South Pacific,New Zealand,NA,Auckland,6,24,2002,55.7
@@ -49068,14 +48398,14 @@ Australia/South Pacific,New Zealand,NA,Auckland,6,28,2002,58.6
 Australia/South Pacific,New Zealand,NA,Auckland,6,29,2002,56.4
 Australia/South Pacific,New Zealand,NA,Auckland,6,30,2002,53.6
 Australia/South Pacific,New Zealand,NA,Auckland,7,1,2002,53.3
-Australia/South Pacific,New Zealand,NA,Auckland,7,2,2002,-99
+Australia/South Pacific,New Zealand,NA,Auckland,7,2,2002,NA
 Australia/South Pacific,New Zealand,NA,Auckland,7,3,2002,51.1
-Australia/South Pacific,New Zealand,NA,Auckland,7,4,2002,-99
+Australia/South Pacific,New Zealand,NA,Auckland,7,4,2002,NA
 Australia/South Pacific,New Zealand,NA,Auckland,7,5,2002,54
 Australia/South Pacific,New Zealand,NA,Auckland,7,6,2002,58.3
 Australia/South Pacific,New Zealand,NA,Auckland,7,7,2002,52.8
 Australia/South Pacific,New Zealand,NA,Auckland,7,8,2002,50.7
-Australia/South Pacific,New Zealand,NA,Auckland,7,9,2002,-99
+Australia/South Pacific,New Zealand,NA,Auckland,7,9,2002,NA
 Australia/South Pacific,New Zealand,NA,Auckland,7,10,2002,54.1
 Australia/South Pacific,New Zealand,NA,Auckland,7,11,2002,56
 Australia/South Pacific,New Zealand,NA,Auckland,7,12,2002,53.1
@@ -49135,7 +48465,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,9,3,2002,54.4
 Australia/South Pacific,New Zealand,NA,Auckland,9,4,2002,56.3
 Australia/South Pacific,New Zealand,NA,Auckland,9,5,2002,58
 Australia/South Pacific,New Zealand,NA,Auckland,9,6,2002,52.1
-Australia/South Pacific,New Zealand,NA,Auckland,9,7,2002,-99
+Australia/South Pacific,New Zealand,NA,Auckland,9,7,2002,NA
 Australia/South Pacific,New Zealand,NA,Auckland,9,8,2002,59.5
 Australia/South Pacific,New Zealand,NA,Auckland,9,9,2002,57.8
 Australia/South Pacific,New Zealand,NA,Auckland,9,10,2002,60.6
@@ -49171,7 +48501,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,10,9,2002,54.1
 Australia/South Pacific,New Zealand,NA,Auckland,10,10,2002,56.5
 Australia/South Pacific,New Zealand,NA,Auckland,10,11,2002,56.9
 Australia/South Pacific,New Zealand,NA,Auckland,10,12,2002,57.2
-Australia/South Pacific,New Zealand,NA,Auckland,10,13,2002,-99
+Australia/South Pacific,New Zealand,NA,Auckland,10,13,2002,NA
 Australia/South Pacific,New Zealand,NA,Auckland,10,14,2002,50.6
 Australia/South Pacific,New Zealand,NA,Auckland,10,15,2002,55.2
 Australia/South Pacific,New Zealand,NA,Auckland,10,16,2002,58.8
@@ -49184,7 +48514,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,10,22,2002,56.5
 Australia/South Pacific,New Zealand,NA,Auckland,10,23,2002,55.1
 Australia/South Pacific,New Zealand,NA,Auckland,10,24,2002,62
 Australia/South Pacific,New Zealand,NA,Auckland,10,25,2002,58.1
-Australia/South Pacific,New Zealand,NA,Auckland,10,26,2002,-99
+Australia/South Pacific,New Zealand,NA,Auckland,10,26,2002,NA
 Australia/South Pacific,New Zealand,NA,Auckland,10,27,2002,55.2
 Australia/South Pacific,New Zealand,NA,Auckland,10,28,2002,53.3
 Australia/South Pacific,New Zealand,NA,Auckland,10,29,2002,55.6
@@ -49258,7 +48588,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,1,4,2003,69.9
 Australia/South Pacific,New Zealand,NA,Auckland,1,5,2003,69.1
 Australia/South Pacific,New Zealand,NA,Auckland,1,6,2003,65.5
 Australia/South Pacific,New Zealand,NA,Auckland,1,7,2003,66.8
-Australia/South Pacific,New Zealand,NA,Auckland,1,8,2003,-99
+Australia/South Pacific,New Zealand,NA,Auckland,1,8,2003,NA
 Australia/South Pacific,New Zealand,NA,Auckland,1,9,2003,65.7
 Australia/South Pacific,New Zealand,NA,Auckland,1,10,2003,67.6
 Australia/South Pacific,New Zealand,NA,Auckland,1,11,2003,67.1
@@ -49310,7 +48640,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,2,25,2003,66.4
 Australia/South Pacific,New Zealand,NA,Auckland,2,26,2003,65
 Australia/South Pacific,New Zealand,NA,Auckland,2,27,2003,66.5
 Australia/South Pacific,New Zealand,NA,Auckland,2,28,2003,67.7
-Australia/South Pacific,New Zealand,NA,Auckland,3,1,2003,-99
+Australia/South Pacific,New Zealand,NA,Auckland,3,1,2003,NA
 Australia/South Pacific,New Zealand,NA,Auckland,3,2,2003,71.1
 Australia/South Pacific,New Zealand,NA,Auckland,3,3,2003,66.7
 Australia/South Pacific,New Zealand,NA,Auckland,3,4,2003,61.9
@@ -49391,7 +48721,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,5,17,2003,55.3
 Australia/South Pacific,New Zealand,NA,Auckland,5,18,2003,62.3
 Australia/South Pacific,New Zealand,NA,Auckland,5,19,2003,64.9
 Australia/South Pacific,New Zealand,NA,Auckland,5,20,2003,64.4
-Australia/South Pacific,New Zealand,NA,Auckland,5,21,2003,-99
+Australia/South Pacific,New Zealand,NA,Auckland,5,21,2003,NA
 Australia/South Pacific,New Zealand,NA,Auckland,5,22,2003,60.8
 Australia/South Pacific,New Zealand,NA,Auckland,5,23,2003,56.7
 Australia/South Pacific,New Zealand,NA,Auckland,5,24,2003,57.5
@@ -49410,14 +48740,14 @@ Australia/South Pacific,New Zealand,NA,Auckland,6,5,2003,60.9
 Australia/South Pacific,New Zealand,NA,Auckland,6,6,2003,62.1
 Australia/South Pacific,New Zealand,NA,Auckland,6,7,2003,55.8
 Australia/South Pacific,New Zealand,NA,Auckland,6,8,2003,59.6
-Australia/South Pacific,New Zealand,NA,Auckland,6,9,2003,-99
+Australia/South Pacific,New Zealand,NA,Auckland,6,9,2003,NA
 Australia/South Pacific,New Zealand,NA,Auckland,6,10,2003,50.9
 Australia/South Pacific,New Zealand,NA,Auckland,6,11,2003,47.4
 Australia/South Pacific,New Zealand,NA,Auckland,6,12,2003,49.4
 Australia/South Pacific,New Zealand,NA,Auckland,6,13,2003,49.3
 Australia/South Pacific,New Zealand,NA,Auckland,6,14,2003,53.7
 Australia/South Pacific,New Zealand,NA,Auckland,6,15,2003,56.1
-Australia/South Pacific,New Zealand,NA,Auckland,6,16,2003,-99
+Australia/South Pacific,New Zealand,NA,Auckland,6,16,2003,NA
 Australia/South Pacific,New Zealand,NA,Auckland,6,17,2003,55.6
 Australia/South Pacific,New Zealand,NA,Auckland,6,18,2003,55.6
 Australia/South Pacific,New Zealand,NA,Auckland,6,19,2003,53.4
@@ -49441,7 +48771,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,7,6,2003,44.3
 Australia/South Pacific,New Zealand,NA,Auckland,7,7,2003,49.1
 Australia/South Pacific,New Zealand,NA,Auckland,7,8,2003,52
 Australia/South Pacific,New Zealand,NA,Auckland,7,9,2003,52
-Australia/South Pacific,New Zealand,NA,Auckland,7,10,2003,-99
+Australia/South Pacific,New Zealand,NA,Auckland,7,10,2003,NA
 Australia/South Pacific,New Zealand,NA,Auckland,7,11,2003,46.8
 Australia/South Pacific,New Zealand,NA,Auckland,7,12,2003,46.3
 Australia/South Pacific,New Zealand,NA,Auckland,7,13,2003,44.2
@@ -49516,7 +48846,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,9,19,2003,56.6
 Australia/South Pacific,New Zealand,NA,Auckland,9,20,2003,60.1
 Australia/South Pacific,New Zealand,NA,Auckland,9,21,2003,54.6
 Australia/South Pacific,New Zealand,NA,Auckland,9,22,2003,56.6
-Australia/South Pacific,New Zealand,NA,Auckland,9,23,2003,-99
+Australia/South Pacific,New Zealand,NA,Auckland,9,23,2003,NA
 Australia/South Pacific,New Zealand,NA,Auckland,9,24,2003,61.5
 Australia/South Pacific,New Zealand,NA,Auckland,9,25,2003,59.6
 Australia/South Pacific,New Zealand,NA,Auckland,9,26,2003,62.9
@@ -49605,7 +48935,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,12,17,2003,62.5
 Australia/South Pacific,New Zealand,NA,Auckland,12,18,2003,63.9
 Australia/South Pacific,New Zealand,NA,Auckland,12,19,2003,64.8
 Australia/South Pacific,New Zealand,NA,Auckland,12,20,2003,65.5
-Australia/South Pacific,New Zealand,NA,Auckland,12,21,2003,-99
+Australia/South Pacific,New Zealand,NA,Auckland,12,21,2003,NA
 Australia/South Pacific,New Zealand,NA,Auckland,12,22,2003,68.6
 Australia/South Pacific,New Zealand,NA,Auckland,12,23,2003,68.5
 Australia/South Pacific,New Zealand,NA,Auckland,12,24,2003,66
@@ -50951,7 +50281,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,8,24,2007,51.4
 Australia/South Pacific,New Zealand,NA,Auckland,8,25,2007,50.2
 Australia/South Pacific,New Zealand,NA,Auckland,8,26,2007,54
 Australia/South Pacific,New Zealand,NA,Auckland,8,27,2007,58.3
-Australia/South Pacific,New Zealand,NA,Auckland,8,28,2007,-99
+Australia/South Pacific,New Zealand,NA,Auckland,8,28,2007,NA
 Australia/South Pacific,New Zealand,NA,Auckland,8,29,2007,55.8
 Australia/South Pacific,New Zealand,NA,Auckland,8,30,2007,56.2
 Australia/South Pacific,New Zealand,NA,Auckland,8,31,2007,55.5
@@ -51119,7 +50449,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,2,8,2008,66.4
 Australia/South Pacific,New Zealand,NA,Auckland,2,9,2008,71.3
 Australia/South Pacific,New Zealand,NA,Auckland,2,10,2008,68.7
 Australia/South Pacific,New Zealand,NA,Auckland,2,11,2008,67.2
-Australia/South Pacific,New Zealand,NA,Auckland,2,12,2008,-99
+Australia/South Pacific,New Zealand,NA,Auckland,2,12,2008,NA
 Australia/South Pacific,New Zealand,NA,Auckland,2,13,2008,68.8
 Australia/South Pacific,New Zealand,NA,Auckland,2,14,2008,65.8
 Australia/South Pacific,New Zealand,NA,Auckland,2,15,2008,65.1
@@ -51344,7 +50674,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,9,20,2008,54.2
 Australia/South Pacific,New Zealand,NA,Auckland,9,21,2008,58.3
 Australia/South Pacific,New Zealand,NA,Auckland,9,22,2008,57.8
 Australia/South Pacific,New Zealand,NA,Auckland,9,23,2008,59
-Australia/South Pacific,New Zealand,NA,Auckland,9,24,2008,-99
+Australia/South Pacific,New Zealand,NA,Auckland,9,24,2008,NA
 Australia/South Pacific,New Zealand,NA,Auckland,9,25,2008,56.2
 Australia/South Pacific,New Zealand,NA,Auckland,9,26,2008,54.3
 Australia/South Pacific,New Zealand,NA,Auckland,9,27,2008,57.5
@@ -51541,7 +50871,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,4,5,2009,61.3
 Australia/South Pacific,New Zealand,NA,Auckland,4,6,2009,64.7
 Australia/South Pacific,New Zealand,NA,Auckland,4,7,2009,63.6
 Australia/South Pacific,New Zealand,NA,Auckland,4,8,2009,55.9
-Australia/South Pacific,New Zealand,NA,Auckland,4,9,2009,-99
+Australia/South Pacific,New Zealand,NA,Auckland,4,9,2009,NA
 Australia/South Pacific,New Zealand,NA,Auckland,4,10,2009,56.3
 Australia/South Pacific,New Zealand,NA,Auckland,4,11,2009,60.5
 Australia/South Pacific,New Zealand,NA,Auckland,4,12,2009,60.5
@@ -51816,7 +51146,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,1,5,2010,62.2
 Australia/South Pacific,New Zealand,NA,Auckland,1,6,2010,66.4
 Australia/South Pacific,New Zealand,NA,Auckland,1,7,2010,66.4
 Australia/South Pacific,New Zealand,NA,Auckland,1,8,2010,61.7
-Australia/South Pacific,New Zealand,NA,Auckland,1,9,2010,-99
+Australia/South Pacific,New Zealand,NA,Auckland,1,9,2010,NA
 Australia/South Pacific,New Zealand,NA,Auckland,1,10,2010,64.8
 Australia/South Pacific,New Zealand,NA,Auckland,1,11,2010,61
 Australia/South Pacific,New Zealand,NA,Auckland,1,12,2010,64.6
@@ -52886,12 +52216,12 @@ Australia/South Pacific,New Zealand,NA,Auckland,12,10,2012,62.2
 Australia/South Pacific,New Zealand,NA,Auckland,12,11,2012,63.9
 Australia/South Pacific,New Zealand,NA,Auckland,12,12,2012,65.8
 Australia/South Pacific,New Zealand,NA,Auckland,12,13,2012,69
-Australia/South Pacific,New Zealand,NA,Auckland,12,14,2012,-99
-Australia/South Pacific,New Zealand,NA,Auckland,12,15,2012,-99
-Australia/South Pacific,New Zealand,NA,Auckland,12,16,2012,-99
-Australia/South Pacific,New Zealand,NA,Auckland,12,17,2012,-99
-Australia/South Pacific,New Zealand,NA,Auckland,12,18,2012,-99
-Australia/South Pacific,New Zealand,NA,Auckland,12,19,2012,-99
+Australia/South Pacific,New Zealand,NA,Auckland,12,14,2012,NA
+Australia/South Pacific,New Zealand,NA,Auckland,12,15,2012,NA
+Australia/South Pacific,New Zealand,NA,Auckland,12,16,2012,NA
+Australia/South Pacific,New Zealand,NA,Auckland,12,17,2012,NA
+Australia/South Pacific,New Zealand,NA,Auckland,12,18,2012,NA
+Australia/South Pacific,New Zealand,NA,Auckland,12,19,2012,NA
 Australia/South Pacific,New Zealand,NA,Auckland,12,20,2012,68.2
 Australia/South Pacific,New Zealand,NA,Auckland,12,21,2012,70.1
 Australia/South Pacific,New Zealand,NA,Auckland,12,22,2012,70.3
@@ -53305,7 +52635,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,2,2,2014,68.2
 Australia/South Pacific,New Zealand,NA,Auckland,2,3,2014,68
 Australia/South Pacific,New Zealand,NA,Auckland,2,4,2014,67.6
 Australia/South Pacific,New Zealand,NA,Auckland,2,5,2014,68.1
-Australia/South Pacific,New Zealand,NA,Auckland,2,6,2014,-99
+Australia/South Pacific,New Zealand,NA,Auckland,2,6,2014,NA
 Australia/South Pacific,New Zealand,NA,Auckland,2,7,2014,69.3
 Australia/South Pacific,New Zealand,NA,Auckland,2,8,2014,68.7
 Australia/South Pacific,New Zealand,NA,Auckland,2,9,2014,70.1
@@ -53998,8 +53328,8 @@ Australia/South Pacific,New Zealand,NA,Auckland,12,27,2015,66.8
 Australia/South Pacific,New Zealand,NA,Auckland,12,28,2015,66.6
 Australia/South Pacific,New Zealand,NA,Auckland,12,29,2015,67.2
 Australia/South Pacific,New Zealand,NA,Auckland,12,30,2015,68.7
-Australia/South Pacific,New Zealand,NA,Auckland,12,30,2015,-99
-Australia/South Pacific,New Zealand,NA,Auckland,12,31,2015,-99
+Australia/South Pacific,New Zealand,NA,Auckland,12,30,2015,NA
+Australia/South Pacific,New Zealand,NA,Auckland,12,31,2015,NA
 Australia/South Pacific,New Zealand,NA,Auckland,1,1,2016,65.9
 Australia/South Pacific,New Zealand,NA,Auckland,1,2,2016,66.7
 Australia/South Pacific,New Zealand,NA,Auckland,1,3,2016,69
@@ -54069,7 +53399,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,3,6,2016,71.2
 Australia/South Pacific,New Zealand,NA,Auckland,3,7,2016,71.2
 Australia/South Pacific,New Zealand,NA,Auckland,3,8,2016,70.4
 Australia/South Pacific,New Zealand,NA,Auckland,3,9,2016,66.7
-Australia/South Pacific,New Zealand,NA,Auckland,3,10,2016,-99
+Australia/South Pacific,New Zealand,NA,Auckland,3,10,2016,NA
 Australia/South Pacific,New Zealand,NA,Auckland,3,11,2016,64.2
 Australia/South Pacific,New Zealand,NA,Auckland,3,12,2016,63.7
 Australia/South Pacific,New Zealand,NA,Auckland,3,13,2016,64.3
@@ -54125,7 +53455,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,5,1,2016,62.4
 Australia/South Pacific,New Zealand,NA,Auckland,5,2,2016,62.2
 Australia/South Pacific,New Zealand,NA,Auckland,5,3,2016,62.1
 Australia/South Pacific,New Zealand,NA,Auckland,5,4,2016,65.7
-Australia/South Pacific,New Zealand,NA,Auckland,5,5,2016,-99
+Australia/South Pacific,New Zealand,NA,Auckland,5,5,2016,NA
 Australia/South Pacific,New Zealand,NA,Auckland,5,6,2016,60.9
 Australia/South Pacific,New Zealand,NA,Auckland,5,7,2016,60.7
 Australia/South Pacific,New Zealand,NA,Auckland,5,8,2016,59.5
@@ -54264,7 +53594,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,9,17,2016,58.4
 Australia/South Pacific,New Zealand,NA,Auckland,9,18,2016,57.5
 Australia/South Pacific,New Zealand,NA,Auckland,9,19,2016,54.2
 Australia/South Pacific,New Zealand,NA,Auckland,9,20,2016,56.7
-Australia/South Pacific,New Zealand,NA,Auckland,9,21,2016,-99
+Australia/South Pacific,New Zealand,NA,Auckland,9,21,2016,NA
 Australia/South Pacific,New Zealand,NA,Auckland,9,22,2016,59.1
 Australia/South Pacific,New Zealand,NA,Auckland,9,23,2016,60
 Australia/South Pacific,New Zealand,NA,Auckland,9,24,2016,58.2
@@ -54315,7 +53645,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,11,7,2016,58.6
 Australia/South Pacific,New Zealand,NA,Auckland,11,8,2016,61.3
 Australia/South Pacific,New Zealand,NA,Auckland,11,9,2016,62.9
 Australia/South Pacific,New Zealand,NA,Auckland,11,10,2016,63.8
-Australia/South Pacific,New Zealand,NA,Auckland,11,11,2016,-99
+Australia/South Pacific,New Zealand,NA,Auckland,11,11,2016,NA
 Australia/South Pacific,New Zealand,NA,Auckland,11,12,2016,58.7
 Australia/South Pacific,New Zealand,NA,Auckland,11,13,2016,58.3
 Australia/South Pacific,New Zealand,NA,Auckland,11,14,2016,63.8
@@ -54734,7 +54064,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,12,31,2017,69.2
 Australia/South Pacific,New Zealand,NA,Auckland,1,1,2018,69
 Australia/South Pacific,New Zealand,NA,Auckland,1,2,2018,70.8
 Australia/South Pacific,New Zealand,NA,Auckland,1,3,2018,72.5
-Australia/South Pacific,New Zealand,NA,Auckland,1,4,2018,-99
+Australia/South Pacific,New Zealand,NA,Auckland,1,4,2018,NA
 Australia/South Pacific,New Zealand,NA,Auckland,1,5,2018,67.5
 Australia/South Pacific,New Zealand,NA,Auckland,1,6,2018,68.2
 Australia/South Pacific,New Zealand,NA,Auckland,1,7,2018,67.7
@@ -55048,10 +54378,10 @@ Australia/South Pacific,New Zealand,NA,Auckland,11,10,2018,57.7
 Australia/South Pacific,New Zealand,NA,Auckland,11,11,2018,59.6
 Australia/South Pacific,New Zealand,NA,Auckland,11,12,2018,61.1
 Australia/South Pacific,New Zealand,NA,Auckland,11,13,2018,61.3
-Australia/South Pacific,New Zealand,NA,Auckland,11,14,2018,-99
-Australia/South Pacific,New Zealand,NA,Auckland,11,15,2018,-99
+Australia/South Pacific,New Zealand,NA,Auckland,11,14,2018,NA
+Australia/South Pacific,New Zealand,NA,Auckland,11,15,2018,NA
 Australia/South Pacific,New Zealand,NA,Auckland,11,16,2018,62.8
-Australia/South Pacific,New Zealand,NA,Auckland,11,17,2018,-99
+Australia/South Pacific,New Zealand,NA,Auckland,11,17,2018,NA
 Australia/South Pacific,New Zealand,NA,Auckland,11,18,2018,61.9
 Australia/South Pacific,New Zealand,NA,Auckland,11,19,2018,55.1
 Australia/South Pacific,New Zealand,NA,Auckland,11,20,2018,51.4
@@ -55118,7 +54448,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,1,19,2019,71.1
 Australia/South Pacific,New Zealand,NA,Auckland,1,20,2019,68.5
 Australia/South Pacific,New Zealand,NA,Auckland,1,21,2019,68.4
 Australia/South Pacific,New Zealand,NA,Auckland,1,22,2019,68.2
-Australia/South Pacific,New Zealand,NA,Auckland,1,23,2019,-99
+Australia/South Pacific,New Zealand,NA,Auckland,1,23,2019,NA
 Australia/South Pacific,New Zealand,NA,Auckland,1,24,2019,65.8
 Australia/South Pacific,New Zealand,NA,Auckland,1,25,2019,66.1
 Australia/South Pacific,New Zealand,NA,Auckland,1,26,2019,67
@@ -55209,7 +54539,7 @@ Australia/South Pacific,New Zealand,NA,Auckland,4,20,2019,58.8
 Australia/South Pacific,New Zealand,NA,Auckland,4,21,2019,64.2
 Australia/South Pacific,New Zealand,NA,Auckland,4,22,2019,56.2
 Australia/South Pacific,New Zealand,NA,Auckland,4,23,2019,58.3
-Australia/South Pacific,New Zealand,NA,Auckland,4,24,2019,-99
+Australia/South Pacific,New Zealand,NA,Auckland,4,24,2019,NA
 Australia/South Pacific,New Zealand,NA,Auckland,4,25,2019,63.9
 Australia/South Pacific,New Zealand,NA,Auckland,4,26,2019,63.2
 Australia/South Pacific,New Zealand,NA,Auckland,4,27,2019,64
@@ -55231,10 +54561,10 @@ Australia/South Pacific,New Zealand,NA,Auckland,5,12,2019,63.7
 Australia/South Pacific,New Zealand,NA,Auckland,5,13,2019,58.3
 Australia/South Pacific,New Zealand,NA,Auckland,5,14,2019,58.8
 Australia/South Pacific,New Zealand,NA,Auckland,5,15,2019,61.6
-Australia/South Pacific,New Zealand,NA,Auckland,5,16,2019,-99
-Australia/South Pacific,New Zealand,NA,Auckland,5,17,2019,-99
-Australia/South Pacific,New Zealand,NA,Auckland,5,18,2019,-99
-Australia/South Pacific,New Zealand,NA,Auckland,5,19,2019,-99
+Australia/South Pacific,New Zealand,NA,Auckland,5,16,2019,NA
+Australia/South Pacific,New Zealand,NA,Auckland,5,17,2019,NA
+Australia/South Pacific,New Zealand,NA,Auckland,5,18,2019,NA
+Australia/South Pacific,New Zealand,NA,Auckland,5,19,2019,NA
 Australia/South Pacific,New Zealand,NA,Auckland,5,20,2019,58.3
 Australia/South Pacific,New Zealand,NA,Auckland,5,21,2019,57.8
 Australia/South Pacific,New Zealand,NA,Auckland,5,22,2019,56.6
@@ -55461,137 +54791,3 @@ Australia/South Pacific,New Zealand,NA,Auckland,12,28,2019,62.6
 Australia/South Pacific,New Zealand,NA,Auckland,12,29,2019,63.8
 Australia/South Pacific,New Zealand,NA,Auckland,12,30,2019,65.7
 Australia/South Pacific,New Zealand,NA,Auckland,12,31,2019,66.5
-Australia/South Pacific,New Zealand,NA,Auckland,1,1,2020,64.8
-Australia/South Pacific,New Zealand,NA,Auckland,1,2,2020,67.8
-Australia/South Pacific,New Zealand,NA,Auckland,1,3,2020,65.2
-Australia/South Pacific,New Zealand,NA,Auckland,1,4,2020,63.3
-Australia/South Pacific,New Zealand,NA,Auckland,1,5,2020,65.2
-Australia/South Pacific,New Zealand,NA,Auckland,1,6,2020,63.2
-Australia/South Pacific,New Zealand,NA,Auckland,1,7,2020,60.6
-Australia/South Pacific,New Zealand,NA,Auckland,1,8,2020,62.2
-Australia/South Pacific,New Zealand,NA,Auckland,1,9,2020,64.2
-Australia/South Pacific,New Zealand,NA,Auckland,1,10,2020,63.8
-Australia/South Pacific,New Zealand,NA,Auckland,1,11,2020,69.2
-Australia/South Pacific,New Zealand,NA,Auckland,1,12,2020,65.9
-Australia/South Pacific,New Zealand,NA,Auckland,1,13,2020,66
-Australia/South Pacific,New Zealand,NA,Auckland,1,14,2020,62.4
-Australia/South Pacific,New Zealand,NA,Auckland,1,15,2020,66.4
-Australia/South Pacific,New Zealand,NA,Auckland,1,16,2020,66.8
-Australia/South Pacific,New Zealand,NA,Auckland,1,17,2020,66.1
-Australia/South Pacific,New Zealand,NA,Auckland,1,18,2020,66.7
-Australia/South Pacific,New Zealand,NA,Auckland,1,19,2020,68.7
-Australia/South Pacific,New Zealand,NA,Auckland,1,20,2020,69.6
-Australia/South Pacific,New Zealand,NA,Auckland,1,21,2020,67.6
-Australia/South Pacific,New Zealand,NA,Auckland,1,22,2020,66.9
-Australia/South Pacific,New Zealand,NA,Auckland,1,23,2020,70.7
-Australia/South Pacific,New Zealand,NA,Auckland,1,24,2020,70.2
-Australia/South Pacific,New Zealand,NA,Auckland,1,25,2020,70.8
-Australia/South Pacific,New Zealand,NA,Auckland,1,26,2020,69.6
-Australia/South Pacific,New Zealand,NA,Auckland,1,27,2020,71.4
-Australia/South Pacific,New Zealand,NA,Auckland,1,28,2020,71.7
-Australia/South Pacific,New Zealand,NA,Auckland,1,29,2020,72.4
-Australia/South Pacific,New Zealand,NA,Auckland,1,30,2020,72
-Australia/South Pacific,New Zealand,NA,Auckland,1,31,2020,71.2
-Australia/South Pacific,New Zealand,NA,Auckland,2,1,2020,71.7
-Australia/South Pacific,New Zealand,NA,Auckland,2,2,2020,73.2
-Australia/South Pacific,New Zealand,NA,Auckland,2,3,2020,71.8
-Australia/South Pacific,New Zealand,NA,Auckland,2,4,2020,74.2
-Australia/South Pacific,New Zealand,NA,Auckland,2,5,2020,65.2
-Australia/South Pacific,New Zealand,NA,Auckland,2,6,2020,66.9
-Australia/South Pacific,New Zealand,NA,Auckland,2,7,2020,69.5
-Australia/South Pacific,New Zealand,NA,Auckland,2,8,2020,66.7
-Australia/South Pacific,New Zealand,NA,Auckland,2,9,2020,64
-Australia/South Pacific,New Zealand,NA,Auckland,2,10,2020,65.7
-Australia/South Pacific,New Zealand,NA,Auckland,2,11,2020,65.1
-Australia/South Pacific,New Zealand,NA,Auckland,2,12,2020,68.5
-Australia/South Pacific,New Zealand,NA,Auckland,2,13,2020,67.7
-Australia/South Pacific,New Zealand,NA,Auckland,2,14,2020,72
-Australia/South Pacific,New Zealand,NA,Auckland,2,15,2020,70.9
-Australia/South Pacific,New Zealand,NA,Auckland,2,16,2020,72.2
-Australia/South Pacific,New Zealand,NA,Auckland,2,17,2020,73
-Australia/South Pacific,New Zealand,NA,Auckland,2,18,2020,73.3
-Australia/South Pacific,New Zealand,NA,Auckland,2,19,2020,71.4
-Australia/South Pacific,New Zealand,NA,Auckland,2,20,2020,71
-Australia/South Pacific,New Zealand,NA,Auckland,2,21,2020,73.8
-Australia/South Pacific,New Zealand,NA,Auckland,2,22,2020,67
-Australia/South Pacific,New Zealand,NA,Auckland,2,23,2020,64.3
-Australia/South Pacific,New Zealand,NA,Auckland,2,24,2020,66.9
-Australia/South Pacific,New Zealand,NA,Auckland,2,25,2020,67.6
-Australia/South Pacific,New Zealand,NA,Auckland,2,26,2020,69.3
-Australia/South Pacific,New Zealand,NA,Auckland,2,27,2020,70.4
-Australia/South Pacific,New Zealand,NA,Auckland,2,28,2020,71.7
-Australia/South Pacific,New Zealand,NA,Auckland,2,29,2020,69.4
-Australia/South Pacific,New Zealand,NA,Auckland,3,1,2020,72.6
-Australia/South Pacific,New Zealand,NA,Auckland,3,2,2020,70.8
-Australia/South Pacific,New Zealand,NA,Auckland,3,3,2020,73.3
-Australia/South Pacific,New Zealand,NA,Auckland,3,4,2020,67.3
-Australia/South Pacific,New Zealand,NA,Auckland,3,5,2020,65.8
-Australia/South Pacific,New Zealand,NA,Auckland,3,6,2020,66.2
-Australia/South Pacific,New Zealand,NA,Auckland,3,7,2020,66.1
-Australia/South Pacific,New Zealand,NA,Auckland,3,8,2020,69.6
-Australia/South Pacific,New Zealand,NA,Auckland,3,9,2020,68.1
-Australia/South Pacific,New Zealand,NA,Auckland,3,10,2020,65.2
-Australia/South Pacific,New Zealand,NA,Auckland,3,11,2020,65
-Australia/South Pacific,New Zealand,NA,Auckland,3,12,2020,65.1
-Australia/South Pacific,New Zealand,NA,Auckland,3,13,2020,64.1
-Australia/South Pacific,New Zealand,NA,Auckland,3,14,2020,66.6
-Australia/South Pacific,New Zealand,NA,Auckland,3,15,2020,65.1
-Australia/South Pacific,New Zealand,NA,Auckland,3,16,2020,65.5
-Australia/South Pacific,New Zealand,NA,Auckland,3,17,2020,61.4
-Australia/South Pacific,New Zealand,NA,Auckland,3,18,2020,60.4
-Australia/South Pacific,New Zealand,NA,Auckland,3,19,2020,64.5
-Australia/South Pacific,New Zealand,NA,Auckland,3,20,2020,64.6
-Australia/South Pacific,New Zealand,NA,Auckland,3,21,2020,66.2
-Australia/South Pacific,New Zealand,NA,Auckland,3,22,2020,69.3
-Australia/South Pacific,New Zealand,NA,Auckland,3,23,2020,65.8
-Australia/South Pacific,New Zealand,NA,Auckland,3,24,2020,59.5
-Australia/South Pacific,New Zealand,NA,Auckland,3,25,2020,60.7
-Australia/South Pacific,New Zealand,NA,Auckland,3,26,2020,61.9
-Australia/South Pacific,New Zealand,NA,Auckland,3,27,2020,61.7
-Australia/South Pacific,New Zealand,NA,Auckland,3,28,2020,58.4
-Australia/South Pacific,New Zealand,NA,Auckland,3,29,2020,62.2
-Australia/South Pacific,New Zealand,NA,Auckland,3,30,2020,62.7
-Australia/South Pacific,New Zealand,NA,Auckland,3,31,2020,63.3
-Australia/South Pacific,New Zealand,NA,Auckland,4,1,2020,63.3
-Australia/South Pacific,New Zealand,NA,Auckland,4,2,2020,62.8
-Australia/South Pacific,New Zealand,NA,Auckland,4,3,2020,63.3
-Australia/South Pacific,New Zealand,NA,Auckland,4,4,2020,63.7
-Australia/South Pacific,New Zealand,NA,Auckland,4,5,2020,62.4
-Australia/South Pacific,New Zealand,NA,Auckland,4,6,2020,61.6
-Australia/South Pacific,New Zealand,NA,Auckland,4,7,2020,63.2
-Australia/South Pacific,New Zealand,NA,Auckland,4,8,2020,63.7
-Australia/South Pacific,New Zealand,NA,Auckland,4,9,2020,58.6
-Australia/South Pacific,New Zealand,NA,Auckland,4,10,2020,57.3
-Australia/South Pacific,New Zealand,NA,Auckland,4,11,2020,60.6
-Australia/South Pacific,New Zealand,NA,Auckland,4,12,2020,65.6
-Australia/South Pacific,New Zealand,NA,Auckland,4,13,2020,62.7
-Australia/South Pacific,New Zealand,NA,Auckland,4,14,2020,59.5
-Australia/South Pacific,New Zealand,NA,Auckland,4,15,2020,58.8
-Australia/South Pacific,New Zealand,NA,Auckland,4,16,2020,63.5
-Australia/South Pacific,New Zealand,NA,Auckland,4,17,2020,66
-Australia/South Pacific,New Zealand,NA,Auckland,4,18,2020,64.4
-Australia/South Pacific,New Zealand,NA,Auckland,4,19,2020,62.6
-Australia/South Pacific,New Zealand,NA,Auckland,4,20,2020,60.3
-Australia/South Pacific,New Zealand,NA,Auckland,4,21,2020,56.8
-Australia/South Pacific,New Zealand,NA,Auckland,4,22,2020,59.1
-Australia/South Pacific,New Zealand,NA,Auckland,4,23,2020,62.9
-Australia/South Pacific,New Zealand,NA,Auckland,4,24,2020,61
-Australia/South Pacific,New Zealand,NA,Auckland,4,25,2020,61.5
-Australia/South Pacific,New Zealand,NA,Auckland,4,26,2020,57.1
-Australia/South Pacific,New Zealand,NA,Auckland,4,27,2020,62.3
-Australia/South Pacific,New Zealand,NA,Auckland,4,28,2020,57
-Australia/South Pacific,New Zealand,NA,Auckland,4,29,2020,59.5
-Australia/South Pacific,New Zealand,NA,Auckland,4,30,2020,58.1
-Australia/South Pacific,New Zealand,NA,Auckland,5,1,2020,62.5
-Australia/South Pacific,New Zealand,NA,Auckland,5,2,2020,65.3
-Australia/South Pacific,New Zealand,NA,Auckland,5,3,2020,64
-Australia/South Pacific,New Zealand,NA,Auckland,5,4,2020,59.9
-Australia/South Pacific,New Zealand,NA,Auckland,5,5,2020,53.4
-Australia/South Pacific,New Zealand,NA,Auckland,5,6,2020,51
-Australia/South Pacific,New Zealand,NA,Auckland,5,7,2020,59.8
-Australia/South Pacific,New Zealand,NA,Auckland,5,8,2020,57.4
-Australia/South Pacific,New Zealand,NA,Auckland,5,9,2020,58.3
-Australia/South Pacific,New Zealand,NA,Auckland,5,10,2020,60.2
-Australia/South Pacific,New Zealand,NA,Auckland,5,11,2020,58
-Australia/South Pacific,New Zealand,NA,Auckland,5,12,2020,57.7
-Australia/South Pacific,New Zealand,NA,Auckland,5,13,2020,61.2
